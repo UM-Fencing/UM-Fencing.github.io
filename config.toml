@@ -1,0 +1,50 @@
+baseurl = "http://www.umich.edu/~fencing/"
+languageCode = "en-us"
+title = "University of Michigan Fencing Club"
+theme = "bootie-docs"
+copyright = "Copyright (c) 2016 University of Michigan Fencing Club. All rights reserved."
+
+[params]
+  noCategoryLink = true
+  description = "Back-to-back USACFC champions!"
+
+  practicelocation = "the IM Sports Coliseum"
+  
+
+  # No default values
+  [params.practiceTimes]
+    monday = "7-9 pm"
+    wednesday = "5-7 pm"
+    friday = "7-9 pm"
+
+  [params.social]
+    facebook = "UM-Fencing-Club-281456778534451"
+    twitter = "um_fencing"
+
+[[params.mainMenu]]
+  name = "Roster"
+  link = "roster"
+
+[[params.mainMenu]]
+  name = "Schedule"
+  link = "schedule"
+
+[[params.mainMenu]]
+  name = "Results"
+  link = "results"
+
+[[params.mainMenu]]
+  name = "Join"
+  link = "join"
+
+[[params.mainMenu]]
+  name = "About"
+  link = "about"
+
+[[params.mainMenu]]
+  name = "Contact"
+  link = "contact"
+
+[[params.mainMenu]]
+  name = "Donate"
+  link = "donate"
