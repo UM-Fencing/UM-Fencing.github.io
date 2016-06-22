@@ -1,16 +1,21 @@
 {{ $baseUrl := .Site.BaseURL }}
 {{ partial "header.html" . }}
 
+</div> <!-- </container> from header partial -->
+
 <main role="main">
 
 <div class="row">
 	<!-- Main jumbotron for a primary marketing message or call to action -->
 	<div class="jumbotron">
-		<h1>{{ .Site.Title }}</h1>
-		<p>{{ if isset .Site.Params "description" }}{{ .Site.Params.description }}{{ else }}You can customize this text by params "description" in your <code>config.toml</code>.{{ end }}</p>
-	</div>
+        <div class="container">
+            <h1>{{ .Site.Title }}</h1>
+            <p>{{ if isset .Site.Params "description" }}{{ .Site.Params.description }}{{ else }}You can customize this text by params "description" in your <code>config.toml</code>.{{ end }}</p>
+        </div>
+    </div>
 </div>
 
+<div class="container"> <!-- Closed in footer partial -->
 {{ range where .Site.Pages "Title" "_index" }}
 	<div class="row doc-main">
 		{{ .Content }}
