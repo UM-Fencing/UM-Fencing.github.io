@@ -1,11 +1,17 @@
 {{ partial "header.html" . }}
 
+<div class="jumbotron">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+        <p>{{ with .Params.description }}{{ . }}{{ end }}</p>
+    </div>
+</div>
+
+<div class="container">
 <div class="row">
 	<div class="col-sm-8 doc-main">
 		<main role="main">
 			<article>
-				<a id="title"></a>
-				<h1 class="doc-entry-title">{{ .Title }}</h1>
 				<div class="doc-entry-meta">
 					{{ if not .Params.noshowdate }}
 					<span><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time></span>
