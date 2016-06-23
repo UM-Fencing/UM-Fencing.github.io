@@ -11,8 +11,10 @@
 	{{ range .Data.Pages }}
 				<li><a class="doc-entry" href="{{ .RelPermalink }}">
 					<span class="doc-entry-title">{{ .Title }}{{ if .Draft }} #Draft{{ end }}</span>
+					{{ if not .Params.noshowdate }}
 					<span class="doc-entry-meta in-list">
 						(<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time>)
+					{{ end }}
 					</span>
 				</a></li>
 	{{ end }}
