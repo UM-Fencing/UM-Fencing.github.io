@@ -2,7 +2,17 @@
 {{ $url := .Permalink }}
 <div class="col-sm-3 col-sm-offset-1 doc-sidebar">
 	<div id="sidebar">
+	{{ if isset .Site.Params "practiceTimes" }}
 	<div class="sidebar-module">
+            <h4 class="sidebar-heading">Practice</h4>	</div>
+            {{ with .Site.Params.practiceTimes.sunday }}<strong>Sunday</strong>: {{ . }}<br>{{ end }}
+            {{ with .Site.Params.practiceTimes.monday }}<strong>Monday</strong>: {{ . }}<br>{{ end }}
+            {{ with .Site.Params.practiceTimes.tuesday }}<strong>Tuesday</strong>: {{ . }}<br>{{ end }}
+            {{ with .Site.Params.practiceTimes.wednesday }}<strong>Wednesday</strong>: {{ . }}<br>{{ end }}
+            {{ with .Site.Params.practiceTimes.thursday }}<strong>Thursday</strong>: {{ . }}<br>{{ end }}
+            {{ with .Site.Params.practiceTimes.friday }}<strong>Friday</strong>: {{ . }}<br>{{ end }}
+            {{ with .Site.Params.practiceTimes.saturday }}<strong>Saturday</strong>: {{ . }}<br>{{ end }}
+        {{ end }}
 	</div>
 	</div>
 </div><!-- /.doc-sidebar -->
