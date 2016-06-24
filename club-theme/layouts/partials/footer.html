@@ -4,6 +4,7 @@
 </div> <!-- /.container -->
 
 <footer class="doc-footer">
+	{{ partial "social-links.html" . }}
 	{{ with .Site.Copyright | safeHTML }}<p>{{ . }}</p>{{ end }}
 </footer>
 
