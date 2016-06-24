@@ -4,7 +4,7 @@
 </div> <!-- /.container -->
 
 <footer class="doc-footer">
-	{{ with .Site.Copyright }}<p>{{ . }}</p>{{ end }}
+	{{ with .Site.Copyright | safeHTML }}<p>{{ . }}</p>{{ end }}
 </footer>
 
 <script src="{{ $baseUrl }}/js/jquery.min.js"></script>
