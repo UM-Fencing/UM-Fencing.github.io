@@ -1,12 +1,6 @@
 {{ partial "header.html" . }}
 
-<div class="jumbotron">
-    <div class="container">
-        <h1>{{ .Title }}</h1>
-        <p>{{ with .Params.description }}{{ . }}{{ end }}</p>
-    </div>
-</div>
-
+{{ partial "jumbotron.html" . }}
 <div class="container">
 <div class="row">
 	<div class="col-sm-8 doc-main">

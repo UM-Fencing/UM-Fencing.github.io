@@ -3,12 +3,7 @@
 
 <main role="main">
 
-<div class="jumbotron">
-    <div class="container">
-        <h1>{{ .Site.Title }}</h1>
-        <p>{{ if isset .Site.Params "description" }}{{ .Site.Params.description }}{{ else }}You can customize this text by params "description" in your <code>config.toml</code>.{{ end }}</p>
-    </div>
-</div>
+{{ partial "jumbotron.html" . }}
 
 <div class="container">
 <div class="row">
