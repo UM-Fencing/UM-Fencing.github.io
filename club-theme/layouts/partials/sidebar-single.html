@@ -13,6 +13,7 @@
             {{ with .Site.Params.practiceTimes.friday }}<strong>Friday</strong>: {{ . }}<br>{{ end }}
             {{ with .Site.Params.practiceTimes.saturday }}<strong>Saturday</strong>: {{ . }}<br>{{ end }}
         {{ end }}
+        {{ with .Site.Params.practiceLocation }}at {{ . | markdownify }}{{ end }}
 	</div>
 
     {{ if (isset .Site.Params "practiceTimes") and (isset .Site.Params "calendarId") }}
