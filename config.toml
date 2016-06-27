@@ -8,6 +8,9 @@ copyright = "Copyright (c) 2016 University of Michigan Fencing Club. All rights 
   noCategoryLink = true
   description = "Back-to-back USACFC champions!"
 
+  # Google Calendar ID used to embed agenda in sidebar and calendar on Schedule page
+  calendarId = "eub272o1l4u2jvmm9grh0bv074@group.calendar.google.com"
+
   practicelocation = "the IM Sports Coliseum"
   
 
@@ -18,8 +21,11 @@ copyright = "Copyright (c) 2016 University of Michigan Fencing Club. All rights 
     friday = "7-9 pm"
 
   [params.social]
-    facebook = "UM-Fencing-Club-281456778534451"
+    facebook = "umichfencing"
     twitter = "um_fencing"
+    instagram = "umfencing"
+    youtube = "UCLjqnWZsMBiHfeuEXiUSgGQ"
+    community = "https://maizepages.umich.edu/organization/fencing"
 
 [[params.mainMenu]]
   name = "Roster"
