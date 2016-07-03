@@ -145,6 +145,18 @@ ul.doc-list-category > li > ul > li {
   font-style: normal;
 }
 
+.doc-main h1 {
+    padding-top: 20px;
+}
+
+.doc-main h2 {
+    padding-top: 15px;
+}
+
+.doc-main h3 {
+    margin-bottom: 0px;
+}
+
 /* Tables */
 article > section > table {
   border: 1px solid #ddd;
@@ -208,7 +220,7 @@ div#sidebar {
 
 /* Sidebar modules for boxing content */
 .sidebar-module {
-  padding: 0px 15px 5px;
+  padding: 0px 15px 0px;
   margin: 0 -15px 15px;
 }
 .sidebar-heading {
