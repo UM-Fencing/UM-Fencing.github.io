@@ -5,13 +5,13 @@
 	{{ if isset .Site.Params "practiceTimes" }}
 	<div class="sidebar-module">
             <h4 class="sidebar-heading">Practice</h4>	</div>
-            {{ with .Site.Params.practiceTimes.sunday }}<strong>Sunday</strong>: {{ . }}<br>{{ end }}
-            {{ with .Site.Params.practiceTimes.monday }}<strong>Monday</strong>: {{ . }}<br>{{ end }}
-            {{ with .Site.Params.practiceTimes.tuesday }}<strong>Tuesday</strong>: {{ . }}<br>{{ end }}
-            {{ with .Site.Params.practiceTimes.wednesday }}<strong>Wednesday</strong>: {{ . }}<br>{{ end }}
-            {{ with .Site.Params.practiceTimes.thursday }}<strong>Thursday</strong>: {{ . }}<br>{{ end }}
-            {{ with .Site.Params.practiceTimes.friday }}<strong>Friday</strong>: {{ . }}<br>{{ end }}
-            {{ with .Site.Params.practiceTimes.saturday }}<strong>Saturday</strong>: {{ . }}<br>{{ end }}
+            {{ with .Site.Params.practiceTimes.sunday }}<strong>Sundays</strong>: {{ . }}<br>{{ end }}
+            {{ with .Site.Params.practiceTimes.monday }}<strong>Mondays</strong>: {{ . }}<br>{{ end }}
+            {{ with .Site.Params.practiceTimes.tuesday }}<strong>Tuesdays</strong>: {{ . }}<br>{{ end }}
+            {{ with .Site.Params.practiceTimes.wednesday }}<strong>Wednesdays</strong>: {{ . }}<br>{{ end }}
+            {{ with .Site.Params.practiceTimes.thursday }}<strong>Thursdays</strong>: {{ . }}<br>{{ end }}
+            {{ with .Site.Params.practiceTimes.friday }}<strong>Fridays</strong>: {{ . }}<br>{{ end }}
+            {{ with .Site.Params.practiceTimes.saturday }}<strong>Saturdays</strong>: {{ . }}<br>{{ end }}
         {{ end }}
         {{ with .Site.Params.practiceLocation }}at {{ . | markdownify }}{{ end }}
 	</div>
