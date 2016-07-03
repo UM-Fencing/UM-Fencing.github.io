@@ -29,21 +29,20 @@ We'd love to hear from you! If you have a question, you can ask any of our offic
 
 
 # Officers
-
-| Position           | Name                  | Email Address      | Contact About                            |
-|--------------------|-----------------------|--------------------|------------------------------------------|
-| Co-President       | Cary Huang            | caryh@umich.edu    | Organizing Events                        |
-| Co-President       | Nitikorn Dornjandaeng | nitikorn@umich.edu | Practice, General Queries                |
-| Secretary          | Ethan Madison         | ethanmad@umich.edu | Membership, Competition Results, Rosters |
-| Treasurer          | Joyce Xia             | xjoyce@umich.edu   | Dues, Equipment Orders                   |
-| Internal Relations | Ryan Macaloon         | ryanmac@umich.edu  | Organizing Events, Fundraisers           |
-| External Relations | Yimeng Zhao           | zhaoyime@umich.edu | UM Club Sports                           |
+| Position           | Name                  | Email Address                                              | Contact About                            |
+|--------------------|-----------------------|------------------------------------------------------------|------------------------------------------|
+| Co-President       | Cary Huang            | <a href="mailto:caryh@umich.edu">caryh@umich.edu</a>       | Organizing Events                        |
+| Co-President       | Nitikorn Dornjandaeng | <a href="mailto:nitikorn@umich.edu">nitikorn@umich.edu</a> | Practice, General Queries                |
+| Secretary          | Ethan Madison         | <a href="mailto:ethanmad@umich.edu">ethanmad@umich.edu</a> | Membership, Competition Results, Rosters |
+| Treasurer          | Joyce Xia             | <a href="mailto:xjoyce@umich.edu">xjoyce@umich.edu</a>     | Dues, Equipment Orders                   |
+| Internal Relations | Ryan Macaloon         | <a href="mailto:ryanmac@umich.edu">ryanmac@umich.edu</a>   | Organizing Events, Fundraisers           |
+| External Relations | Yimeng Zhao           | <a href="mailto:zhaoyime@umich.edu">zhaoyime@umich.edu</a> | UM Club Sports                           |
 
 # Other Positions
-| Position                  | Name          | Email Address           | Contact About              |
-|---------------------------|---------------|-------------------------|----------------------------|
-| National Alumni Relations | Sarah Hanchar | sarah.hanchar@gmail.com | Alumni Inquiries           |
-| Local Alumni Relations    | Andrew Aitken | aitkenawa@gmail.com     | Alumni Events              |
-| Webmaster                 | Ethan Madison | ethanmad@umich.edu      | Website Comments/Questions |
-| USFA Liaison              | Emmie Grody   | egrody@umich.edu        | USFA                       |
-| Armorer                   | Cary Huang    | caryh@umich.edu         | Weapon Repair              |
+| Position                  | Name          | Email Address                                                        | Contact About              |
+|---------------------------|---------------|----------------------------------------------------------------------|----------------------------|
+| National Alumni Relations | Sarah Hanchar | <a href="mailto:sarah.hanchar@gmail.com">sarah.hanchar@gmail.com</a> | Alumni Inquiries           |
+| Local Alumni Relations    | Andrew Aitken | <a href="mailto:aitkenawa@gmail.com">aitkenawa@gmail.com</a>         | Alumni Events              |
+| Webmaster                 | Ethan Madison | <a href="mailto:ethanmad@umich.edu">ethanmad@umich.edu</a>           | Website                    |
+| USFA Liaison              | Emmie Grody   | <a href="mailto:egrody@umich.edu">egrody@umich.edu</a>               | USFA                       |
+| Armorer                   | Cary Huang    | <a href="mailto:caryh@umich.edu">caryh@umich.edu</a>                 | Weapon Repair              |
