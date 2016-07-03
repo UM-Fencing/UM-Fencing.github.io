@@ -12,14 +12,14 @@ We'd love to hear from you! If you have a question, you can ask any of our offic
     <div class="row">
 
 <div class="col-md-6">
-<div class="well">
+<div class="alert alert-info" role="alert">
     Have general inquiry questions?
-    Email us at <a href=mailto:fencingofficers15@umich.edu>fencingofficers15@umich.edu</a>.
+    Email us at <a href="mailto:fencingofficers15@umich.edu" class="alert-link">fencingofficers15@umich.edu</a>.
 </div>
 </div>
 
 <div class="col-md-6">
-<div class="well">
+<div class="alert alert-info" role="alert">
     We can answer any questions you have in person!
     Stop by during any practice and we'll take care of you.
 </div>
