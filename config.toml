@@ -44,8 +44,8 @@ copyright = "(c) 2016 University of Michigan Fencing Club"
   link = "join"
 
 [[params.mainMenu]]
-  name = "About"
-  link = "about"
+  name = "About Fencing"
+  link = "about-fencing"
 
 [[params.mainMenu]]
   name = "Contact"
