@@ -4,18 +4,16 @@
 <div class="container">
 <div class="row">
 	<div class="col-sm-8 doc-main">
-		<main role="main">
-			<article>
-				<div class="doc-entry-meta">
-					{{ if not .Params.noshowdate }}
-					<span><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time></span>
-					{{ end }}
-				</div>
-				<section>
-					{{ .Content }}
-				</section>
-			</article>
-		</main>
+        <article>
+            <div class="doc-entry-meta">
+                {{ if not .Params.noshowdate }}
+                    <span><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time></span>
+                {{ end }}
+            </div>
+            <section>
+                {{ .Content }}
+            </section>
+        </article>
 	</div> <!-- /.doc-main -->
 
 	{{ partial "sidebar-single.html" . }}
