@@ -4,7 +4,7 @@
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #555;
+  color: #444;
 }
 
 h1, .h1,
@@ -102,7 +102,7 @@ div.doc-search-form {
  */
 
 .doc-main {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
 }
 
@@ -138,10 +138,10 @@ span.doc-list-category {
   background-color: #f5f5ff;
 }
 ul.doc-list-category > li {
-  font-size: 20px;
+  font-size: 16px;;
 }
 ul.doc-list-category > li > ul > li {
-  font-size: 18px;
+  font-size: 14px;
   font-style: normal;
 }
 
