@@ -2,7 +2,7 @@ baseurl = "http://www.umich.edu/~fencing/"
 languageCode = "en-us"
 title = "University of Michigan Fencing Club"
 theme = "bootie-docs"
-copyright = "Copyright (c) 2016 University of Michigan Fencing Club. All rights reserved."
+copyright = "(c) 2016 University of Michigan Fencing Club"
 
 [params]
   noCategoryLink = true
