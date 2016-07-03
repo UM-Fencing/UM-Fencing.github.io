@@ -15,13 +15,14 @@ h5, .h5,
 h6, .h6 {
   margin-top: 0;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
   color: #333;
 }
 
 h1, .h1,
 h2, .h2 {
   border-bottom: 1px solid #eee;
+  margin-bottom: 15px;
 }
 
 /* Override Bootstrap's style not to break line in code blocks */
@@ -147,6 +148,7 @@ ul.doc-list-category > li > ul > li {
 
 .doc-main h1 {
     padding-top: 20px;
+    border-bottom: 1px solid #ddd;
 }
 
 .doc-main h2 {
