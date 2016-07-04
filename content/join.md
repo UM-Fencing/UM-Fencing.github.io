@@ -16,7 +16,7 @@ If you cannot attend the Mass Meeting, simply attend any practice.
 # What to Wear
 Normal gym attire is acceptable.
 Foil and sabre fencers usually wear shorts.
-Epee fencers prefer to wear pants for added protection since the legs are a target area.
+Epee fencers must wear pants or knickers with socks for added protection since the legs are target area.
 
 # Dues
 Dues are paid per semester and cost $100 for returning members and $75 for first time members.
