@@ -8,6 +8,7 @@ copyright = "(c) 2016 University of Michigan Fencing Club"
   noCategoryLink = true
   description = "Back-to-back USACFC champions!"
   image = "img/2016cfcawards.jpg"
+  themeColor = "#003e78"
 
   # Google Calendar ID used to embed agenda in sidebar and calendar on Schedule page
   calendarId = "eub272o1l4u2jvmm9grh0bv074@group.calendar.google.com"
