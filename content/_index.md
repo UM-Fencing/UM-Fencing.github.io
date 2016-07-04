@@ -29,4 +29,4 @@ We strongly recommend workout clothing and sneakers.
 The club will provide equipment, although feel free to bring your own.
 After reading all of this, there is only one question that remains:
 
-**Are you down to fence?**
+### Are you down to fence?
