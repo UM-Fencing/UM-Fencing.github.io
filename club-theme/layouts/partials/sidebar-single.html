@@ -2,28 +2,29 @@
 {{ $url := .Permalink }}
 <div class="col-sm-3 col-sm-offset-1 doc-sidebar">
 	<div id="sidebar">
-	{{ if isset .Site.Params "practiceTimes" }}
-	<div class="sidebar-module">
-            <h4 class="sidebar-heading">Practice</h4>	</div>
-            {{ with .Site.Params.practiceTimes.sunday }}<strong>Sundays</strong>: {{ . }}<br>{{ end }}
-            {{ with .Site.Params.practiceTimes.monday }}<strong>Mondays</strong>: {{ . }}<br>{{ end }}
-            {{ with .Site.Params.practiceTimes.tuesday }}<strong>Tuesdays</strong>: {{ . }}<br>{{ end }}
-            {{ with .Site.Params.practiceTimes.wednesday }}<strong>Wednesdays</strong>: {{ . }}<br>{{ end }}
-            {{ with .Site.Params.practiceTimes.thursday }}<strong>Thursdays</strong>: {{ . }}<br>{{ end }}
-            {{ with .Site.Params.practiceTimes.friday }}<strong>Fridays</strong>: {{ . }}<br>{{ end }}
-            {{ with .Site.Params.practiceTimes.saturday }}<strong>Saturdays</strong>: {{ . }}<br>{{ end }}
+        {{ if isset .Site.Params "practiceTimes" }}
+            <div class="sidebar-module">
+                    <h4 class="sidebar-heading">Practice</h4>
+                    {{ with .Site.Params.practiceTimes.sunday }}<strong>Sundays</strong>: {{ . }}<br>{{ end }}
+                    {{ with .Site.Params.practiceTimes.monday }}<strong>Mondays</strong>: {{ . }}<br>{{ end }}
+                    {{ with .Site.Params.practiceTimes.tuesday }}<strong>Tuesdays</strong>: {{ . }}<br>{{ end }}
+                    {{ with .Site.Params.practiceTimes.wednesday }}<strong>Wednesdays</strong>: {{ . }}<br>{{ end }}
+                    {{ with .Site.Params.practiceTimes.thursday }}<strong>Thursdays</strong>: {{ . }}<br>{{ end }}
+                    {{ with .Site.Params.practiceTimes.friday }}<strong>Fridays</strong>: {{ . }}<br>{{ end }}
+                    {{ with .Site.Params.practiceTimes.saturday }}<strong>Saturdays</strong>: {{ . }}<br>{{ end }}
+                {{ with .Site.Params.practiceLocation }}at {{ . | markdownify }}{{ end }}
+            </div>
         {{ end }}
-        {{ with .Site.Params.practiceLocation }}at {{ . | markdownify }}{{ end }}
-	</div>
 
     {{ if (isset .Site.Params "practiceTimes") and (isset .Site.Params "calendarId") }}
     <br><br>
     {{ end }}
+        {{ with .Site.Params.calendarId }}
+            <div class="sidebar-module">
+                <h4 class="sidebar-heading">Calendar</h4>
+                <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src={{ . }}&amp;color=%232952A3&amp;ctz=America%2FNew_York" style="border-width:0" width="100%" height="300" frameborder="0" scrolling="no"></iframe>
+            </div>
+        {{ end }}
 
-    {{ with .Site.Params.calendarId }}
-    <div class="sidebar-module">
-        <h4 class="sidebar-heading">Calendar</h4>   </div>
-        <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src={{ . }}&amp;color=%232952A3&amp;ctz=America%2FNew_York" style="border-width:0" width="270" height="300" frameborder="0" scrolling="no"></iframe>
-    {{ end }}
 	</div>
 </div><!-- /.doc-sidebar -->
