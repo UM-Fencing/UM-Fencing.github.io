@@ -1,6 +1,6 @@
 {{ $isHomePage := eq .Title .Site.Title }}
 
-<div class="jumbotron">
+<div class="jumbotron" style="background-image: url({{ if $isHomePage }}{{ with .Site.Params.image }}{{ . }}{{ end }}{{ else }}{{ with .Params.image }}{{ . }}{{ end }}{{ end }})">
     <div class="container">
         <h1>{{ if $isHomePage }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}</h1>
         <p>{{ if $isHomePage }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ else }}{{ with .Params.description }}{{ . }}{{ end }}{{ end }}</p>
