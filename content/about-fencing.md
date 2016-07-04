@@ -13,19 +13,19 @@ All official tournaments are conducted using electric scoring systems. The fence
 
 # Weapons
 
-## [Epee](https://en.wikipedia.org/wiki/%C3%89p%C3%A9e)
+## <a target="_blank" href="https://en.wikipedia.org/wiki/%C3%89p%C3%A9e">Epee</a>
 The epee (pronounced "EPP-pay"), descendant of the original dueling sword, has a 90 centimeters long and stiff blade with a large guard to protect the hand, typically weighs around 500 grams.
 Points are scored by depressing the tip on any part of the opponent's body.
 Right-of-way has no bearing on the points awarded, so any hit against an opponent results in a touch awarded.
 
-## [Foil](https://en.wikipedia.org/wiki/Foil_(fencing))
+## <a target="_blank" href="https://en.wikipedia.org/wiki/Foil_(fencing)">Foil</a>
 The foil has a flexible rectangular blade, 90 centimeters long, and typically weighs about 350 grams.
 Points are scored by depressing the tip of the blade on the torso of your opponent's body.
 The foil fencer's uniform includes a metallic vest (called a lame) which covers the valid target area.
 A touch landing outside the valid target area (that which is not covered by the lame) is indicated by a white light on the scoring machine.
 These "off target" hits do not count in the scoring, but they do stop the fencing action temporarily.
 
-## [Saber](https://en.wikipedia.org/wiki/Sabre_(fencing))
+## <a target="_blank" href="https://en.wikipedia.org/wiki/Sabre_(fencing)">Saber</a>
 The modern saber is descended from the classical northern Italian dueling saber, which is a lighter weapon than the slashing cavalry sword.
 Its blade is 88 cm long, and it weighs about 400 grams.
 The saber is a cutting weapon as well as a thrusting weapon.
