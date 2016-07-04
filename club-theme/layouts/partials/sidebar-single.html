@@ -23,5 +23,10 @@
             </div>
         {{ end }}
 
+        {{ with .Site.Params.social.twitter }}
+            <div class="sidebar-module">
+                <a class="twitter-timeline" data-height="400" data-dnt="true" href="https://twitter.com/{{ . }}"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+        {{ end }}
 	</div>
 </div><!-- /.doc-sidebar -->
