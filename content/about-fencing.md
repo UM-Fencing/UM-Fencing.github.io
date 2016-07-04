@@ -4,6 +4,7 @@ date = "2016-06-28T14:07:29-07:00"
 tags = ["document"]
 title = "About Fencing"
 noshowdate = true
+image = "../img/about.jpg"
 +++
 
 The sport of fencing has three weapons: foil, epee and saber. The object of a fencing bout (what an individual "game" is called) is to land a specified number of touches on your opponent before he/she scores that number on you. Each bout is officiated by a referee called a director.

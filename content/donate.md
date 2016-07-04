@@ -4,6 +4,7 @@ date = "2016-06-28T14:49:10-07:00"
 tags = ["document"]
 title = "Donate"
 noshowdate = true
+image = "../img/formal2016.jpg"
 +++
 
 The University of Michigan Fencing Club is excited about the upcoming season. We are not only eager to win the Club Fencing Championships, but we want everyone on campus to have the opportunity to join our club, learn how to fence, and take fencing with them for the rest of their lives.

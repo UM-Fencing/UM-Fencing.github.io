@@ -4,6 +4,7 @@ date = "2016-06-24T14:34:02-07:00"
 tags = ["document"]
 title = "Schedule"
 noshowdate = true
+image = "../img/MEpeeSquad.jpg"
 
 +++
 

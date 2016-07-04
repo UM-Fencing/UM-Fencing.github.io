@@ -2,9 +2,9 @@
 categories = ["general"]
 tags = ["document"]
 title = "Roster"
-description = "Our team"
+description = "The 2016-2017 team"
 noshowdate = true
-
+image = "../img/team2015-2016.jpg"
 +++
 
 # Men's Team

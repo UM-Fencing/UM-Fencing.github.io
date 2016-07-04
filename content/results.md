@@ -4,6 +4,7 @@ date = "2016-06-28T14:57:23-07:00"
 tags = ["document"]
 title = "Results"
 noshowdate = true
+image = "../img/seniors2016cfcs.jpg"
 +++
 
 # 2015-2016 Competition Results
