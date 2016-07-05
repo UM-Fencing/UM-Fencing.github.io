@@ -1,7 +1,7 @@
-baseurl = "http://www.umich.edu/~fencing/"
+baseurl = "http://umich.edu/~fencing"
 languageCode = "en-us"
 title = "University of Michigan Fencing Club"
-theme = "bootie-docs"
+theme = "club-theme"
 copyright = "(c) 2016 University of Michigan Fencing Club"
 
 [params]
