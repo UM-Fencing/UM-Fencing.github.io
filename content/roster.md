@@ -48,7 +48,7 @@ image = "../img/team2015-2016.jpg"
 | Elizabeth John       | Epee                         | SO        | Jericho, NY            |
 | Rebecca Martin       | Epee                         | JR        | St. Louis, MO          |
 | Joyce Xia            | Epee                         | JR        | New York, NY           |
-| Gloria Choi          | Foil                         | SO        | Northvill, MI          |
+| Gloria Choi          | Foil                         | SO        | Northville, MI          |
 | Isabelle Huang       | Foil                         | SO        | Troy, MI               |
 | Katherine Qiao       | Foil                         | SO        | Troy, MI               |
 | Yimeng Zhao          | Foil                         | JR        | Rochester Hills, MI    |

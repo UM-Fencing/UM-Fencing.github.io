@@ -35,7 +35,7 @@ We'd love to hear from you! If you have a question, you can ask any of our offic
 | Co-President       | Nitikorn Dornjandaeng | <a href="mailto:nitikorn@umich.edu">nitikorn@umich.edu</a> | Practice, General Queries                |
 | Secretary          | Ethan Madison         | <a href="mailto:ethanmad@umich.edu">ethanmad@umich.edu</a> | Membership, Competition Results, Rosters |
 | Treasurer          | Joyce Xia             | <a href="mailto:xjoyce@umich.edu">xjoyce@umich.edu</a>     | Dues, Equipment Orders                   |
-| Internal Relations | Ryan Macaloon         | <a href="mailto:ryanmac@umich.edu">ryanmac@umich.edu</a>   | Organizing Events, Fundraisers           |
+| Internal Relations | Ryan MacAloon         | <a href="mailto:ryanmac@umich.edu">ryanmac@umich.edu</a>   | Organizing Events, Fundraisers           |
 | External Relations | Yimeng Zhao           | <a href="mailto:zhaoyime@umich.edu">zhaoyime@umich.edu</a> | UM Club Sports                           |
 
 # Other Positions
