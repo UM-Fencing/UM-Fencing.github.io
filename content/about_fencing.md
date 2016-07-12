@@ -7,10 +7,15 @@ noshowdate = true
 image = "../img/about.jpg"
 +++
 
-The sport of fencing has three weapons: foil, epee and saber. The object of a fencing bout (what an individual "game" is called) is to land a specified number of touches on your opponent before he/she scores that number on you. Each bout is officiated by a referee called a director.
+The sport of fencing has three weapons: foil, epee and saber.
+The object of a fencing bout (what an individual "game" is called) is to land a specified number of touches on your opponent before he/she scores that number on you.
+Each bout is officiated by a referee called a director.
 
 # Electric Scoring
-All official tournaments are conducted using electric scoring systems. The fencers connect themselves, their blades, and their metal jackets (lames) to a retractable cord (reel), which plugs in to a scoring machine (pictured left). The machine shows a light for each fencer who successfully scores a touch on his or her opponent. The director then describes the action and awards points based on right-of-way.
+All official tournaments are conducted using electric scoring systems.
+The fencers connect themselves, their blades, and their metal jackets (lames) to a retractable cord (reel), which plugs in to a scoring machine (pictured left).
+The machine shows a light for each fencer who successfully scores a touch on his or her opponent.
+The director then describes the action and awards points based on right-of-way.
 
 # Weapons
 
