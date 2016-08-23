@@ -8,7 +8,7 @@ image = "../img/formal2016.jpg"
 +++
 
 The University of Michigan Fencing Club is excited about the upcoming season.
-We are not only eager to win the Club Fencing Championships, but we want everyone on campus to have the opportunity to join our club, learn how to fence, and take fencing with them for the rest of their lives.
+We are not only eager to defend our title as the USACFC national champions, but we want everyone on campus to have the opportunity to join our club, learn how to fence, and take fencing with them for the rest of their lives.
 
 One of our top priorities is investing in the future to create a growing and sustainable organization.
 With your help we can continue to compete at the highest level while offering the beginning of a lifelong experience for UofM students.
