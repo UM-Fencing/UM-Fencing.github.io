@@ -9,6 +9,8 @@ image = "../img/seniors2016cfcs.jpg"
 
 # 2015-2016 Competition Results
 
+<a name="usacfc2016">
+</a>
 ## USACFC College Fencing National Championships <small>at Brown University</small>
 
 ### Team Results
@@ -20,14 +22,22 @@ image = "../img/seniors2016cfcs.jpg"
 <tr><td><strong>Men's Saber:</strong></td><td>1<sup>st</sup></td>				<td><strong>Women's Saber:</strong></td><td>4<sup>th</sup></td></tr>
 </tbody></table>
 
+See the [combined team results](http://www.usacfc.org/files/USACFC-2016-FINAL-RESULTS.pdf) and the [squad bracket results](http://umdfencing.com/usacfc2016/results.php) for more details.
+
 ### Individual Results
- - **David Howes**: 2<sup>nd</sup>, Men's Epee Individual
- - **Ethan Madison**: 6<sup>th</sup>, Men's Epee Individual
- - **David Cichoki**: 2<sup>nd</sup> Men's Saber Individual
- - **Nick Carothers**: 5<sup>th</sup>, Men's Saber Individual
- - **Joyce Xia**: 6<sup>th</sup>, Women's Epee Individual
- - **Jinny Jung**: 5<sup>th</sup>, Women's Foil Individual
- - **Irina Klissourova**: 8<sup>th</sup>, Women's Foil Individual
+ - **David Howes**: 2<sup>nd</sup>, [Men's Epee Individual][usacfc2016 IME]
+ - **Ethan Madison**: 6<sup>th</sup>, [Men's Epee Individual][usacfc2016 IME]
+ - **David Cichoki**: 2<sup>nd</sup>, [Men's Saber Individual][usacfc2016 IMS]
+ - **Nick Carothers**: 5<sup>th</sup>, [Men's Saber Individual][usacfc2016 IMS]
+ - **Joyce Xia**: 6<sup>th</sup>, [Women's Epee Individual][usacfc2016 IWE]
+ - **Jinny Jung**: 5<sup>th</sup>, [Women's Foil Individual][usacfc2016 IWF]
+ - **Irina Klissourova**: 8<sup>th</sup>, [Women's Foil Individual][usacfc2016 IWF]
+
+
+  [usacfc2016 IME]: http://www.usacfc.org/files/2016-MensEpee.html
+  [usacfc2016 IMS]: http://www.usacfc.org/files/2016-MensSaber.html
+  [usacfc2016 IWE]: http://www.usacfc.org/files/2016-WomensEpee.html
+  [usacfc2016 IWF]: http://www.usacfc.org/files/2016-WomensFoil.html
 
 ## Midwest Fencing Conference Championships <small>at Ohio State University</small>
 ### Team Results
