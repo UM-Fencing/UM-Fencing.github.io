@@ -2,6 +2,15 @@
 title = "_index"
 +++
 
+<div class="alert alert-warning">
+    The University of Michigan Fencing Club has been <a href="http://www.usfencing.org/news_article/show/661645?referrer_id=708436" class="alert-link">selected as the USA Fencing 2016 Collegiate Club of Excellence</a>
+</div>
+
+<div class="alert alert-info">
+    We are once again the <a href="results#usacfc2016" class="alert-link">USACFC champions</a>!
+    Two years in a row!
+</div>
+
 Welcome to the homepage of the University of Michigan Fencing Club!
 We are always accepting new members.
 Become a part of one of the top club fencing teams in the United States!
