@@ -73,6 +73,18 @@ See the [combined team results](http://www.usacfc.org/files/USACFC-2016-FINAL-RE
 <tr><td><strong>Michigan: 16</strong></td><td>Michigan State: 11</td>               <td><strong>Michigan: 22</strong></td><td>Michigan State: 5</td></tr>
 </tbody></table>
 
+## Deciccio Duals <small>at Notre Dame</small>
+<table class="table table-striped"><tbody>
+<tr><td colspan="2"><h4 align="Center"><strong>Men's Team</strong> (6-1)</h4></td>  <td colspan="2"><h4 align="Center"><strong>Women's Team</strong> (6-1)</h4></td></tr>
+<tr><td><strong>Michigan: 24</strong></td><td>Oakland: 3</td>              	    <td><strong>Michigan: 23</strong></td><td>Oakland: 4</td></tr>
+<tr><td><strong>Michigan: 22</strong></td><td>Navy: 5</td>                 	    <td><strong>Michigan: 16</strong></td><td>Navy: 11</td></tr>
+<tr><td><strong>Michigan: 17</strong></td><td>Clemson: 10</td>             	    <td><strong>Michigan: 21</strong></td><td>Clemson: 6</td></tr>
+<tr><td><strong>Michigan: 16</strong></td><td>Indiana: 11</td>             	    <td><strong>Michigan: 26</strong></td><td>Indiana: 1</td></tr>
+<tr><td><strong>Michigan: 17</strong></td><td>Michigan State: 10</td>      	    <td><strong>Michigan: 19</strong></td><td>Michigan State: 8</td></tr>
+<tr><td>Michigan: 7</td><td><strong>Notre Dame: 20</strong></td>           	    <td>Michigan: 1</td><td><strong>Notre Dame: 26</strong></td></tr>
+<tr><td><strong>Michigan: 17</strong></td><td>Florida: 10</td>             	    <td><strong>Michigan: 18</strong></td><td>Florida: 9</td></tr>
+</tbody></table>
+
 ## Case Western Reserve University Duals
 <table class="table table-striped"><tbody>
 <tr><td colspan="2"><h4 align="Center"><strong>Men's Team</strong> (8-0)</h4></td>  <td colspan="2"><h4 align="Center"><strong>Women's Team</strong> (8-0)</h4></td></tr>
@@ -82,7 +94,7 @@ See the [combined team results](http://www.usacfc.org/files/USACFC-2016-FINAL-RE
 <tr><td><strong>Michigan: 25</strong></td><td>Bowling Green: 2</td>                 <td><strong>Michigan: 26</strong></td><td>Bowling Green: 1</td></tr>
 <tr><td><strong>Michigan: 26</strong></td><td>Xavier: 1</td>                        <td><strong>Michigan: 24</strong></td><td>Xavier: 3</td></tr>
 <tr><td><strong>Michigan: 24</strong></td><td>Toledo: 3</td>                        <td><strong>Michigan: 25</strong></td><td>Toledo: 2</td></tr>
-<tr><td><strong>Michigan: 27</strong></td><td>Oakland: 0</td>                          <td><strong>Michigan: 23</strong></td><td>Oakland: 4</td></tr>
+<tr><td><strong>Michigan: 27</strong></td><td>Oakland: 0</td>                       <td><strong>Michigan: 23</strong></td><td>Oakland: 4</td></tr>
 </tbody></table>
 
 
