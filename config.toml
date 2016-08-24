@@ -16,7 +16,6 @@ copyright = "(c) 2016 University of Michigan Fencing Club"
 
   practiceLocation = "the <a href='https://www.google.com/maps/place/University+of+Michigan-Sports+Coliseum/@42.2744305,-83.7456399,16z/data=!4m5!3m4!1s0x883cae3762fe5cc1:0xd3f27cff08a1643f!8m2!3d42.2720542!4d-83.7459577?hl=en' target='_blank'> IM Sports Coliseum</a>"
   
-
   # No default values
   [params.practiceTimes]
     monday = "6-9 pm"
@@ -29,6 +28,12 @@ copyright = "(c) 2016 University of Michigan Fencing Club"
     instagram = "umfencing"
     youtube = "UCLjqnWZsMBiHfeuEXiUSgGQ"
     community = "https://maizepages.umich.edu/organization/fencing"
+
+  [params.sponsor]
+	logo = "img/rec-sports-logo.jpg"
+	text = "Michigan Rec Sports Logo"
+	link = "https://recsports.umich.edu/"
+	size = "100px" # Default: 100px
 
 [[params.mainMenu]]
   name = "Roster"
