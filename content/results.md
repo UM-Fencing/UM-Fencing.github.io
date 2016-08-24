@@ -58,7 +58,7 @@ See the [combined team results](http://www.usacfc.org/files/USACFC-2016-FINAL-RE
 ## Michigan Duals
 <table class="table table-striped"><tbody>
 <tr><td colspan="2"><h4 align="Center"><strong>Men's Team</strong> (2-1)</h4></td>  <td colspan="2"><h4 align="Center"><strong>Women's Team</strong> (3-0)</h4></td></tr>
-<tr><td>Michigan: 13</td><td><strong>Chicago: 12</strong></td>						<td><strong>Michigan: 20</strong></td><td>Chicago: 7</td></tr>
+<tr><td>Michigan: 13</td><td><strong>Chicago: 14</strong></td>						<td><strong>Michigan: 20</strong></td><td>Chicago: 7</td></tr>
 <tr><td><strong>Michigan: 25</strong></td><td>Toledo: 2</td>                        <td><strong>Michigan: 27</strong></td><td>Toledo: 0</td></tr>
 <tr><td><strong>Michigan: 19</strong></td><td>Case Western: 8</td>                  <td><strong>Michigan: 23</strong></td><td>Case Western: 4</td></tr>
 </tbody></table>
