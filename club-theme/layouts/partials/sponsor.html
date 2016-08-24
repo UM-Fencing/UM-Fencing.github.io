@@ -1,0 +1,18 @@
+{{ $isHomePage := eq .Title .Site.Title }}
+{{ $baseUrl := .Site.BaseURL }}
+
+{{ if isset .Site.Params "sponsor" }}
+<p>
+{{ with .Site.Params.sponsor.link }}
+<a href='{{ . }}' target='_blank'>
+{{ end }}
+{{ if isset .Site.Params.sponsor "logo" }}
+<img src='{{ if $isHomePage }}{{ .Site.Params.sponsor.logo }}{{ else }}{{ $baseUrl }}/{{ .Site.Params.sponsor.logo }}{{ end }}' style='width: {{ with .Site.Params.sponsor.size }}{{ . }}{{ else }}100px{{ end }};' title='{{ with .Site.Params.sponsor.text }}{{ . }}{{ else }}Sponsor logo{{ end }}' alt='{{ with .Site.Params.sponsor.text }}{{ . }}{{ else }}Sponsor logo{{ end }}'>
+{{ else }}
+{{ with .Site.Params.sponsor.text }}{{ . }}{{ end }}
+{{ end }}
+{{ with .Site.Params.sponsor.link }}
+</a>
+{{ end }}
+</p>
+{{ end }}

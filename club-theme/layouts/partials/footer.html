@@ -6,6 +6,7 @@
 <footer class="doc-footer">
 	{{ partial "social-links.html" . }}
 	{{ with .Site.Copyright | markdownify }}<p>{{ . }}</p>{{ end }}
+	{{ partial "sponsor.html" . }}
 </footer>
 
 <script src="{{ $baseUrl }}/js/jquery.min.js"></script>
