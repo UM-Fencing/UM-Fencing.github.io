@@ -14,7 +14,7 @@ We'd love to hear from you! If you have a question, you can ask any of our offic
 <div class="col-md-6">
 <div class="alert alert-info" role="alert">
     Have general inquiry questions?
-    Email us at <a href="mailto:fencingofficers15@umich.edu" class="alert-link">fencingofficers15@umich.edu</a>.
+    Email us at <a href="mailto:fencingofficers@umich.edu" class="alert-link">fencingofficers@umich.edu</a>.
 </div>
 </div>
 
