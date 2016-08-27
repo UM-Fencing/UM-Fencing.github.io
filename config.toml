@@ -10,8 +10,9 @@ copyright = "(c) 2016 University of Michigan Fencing Club"
   image = "img/2016cfcawards.jpg"
   themeColor = "#003e78"
 
-  # Google Calendar ID used to embed agenda in sidebar and calendar on Schedule page
-  # If changing this, make sure to update `content/add_calendar.md`.
+  # Google Calendar ID used to embed agenda in sidebar.
+  # If changing this, make sure to update `content/schedule.md` and
+  #   `content/add_calendar.md`.
   calendarId = "umich.edu_toeb19ptci3123vprh6464i308@group.calendar.google.com"
 
   practiceLocation = "the <a href='https://www.google.com/maps/place/University+of+Michigan-Sports+Coliseum/@42.2744305,-83.7456399,16z/data=!4m5!3m4!1s0x883cae3762fe5cc1:0xd3f27cff08a1643f!8m2!3d42.2720542!4d-83.7459577?hl=en' target='_blank'> IM Sports Coliseum</a>"
