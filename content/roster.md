@@ -42,22 +42,22 @@ image = "../img/team2015-2016.jpg"
 
 # Women's Team
 
-| Name                 | Weapon                       | Year      | Hometown               |
-|----------------------|------------------------------|-----------|------------------------|
-| Vanessa Fong         | Epee <small>(captain)</small>| JR        | Hong Kong, Hong Kong   |
-| Elizabeth John       | Epee                         | SO        | Jericho, NY            |
-| Rebecca Martin       | Epee                         | JR        | St. Louis, MO          |
-| Joyce Xia            | Epee                         | JR        | New York, NY           |
-| Gloria Choi          | Foil                         | SO        | Northville, MI          |
-| Isabelle Huang       | Foil                         | SO        | Troy, MI               |
-| Katherine Qiao       | Foil                         | SO        | Troy, MI               |
-| Yimeng Zhao          | Foil                         | JR        | Rochester Hills, MI    |
-| Elvan Ziyalan        | Foil                         | SO        | New York, NY           |
-| Jessica Deese        | Saber                        | SR        | Los Angeles, CA        |
-| Emmie Grody          | Saber                        | SO        | Newton, MA             |
-| Brianna Hutchison    | Saber                        | SO        | Chicago, IL            |
-| Jieming Li           | Saber                        | Grad      | Kunming, Yunnan, China |
-| Christine Lin        | Saber                        | SR        | Taichung, Taiwan       |
+| Name                 | Weapon                        | Year      | Hometown               |
+|----------------------|-------------------------------|-----------|------------------------|
+| Vanessa Fong         | Epee <small>(captain)</small> | JR        | Hong Kong, Hong Kong   |
+| Elizabeth John       | Epee                          | SO        | Jericho, NY            |
+| Rebecca Martin       | Epee                          | JR        | St. Louis, MO          |
+| Joyce Xia            | Epee                          | JR        | New York, NY           |
+| Yimeng Zhao          | Foil <small>(captain)</small> | JR        | Rochester Hills, MI    |
+| Gloria Choi          | Foil                          | SO        | Northville, MI         |
+| Isabelle Huang       | Foil                          | SO        | Troy, MI               |
+| Katherine Qiao       | Foil                          | SO        | Troy, MI               |
+| Elvan Ziyalan        | Foil                          | SO        | New York, NY           |
+| Emmie Grody          | Saber <small>(captain)</small>| SO        | Newton, MA             |
+| Jessica Deese        | Saber                         | SR        | Los Angeles, CA        |
+| Brianna Hutchison    | Saber                         | SO        | Chicago, IL            |
+| Jieming Li           | Saber                         | Grad      | Kunming, Yunnan, China |
+| Christine Lin        | Saber                         | SR        | Taichung, Taiwan       |
 
 
 # Coaches
