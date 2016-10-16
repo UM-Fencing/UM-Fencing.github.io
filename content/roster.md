@@ -71,6 +71,7 @@ image = "../img/team2015-2016.jpg"
 | Jiarui Yang            | Saber                         | FR        | ?                      |
 | Naufal Zani            | Saber                         | FR        | ?                      |
 | Zachary Zipper         | Saber                         | FR        | ?                      |
+| Qifeng Teng            | Saber                         | FR        | China                  |
 
 
 # Women's Team
