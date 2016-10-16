@@ -12,7 +12,7 @@ image = "../img/team2015-2016.jpg"
 | Name                   | Weapon                        | Year      | Hometown               |
 |------------------------|-------------------------------|-----------|------------------------|
 | Ethan Madison          | Epee  <small>(captain)</small>| SO        | Beverly Hills, CA      |
-| Jonathan Bi            | Epee                          | FR        | ?                      |
+| Jonathan Bi            | Epee                          | FR        | Northville, MI         |
 | Ben Blankenship        | Epee                          | Grad      | Mesa, AZ               |
 | David Brang            | Epee                          | Faculty   | ?                      |
 | Rex Chen               | Epee                          | SO        | ?, NJ                  |
