@@ -65,13 +65,13 @@ image = "../img/team2015-2016.jpg"
 | Jose Lopez             | Saber                         | FR        | ?                      |
 | Anton Lukyanenko       | Saber                         | Faculty   | ?                      |
 | Ryan Shanahan          | Saber                         | FR        | ?                      |
+| Qifeng Teng            | Saber                         | FR        | Shanghai, China        |
 | Trevor Toros           | Saber                         | FR        | ?                      |
 | Nathanael Walwyn       | Saber                         | SO        | Jersey, United Kingdom |
 | Chris Wu               | Saber                         | SO        | Taipei, Taiwan         |
 | Jiarui Yang            | Saber                         | FR        | ?                      |
 | Naufal Zani            | Saber                         | FR        | ?                      |
 | Zachary Zipper         | Saber                         | FR        | ?                      |
-| Qifeng Teng            | Saber                         | FR        | China                  |
 
 
 # Women's Team
