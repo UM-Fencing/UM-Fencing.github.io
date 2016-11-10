@@ -9,6 +9,18 @@ image = "../img/seniors2016cfcs.jpg"
 
 # 2016-2017 Season
 
+## Case Western Reserve University Duals
+<table class="table table-striped"><tbody>
+<tr><td colspan="2"><h4 align="Center"><strong>Men's Team</strong> (6-1)</h4></td>  <td colspan="2"><h4 align="Center"><strong>Women's Team</strong> (7-0)</h4></td></tr>
+<tr><td><strong>Michigan: 26</strong></td><td>Xavier: 1</td>                        <td><strong>Michigan: 26</strong></td><td>Xavier: 1</td></tr>
+<tr><td><strong>Michigan: 19</strong></td><td>Case Western: 8</td>                  <td><strong>Michigan: 23</strong></td><td>Case Western: 2</td></tr>
+<tr><td><strong>Michigan: 25</strong></td><td>Bowling Green: 2</td>                 <td><strong>Michigan: 27</strong></td><td>Bowling Green: 0</td></tr>
+<tr><td><strong>Michigan: 26</strong></td><td>Oakland: 1</td>                       <td><strong>Michigan: 24</strong></td><td>Oakland: 3</td></tr>
+<tr><td><strong>Michigan: 21</strong></td><td>Oberlin: 6</td>                       <td><strong>Michigan: 22</strong></td><td>Oberlin: 5</td></tr>
+<tr><td><strong>Michigan: 24</strong></td><td>Denison: 3</td>                       <td><strong>Michigan: 27</strong></td><td>Denison: 0</td></tr>
+<tr><td>Michigan: 13</td><td><strong>Cleveland State: 14</strong></td>              <td><strong>Michigan: 25</strong></td><td>Cleveland State: 2</td></tr>
+</tbody></table>
+
 ## Ohio State University Duals
 <table class="table table-striped"><tbody>
 <tr><td colspan="2"><h4 align="Center"><strong>Men's Team</strong> (4-2)</h4></td>  <td colspan="2"><h4 align="Center"><strong>Women's Team</strong> (5-1)</h4></td></tr>
