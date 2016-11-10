@@ -7,6 +7,19 @@ noshowdate = true
 image = "../img/seniors2016cfcs.jpg"
 +++
 
+# 2016-2017 Season
+
+## Ohio State University Duals
+<table class="table table-striped"><tbody>
+<tr><td colspan="2"><h4 align="Center"><strong>Men's Team</strong> (4-2)</h4></td>  <td colspan="2"><h4 align="Center"><strong>Women's Team</strong> (5-1)</h4></td></tr>
+<tr><td><strong>Michigan: 26</strong></td><td>Iowa: 1</td>                          <td><strong>Michigan: 23</strong></td><td>Iowa: 4</td></tr>
+<tr><td><strong>Michigan: 15</strong></td><td>Illinois: 12</td>                     <td><strong>Michigan: 24</strong></td><td>Illinois: 3</td></tr>
+<tr><td><strong>Michigan: 16</strong></td><td>Purdue: 11</td>                       <td><strong>Michigan: 20</strong></td><td>Purdue: 7</td></tr>
+<tr><td><strong>Michigan: 23</strong></td><td>Bowling Green: 4</td>                 <td><strong>Michigan: 24</strong></td><td>Bowling Green: 3</td></tr>
+<tr><td>Michigan: 7</td><td><strong>Ohio State: 20</strong></td>                    <td>Michigan: 7</td><td><strong>Ohio State: 20</strong></td></tr>
+<tr><td>Michigan: 10</td><td><strong>Cleveland State: 17</strong></td>              <td><strong>Michigan: 20</strong></td><td>Cleveland State: 7</td></tr>
+</tbody></table>
+
 # 2015-2016 Season
 
 <a name="usacfc2016">
