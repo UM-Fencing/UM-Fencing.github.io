@@ -3,7 +3,7 @@
     <i class="fa fa-facebook" alt="@{{ . }} on Facebook" title="See us at @{{ . }} on Facebook" aria-hidden="true"></i>
 </a>
 {{ end }}
-{{ if (isset .Site.Params.social "facebook") and (isset (.Site.Params.social "twitter" or .Site.Params.social "instagram" or .Site.Params.social "youtube" or .Site.Params.social "community")) }}
+{{ if (.Site.Params.social.facebook) and (.Site.Params.social.twitter or .Site.Params.social.instagram or .Site.Params.social.youtube or .Site.Params.social.community) }}
 &nbsp;
 {{ end }}
 {{ with .Site.Params.social.twitter }}
@@ -11,7 +11,7 @@
     <i class="fa fa-twitter" alt="Follow @{{ . }} on Twitter" title="Follow @um_fencing on Twitter" aria-hidden="true"></i>
 </a>
 {{ end }}
-{{ if (isset .Site.Params.social "twitter") and (isset (.Site.Params.social "instagram" or .Site.Params.social "youtube" or .Site.Params.social "community")) }}
+{{ if ( .Site.Params.social.twitter) and (.Site.Params.social.instagram or .Site.Params.social.youtube or .Site.Params.social.community) }}
 &nbsp;
 {{ end }}
 {{ with .Site.Params.social.instagram }}
@@ -19,7 +19,7 @@
     <i class="fa fa-instagram" alt="See our latest pictures on Instagram at @{{ . }}" title="See our latest pictures on Instagram at @{{ . }}" aria-hidden="true"></i>
 </a>
 {{ end }}
-{{ if (isset .Site.Params.social "instagram") and (isset (.Site.Params.social "youtube" or .Site.Params.social "community")) }}
+{{ if ( .Site.Params.social.instagram) and (.Site.Params.social.youtube or .Site.Params.social.community) }}
 &nbsp;
 {{ end }}
 {{ with .Site.Params.social.youtube }}
@@ -27,7 +27,7 @@
     <i class="fa fa-youtube" alt="Watch bouts and more on YouTube" title="Watch bouts and more on YouTube" aria-hidden="true"></i>
 </a>
 {{ end }}
-{{ if (isset .Site.Params.social "youtube") and (isset (.Site.Params.social "community")) }}
+{{ if ( .Site.Params.social.youtube) and (.Site.Params.social.community) }}
 &nbsp;
 {{ end }}
 {{ with .Site.Params.social.community }}

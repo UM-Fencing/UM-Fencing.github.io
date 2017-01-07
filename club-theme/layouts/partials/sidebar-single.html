@@ -2,7 +2,7 @@
 {{ $url := .Permalink }}
 <div class="col-sm-3 col-sm-offset-1 doc-sidebar">
 	<div id="sidebar">
-        {{ if isset .Site.Params "practiceTimes" }}
+        {{ if .Site.Params.practiceTimes }}
             <div class="sidebar-module">
                     <h4 class="sidebar-heading">Practice</h4>
                     {{ with .Site.Params.practiceTimes.sunday }}<strong>Sundays</strong>: {{ . }}<br>{{ end }}
