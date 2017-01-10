@@ -1,9 +1,8 @@
-{{ $isHomePage := eq .Title .Site.Title }}
 {{ $baseUrl := .Site.BaseURL }}
 
 <div class="jumbotron" style="background-image: url({{ with .Params.image }}{{ . }}{{ else }}{{ with .Site.Params.image }}{{ $baseUrl }}/{{ . }}{{ end }}{{ end }});">
     <div class="container">
-        <h1>{{ if $isHomePage }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}</h1>
-        <p>{{ if $isHomePage }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ else }}{{ with .Params.description }}{{ . }}{{ end }}{{ end }}</p>
+        <h1>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}</h1>
+        <p>{{ if .IsHome }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ else }}{{ with .Params.description }}{{ . }}{{ end }}{{ end }}</p>
     </div>
 </div>
