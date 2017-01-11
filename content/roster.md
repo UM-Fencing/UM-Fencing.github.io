@@ -4,7 +4,7 @@ tags = ["document"]
 title = "Roster"
 description = "The 2016-2017 team"
 noshowdate = true
-image = "../img/team2015-2016.jpg"
+image = "../img/Fencing Team 2016.jpg"
 +++
 
 # Men's Team
