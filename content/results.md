@@ -9,6 +9,15 @@ image = "../img/seniors2016cfcs.jpg"
 
 # 2016-2017 Season
 
+## Titan Fencing Invitational <small>at University of Detroit Mercy</small>
+<table class="table table-striped"><tbody>
+<tr><td colspan="2"><h4 align="Center"><strong>Men's Team</strong> (4-0)</h4></td>  <td colspan="2"><h4 align="Center"><strong>Women's Team</strong> (3-1)</h4></td></tr>
+<tr><td><strong>Michigan: 15</strong></td><td>MSU: 12</td>                          <td><strong>Michigan: 17</strong></td><td>MSU: 10</td></tr>
+<tr><td><strong>Michigan: 15</strong></td><td>Wayne State: 12</td>                  <td>Michigan: 8</td><td><strong>Wayne State: 19</strong></td></tr>
+<tr><td><strong>Michigan: 23</strong></td><td>Denison: 2</td>                       <td><strong>Michigan: 27</strong></td><td>Denison: 0</td></tr>
+<tr><td><strong>Michigan: 17</strong></td><td>Detroit Mercy: 10</td>                <td><strong>Michigan: 24</strong></td><td>Detroit Mercy: 2</td></tr>
+</tbody></table>
+
 ## Case Western Reserve University Duals
 <table class="table table-striped"><tbody>
 <tr><td colspan="2"><h4 align="Center"><strong>Men's Team</strong> (6-1)</h4></td>  <td colspan="2"><h4 align="Center"><strong>Women's Team</strong> (7-0)</h4></td></tr>
