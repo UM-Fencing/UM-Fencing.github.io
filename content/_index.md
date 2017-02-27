@@ -7,7 +7,7 @@ title = "_index"
 </div>
 
 <div class="alert alert-info">
-    We are once again the <a href="results#usacfc2016" class="alert-link">USACFC champions</a>!
+    We are once again the <a href="results/2015-2016/#usacfc2016" class="alert-link">USACFC champions</a>!
     Two years in a row!
 </div>
 
