@@ -19,8 +19,8 @@ copyright = "(c) 2017 University of Michigan Fencing Club"
   
   # No default values
   [params.practiceTimes]
-    monday = "7-9 pm"
-    wednesday = "5:15-7:15 pm"
+    monday = "6-8 pm"
+    wednesday = "6-8 pm"
     friday = "7-9 pm"
 
   [params.social]
