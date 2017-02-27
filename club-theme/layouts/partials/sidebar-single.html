@@ -23,6 +23,15 @@
             </div>
         {{ end }}
 
+        {{ with .Site.Params.social.lightwidget }}
+            <div class="sidebar-module">
+                <h4 class="sidebar-heading">Photos</h4>
+                <!-- LightWidget WIDGET -->
+                <script src="//lightwidget.com/widgets/lightwidget.js"></script>
+                <iframe src="//lightwidget.com/widgets/{{ . }}.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+            </div>
+        {{ end }}
+
         {{ with .Site.Params.social.twitter }}
             <div class="sidebar-module">
                 <a class="twitter-timeline" data-height="400" data-dnt="true" href="https://twitter.com/{{ . }}"></a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
