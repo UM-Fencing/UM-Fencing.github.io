@@ -2,13 +2,12 @@
 title = "_index"
 +++
 
-<div class="alert alert-warning">
-    The University of Michigan Fencing Club has been <a href="http://www.usfencing.org/news_article/show/661645?referrer_id=708436" class="alert-link">selected as the USA Fencing 2016 Collegiate Club of Excellence</a>
+<div class="alert alert-info">
+    Back-to-back-to-back <a href="results/2016-2017/#usacfc2017" class="alert-link">National Champions</a>!
 </div>
 
-<div class="alert alert-info">
-    We are once again the <a href="results/2015-2016/#usacfc2016" class="alert-link">USACFC champions</a>!
-    Two years in a row!
+<div class="alert alert-warning">
+    THREEEE3EEEEEEEEEEEEEE333-PEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE333AT!!!
 </div>
 
 Welcome to the homepage of the University of Michigan Fencing Club!
