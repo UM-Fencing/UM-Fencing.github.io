@@ -4,7 +4,7 @@ date = "2016-06-28T14:00:17-07:00"
 tags = ["document"]
 title = "Join"
 noshowdate = true
-image = "../img/mfoilwin2016.jpg"
+image = "../img/2017_CFC_huddle.png"
 +++
 
 No experience is necessary, and all equipment is provided by the team!
