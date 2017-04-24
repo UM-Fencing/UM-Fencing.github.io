@@ -3,11 +3,7 @@ title = "_index"
 +++
 
 <div class="alert alert-info">
-    Back-to-back-to-back <a href="results/2016-2017/#usacfc2017" class="alert-link">National Champions</a>!
-</div>
-
-<div class="alert alert-warning">
-    THREEEE3EEEEEEEEEEEEEE333-PEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE333AT!!!
+    The University of Michigan Fencing Club is the <a href="results/2016-2017/#usacfc2017" class="alert-link">2017</a>, <a href="results/2015-2016/#usacfc2016" class="alert-link">2016</a>, and <a href="results/2014-2015/#usacfc2015" class="alert-link">2015</a> USACFC National Champion!
 </div>
 
 Welcome to the homepage of the University of Michigan Fencing Club!
