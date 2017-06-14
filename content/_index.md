@@ -6,10 +6,6 @@ title = "_index"
     The University of Michigan Fencing Club is the USACFC National Champion <a href="results/2016-2017/#usacfc2017" class="alert-link">three</a> <a href="results/2015-2016/#usacfc2016" class="alert-link">years</a> <a href="results/2014-2015/#usacfc2015" class="alert-link">running</a>!
 </div>
 
-<div class="alert alert-warning">
-    Represent Michigan Fencing with a <a href="https://pogo.undergroundshirts.com/collections/michigan-fencing-national-champ-t-order-form-2017" class="alert-link">National Champions 2017 shirt!</a>
-</div>
-
 Welcome to the homepage of the University of Michigan Fencing Club!
 We are always accepting new members.
 Become a part of one of the top club fencing teams in the United States!
