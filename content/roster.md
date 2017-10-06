@@ -22,7 +22,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Ameya Gadkari          | Epee                          | SO        | Bellevue, WA           |
 | Noah Green             | Epee                          | JR        | Belding, MI            |
 | David Jin              | Epee                          | FR        | % TODO %               |
-| Roland Kwok            | Epee                          | Faculty   | % TODO %               |
+| Roland Kwok            | Epee                          | Faculty   | Ann Arbor, MI          |
 | Ryan MacAloon          | Epee                          | SR        | Birmingham, MI         |
 | Max Perraut            | Epee                          | FR        | % TODO %               |
 | Mitch Schrank          | Epee                          | SR        | Wilmette, IL           |
