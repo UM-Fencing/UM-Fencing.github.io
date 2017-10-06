@@ -28,7 +28,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Mitch Schrank          | Epee                          | SR        | Wilmette, IL           |
 | Amith Vadlamudi        | Epee                          | FR        | % TODO %               |
 | Stephen Venable        | Epee                          | FR        | % TODO %               |
-| Michael Soukar         | Foil  <small>(captain)</small>| FR        | % TODO %               |
+| Michael Soukar         | Foil  <small>(captain)</small>| FR        | Grand Rapids, MI       |
 | Ancheng Da             | Foil                          | FR        | % TODO %               |
 | Noah Gale              | Foil                          | Grad      | Bay City, MI           |
 | Alan Hedrick           | Foil                          | FR        | % TODO %               |
