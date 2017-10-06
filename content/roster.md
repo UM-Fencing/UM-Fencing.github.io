@@ -15,6 +15,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Jon Bi                 | Epee                          | SO        | Northville, MI         |
 | Ben Blankenship        | Epee                          | Grad      | Mesa, AZ               |
 | David Brang            | Epee                          | Faculty   | La Verne, CA           |
+| Jad Chaar              | Epee                          | SO        | Ardsley, NY            |
 | Rex Chen               | Epee                          | JR        | West Windsor, NJ       |
 | Ameya Gadkari          | Epee                          | SO        | Bellevue, WA           |
 | Noah Green             | Epee                          | JR        | Belding, MI            |
