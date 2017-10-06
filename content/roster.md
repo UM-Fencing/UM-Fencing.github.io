@@ -70,7 +70,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Vanessa Fong         | Epee  <small>(captain)</small>| SR        | Hong Kong, Hong Kong   |
 | Elizabeth John       | Epee                          | JR        | Jericho, NY            |
 | Rebecca Martin       | Epee                          | SR        | St. Louis, MO          |
-| Gloria Choi          | Foil                          | JR        | Northville, MI         |
+| Gloria Choi          | Epee                          | JR        | Northville, MI         |
 | Yimeng Zhao          | Foil  <small>(captain)</small>| SR        | Rochester Hills, MI    |
 | Alinah Purdy-Sachs   | Foil                          | SR        | Port Huron, MI         |
 | Elvan Ziyalan        | Foil                          | JR        | New York, NY           |
