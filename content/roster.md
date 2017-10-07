@@ -48,7 +48,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Matthew Ward           | Foil                          | SO        | Ann Arbor, MI          |
 | Dylan Warner           | Foil                          | SR        | Ft. Lauterdale, FL     |
 | Mike Yee               | Foil                          | Grad      | % TODO %               |
-| Ken Zhang              | Foil                          | FR        | % TODO %               |
+| Jianbin Zhang              | Foil                          | FR        | Foshan, China              |
 | David Cichocki         | Saber <small>(captain)</small>| SR        | Chicago, IL            |
 | Yuxiao Chen            | Saber                         | Grad      | Guilin, China          |
 | Joshua Cooper          | Saber                         | SO        | Detroit, MI            |
