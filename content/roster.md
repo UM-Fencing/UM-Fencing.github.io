@@ -2,7 +2,7 @@
 categories = ["general"]
 tags = ["document"]
 title = "Roster"
-description = "The 2016-2017 team"
+description = "The 2017-2018 team"
 noshowdate = true
 image = "../img/Fencing Team 2016.jpg"
 +++
@@ -11,60 +11,74 @@ image = "../img/Fencing Team 2016.jpg"
 
 | Name                   | Weapon                        | Year      | Hometown               |
 |------------------------|-------------------------------|-----------|------------------------|
-| Ethan Madison          | Epee  <small>(captain)</small>| SO        | Beverly Hills, CA      |
-| Jon Bi                 | Epee                          | FR        | Northville, MI         |
+| Ethan Madison          | Epee  <small>(captain)</small>| JR        | Beverly Hills, CA      |
+| Jon Bi                 | Epee                          | SO        | Northville, MI         |
 | Ben Blankenship        | Epee                          | Grad      | Mesa, AZ               |
 | David Brang            | Epee                          | Faculty   | La Verne, CA           |
-| Rex Chen               | Epee                          | SO        | West Windsor, NJ       |
-| Ameya Gadkari          | Epee                          | FR        | Bellevue, WA           |
-| Noah Green             | Epee                          | SO        | Belding, MI            |
-| Ryan MacAloon          | Epee                          | JR        | Birmingham, MI         |
-| Jonathan Pearcy        | Epee                          | FR        | Ada , MI               |
+| Marc Bolay             | Epee                          | SR        | % TODO %               |
+| Jad Chaar              | Epee                          | SO        | Ardsley, NY            |
+| Rex Chen               | Epee                          | JR        | West Windsor, NJ       |
+| Thomas Gabrielson      | Epee                          | FR        | % TODO %               |
+| Ameya Gadkari          | Epee                          | SO        | Bellevue, WA           |
+| Noah Green             | Epee                          | JR        | Belding, MI            |
+| David Jin              | Epee                          | FR        | % TODO %               |
+| Roland Kwok            | Epee                          | Faculty   | Ann Arbor, MI          |
+| Ryan MacAloon          | Epee                          | SR        | Birmingham, MI         |
+| Max Perraut            | Epee                          | FR        | % TODO %               |
 | Mitch Schrank          | Epee                          | SR        | Wilmette, IL           |
-| Cary Huang             | Foil  <small>(captain)</small>| SR        | Troy, MI               |
+| Amith Vadlamudi        | Epee                          | FR        | % TODO %               |
+| Stephen Venable        | Epee                          | FR        | % TODO %               |
+| Michael Soukar         | Foil  <small>(captain)</small>| FR        | % TODO %               |
+| Ancheng Da             | Foil                          | FR        | % TODO %               |
 | Noah Gale              | Foil                          | Grad      | Bay City, MI           |
-| Steven Jecmen          | Foil                          | SO        | Novi, MI               |
-| Luke Kiernan           | Foil                          | FR        | Green Bay, WI          |
-| Andrew Keene           | Foil                          | FR        | Kalamazoo, MI          |
-| Michael Kovalchick     | Foil                          | SR        | York, PA               |
-| George Kuhn            | Foil                          | FR        | Vienna, VA             |
-| Aaron Renberg          | Foil                          | JR        | Bethesda, MD           |
-| Eric Rothacker         | Foil                          | SR        | Ashburn, VA            |
-| Adam Shen              | Foil                          | SO        | Rochester Hills, MI    |
-| Matthew Ward           | Foil                          | FR        | Ann Arbor, MI          |
-| Dylan Warner           | Foil                          | JR        | Ft. Lauterdale, FL     |
-| Nitikorn Dornjandaeng  | Saber <small>(captain)</small>| SR        | Houston, TX            |
+| Alan Hedrick           | Foil                          | FR        | % TODO %               |
+| Steven Jecmen          | Foil                          | JR        | Novi, MI               |
+| Mike Ji                | Foil                          | FR        | % TODO %               |
+| Caleb Kaczmarek        | Foil                          | JR        | % TODO %               |
+| Andrew Keene           | Foil                          | SO        | Kalamazoo, MI          |
+| George Kuhn            | Foil                          | SO        | Vienna, VA             |
+| Weigang Liu            | Foil                          | SO        | % TODO %               |
+| Eric Musa              | Foil                          | FR        | % TODO %               |
+| Xiaowei Ou             | Foil                          | SO        | % TODO %               |
+| Aaron Renberg          | Foil                          | SR        | Bethesda, MD           |
+| Zachary Skeen          | Foil                          | SO        | % TODO %               |
+| Isaac Smedshammer      | Foil                          | FR        | % TODO %               |
+| Derek Triebwasser      | Foil                          | FR        | % TODO %               |
+| Will Wang              | Foil                          | FR        | % TODO %               |
+| Matthew Ward           | Foil                          | SO        | Ann Arbor, MI          |
+| Dylan Warner           | Foil                          | SR        | Ft. Lauterdale, FL     |
+| Mike Yee               | Foil                          | Grad      | % TODO %               |
+| Jianbin Zhang              | Foil                          | FR        | Foshan, China              |
+| David Cichocki         | Saber <small>(captain)</small>| SR        | Chicago, IL            |
 | Yuxiao Chen            | Saber                         | Grad      | Guilin, China          |
-| David Cichocki         | Saber                         | JR        | Chicago, IL            |
-| Joshua Cooper          | Saber                         | FR        | Detroit, MI            |
+| Joshua Cooper          | Saber                         | SO        | Detroit, MI            |
+| Tom Kim                | Saber                         | FR        | % TODO %               |
+| Justin Lai             | Saber                         | FR        | % TODO %               |
 | Ross Martin            | Saber                         | Grad      | Boston, MA             |
-| Anton Lukyanenko       | Saber                         | Faculty   | Lubbock, TX            |
-| Ryan Shanahan          | Saber                         | FR        | Novi, MI               |
-| Nathanael Walwyn       | Saber                         | SO        | Jersey, United Kingdom |
-| Zachary Zipper         | Saber                         | FR        | Katonah, NY            |
+| Daniel Mayerson        | Saber                         | Faculty   | % TODO %               |
+| Ryan Shanahan          | Saber                         | SO        | Novi, MI               |
+| Tony Thammajanda       | Saber                         | FR        | % TODO %               |
+| Elijah Thompson        | Saber                         | FR        | % TODO %               |
+| Nathanael Walwyn       | Saber                         | SR        | Jersey, United Kingdom |
+| Zachary Zipper         | Saber                         | SO        | Katonah, NY            |
 
 
 # Women's Team
 
 | Name                 | Weapon                        | Year      | Hometown               |
 |----------------------|-------------------------------|-----------|------------------------|
-| Vanessa Fong         | Epee  <small>(captain)</small>| JR        | Hong Kong, Hong Kong   |
-| Elizabeth John       | Epee                          | SO        | Jericho, NY            |
-| Rebecca Martin       | Epee                          | JR        | St. Louis, MO          |
-| Joyce Xia            | Epee                          | JR        | New York, NY           |
-| Yimeng Zhao          | Foil  <small>(captain)</small>| JR        | Rochester Hills, MI    |
-| Serena Chan          | Foil                          | FR        | New York, NY           |
-| Gloria Choi          | Foil                          | SO        | Northville, MI         |
-| Lindsay Ford         | Foil                          | SR        | Newburyport, MA        |
-| Alinah Purdy-Sachs   | Foil                          | JR        | Port Huron, MI         |
-| Elvan Ziyalan        | Foil                          | SO        | New York, NY           |
-| Emmie Grody          | Saber <small>(captain)</small>| SO        | Newton, MA             |
-| Diyara Bissembayeva  | Saber                         | FR        | Zhitikara, Kazakhstan  |
-| Jessica Deese        | Saber                         | SR        | Los Angeles, CA        |
-| Naomi Endres         | Saber                         | FR        | Anchorage, AK          |
-| Rachael Kerr         | Saber                         | SR        | Ann Arbor, MI          |
+| Vanessa Fong         | Epee  <small>(captain)</small>| SR        | Hong Kong, Hong Kong   |
+| Elizabeth John       | Epee                          | JR        | Jericho, NY            |
+| Rebecca Martin       | Epee                          | SR        | St. Louis, MO          |
+| Gloria Choi          | Epee                          | JR        | Northville, MI         |
+| Yimeng Zhao          | Foil  <small>(captain)</small>| SR        | Rochester Hills, MI    |
+| Jasmine An           | Foil                          | Grad      | Ann Arbor, MI          |
+| Nicole Gassman       | Foil                          | JR        | Lake Orion, MI         |
+| Alinah Purdy-Sachs   | Foil                          | SR        | Port Huron, MI         |
+| Elvan Ziyalan        | Foil                          | JR        | New York, NY           |
+| Emmie Grody          | Saber <small>(captain)</small>| JR        | Newton, MA             |
+| Naomi Endres         | Saber                         | SO        | Anchorage, AK          |
 | Jieming Li           | Saber                         | Grad      | Kunming, Yunnan, China |
-| Christine Lin        | Saber                         | SR        | Taichung, Taiwan       |
 
 
 # Coaches
@@ -73,3 +87,5 @@ image = "../img/Fencing Team 2016.jpg"
 | Jim Vesper       | Head Coach                |
 | Kevin Oh         | Volunteer Assistant Coach |
 | Andrew Aitken    | Volunteer Assistant Coach |
+| Jason Goodman    | Volunteer Assistant Cocah |
+| Cary Haung       | Volunteer Assistant Coach |
