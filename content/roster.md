@@ -33,7 +33,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Noah Gale              | Foil                          | Grad      | Bay City, MI           |
 | Alan Hedrick           | Foil                          | FR        | % TODO %               |
 | Steven Jecmen          | Foil                          | JR        | Novi, MI               |
-| Mike Ji                | Foil                          | FR        | % TODO %               |
+| Mike Ji                | Foil                          | JR        | Seoul, South Korea     |
 | Caleb Kaczmarek        | Foil                          | JR        | % TODO %               |
 | Andrew Keene           | Foil                          | SO        | Kalamazoo, MI          |
 | George Kuhn            | Foil                          | SO        | Vienna, VA             |
