@@ -68,17 +68,28 @@ image = "../img/Fencing Team 2016.jpg"
 | Name                 | Weapon                        | Year      | Hometown               |
 |----------------------|-------------------------------|-----------|------------------------|
 | Vanessa Fong         | Epee  <small>(captain)</small>| SR        | Hong Kong, Hong Kong   |
+| Gloria Choi          | Epee                          | JR        | Northville, MI         |
+| Caila Coyne          | Epee                          | FR        | % TODO %               |
+| Isabelle Gallagher   | Epee                          | FR        | % TODO %               |
+| Tanner Gritzmaker    | Epee                          | FR        | % TODO %               |
 | Elizabeth John       | Epee                          | JR        | Jericho, NY            |
 | Rebecca Martin       | Epee                          | SR        | St. Louis, MO          |
-| Gloria Choi          | Epee                          | JR        | Northville, MI         |
+| Ziv Wang             | Epee                          | FR        | % TODO %               |
 | Yimeng Zhao          | Foil  <small>(captain)</small>| SR        | Rochester Hills, MI    |
 | Jasmine An           | Foil                          | Grad      | Ann Arbor, MI          |
 | Nicole Gassman       | Foil                          | JR        | Lake Orion, MI         |
 | Alinah Purdy-Sachs   | Foil                          | SR        | Port Huron, MI         |
+| Emily Rozich         | Foil                          | SO        | % TODO %               |
+| Naelle Verniest      | Foil                          | SO        | % TODO %               |
+| Ren Yi               | Foil                          | FR        | % TODO %               |
+| Shuangning Zhu       | Foil                          | FR        | % TODO %               |
 | Elvan Ziyalan        | Foil                          | JR        | New York, NY           |
 | Emmie Grody          | Saber <small>(captain)</small>| JR        | Newton, MA             |
 | Naomi Endres         | Saber                         | SO        | Anchorage, AK          |
+| Elaina Hsu           | Saber                         | FR        | % TODO %               |
 | Jieming Li           | Saber                         | Grad      | Kunming, Yunnan, China |
+| Johanna Nifosi       | Saber                         | Grad      | % TODO %               |
+| Lenka Wu             | Saber                         | Grad      | % TODO %               |
 
 
 # Coaches
