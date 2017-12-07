@@ -48,6 +48,7 @@ image = "../img/Fencing Team 2016.jpg"
 | David Cichocki         | Saber <small>(captain)</small>| SR        | Chicago, IL            |
 | Yuxiao Chen            | Saber                         | Grad      | Guilin, China          |
 | Joshua Cooper          | Saber                         | SO        | Detroit, MI            |
+| Maximillian Garcia     | Saber                         | SO        | Rancho Cucamonga, CA   |
 | Tom Kim                | Saber                         | FR        | Seoul, Korea           |
 | Justin Lai             | Saber                         | FR        | Grand Rapids, MI       |
 | Ross Martin            | Saber                         | Grad      | Boston, MA             |
