@@ -39,12 +39,8 @@ To change site-wide features (e.g., default jumbotron image, practice times, sit
 ## Deploying
 *You must have write permissions to `login.itd.umich.edu:/afs/umich.edu/group/soas/fencing` to proceed.*
 
-After making changes, testing, and committing, delete the existing `public/` directory (to eliminate remnants from old builds), recompile the site, and deploy to the webserver:
-```bash
-$ rm -rf public/
-$ hugo  
-$ scp -r public/ <username>@login.itd.umich.edu:/afs/umich.edu/group/soas/fencing/Public/html
-```
+After making changes, testing, and committing, delete the existing `public/` directory (to eliminate remnants from old builds), recompile the site, and deploy to the webserver.
+Running `deploy.sh` will do all of this.
 
 It would be nice to automate deployment using git hooks and CI, or even to make the production directory a bare git repository to push the `public/` directory to, but that's an issue for another time.
 
