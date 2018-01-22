@@ -29,20 +29,20 @@ We'd love to hear from you! If you have a question, you can ask any of our offic
 
 
 # Officers
-| Position           | Name                  | Email Address                                              | Contact About                            |
-|--------------------|-----------------------|------------------------------------------------------------|------------------------------------------|
-| Co-President       | Ethan Madison         | <a href="mailto:ethanmad@umich.edu">ethanmad@umich.edu</a> | Practice, General Queries                |
-| Co-President       | Yimeng Zhao           | <a href="mailto:zhaoyime@umich.edu">zhaoyime@umich.edu</a> | Conference(s), Schedule, University Info |
-| Secretary          | David Cichocki        | <a href="mailto:cichocki@umich.edu">cichocki@umich.edu</a> | Membership, Competition Results, Rosters |
-| Treasurer          | Emmie Grody           | <a href="mailto:egrody@umich.edu">egrody@umich.edu</a>     | Dues, Equipment Orders                   |
-| Internal Relations | Gloria Choi           | <a href="mailto:choiglo@umich.edu">choiglo@umich.edu</a>   | Organizing Events, Fundraisers           |
-| External Relations | Vanessa Fong          | <a href="mailto:vbfong@umich.edu">vbfong@umich.edu</a>     | UM Club Sports                           |
+| Position           | Name           | Email Address                                   | Contact About                            |
+|--------------------|----------------|-------------------------------------------------|------------------------------------------|
+| Co-President       | Ethan Madison  | [ethanmad@umich.edu](mailto:ethanmad@umich.edu) | Practice, General Queries                |
+| Co-President       | Yimeng Zhao    | [zhaoyime@umich.edu](mailto:zhaoyime@umich.edu) | Conference(s), Schedule, University Info |
+| Secretary          | David Cichocki | [cichocki@umich.edu](mailto:cichocki@umich.edu) | Membership, Competition Results, Rosters |
+| Treasurer          | Emmie Grody    | [egrody@umich.edu](mailto:egrody@umich.edu)     | Dues, Equipment Orders                   |
+| Internal Relations | Elizabeth John | [eljohniz@umich.edu](mailto:eljohniz@umich.edu) | Organizing Events, Fundraisers           |
+| External Relations | Vanessa Fong   | [vbfong@umich.edu](mailto:vbfong@umich.edu)     | UM Club Sports                           |
 
 # Other Positions
-| Position                  | Name          | Email Address                                                        | Contact About              |
-|---------------------------|---------------|----------------------------------------------------------------------|----------------------------|
-| National Alumni Relations | Sarah Hanchar | <a href="mailto:sarah.hanchar@gmail.com">sarah.hanchar@gmail.com</a> | Alumni Inquiries           |
-| Local Alumni Relations    | Andrew Aitken | <a href="mailto:aitkenawa@gmail.com">aitkenawa@gmail.com</a>         | Alumni Events              |
-| Webmaster                 | Ethan Madison | <a href="mailto:ethanmad@umich.edu">ethanmad@umich.edu</a>           | Website                    |
-| USFA Liaison              | Emmie Grody   | <a href="mailto:egrody@umich.edu">egrody@umich.edu</a>               | USFA                       |
-| Armorer                   | Aaron Renberg | <a href="mailto:renberg@umich.edu">renberg@umich.edu</a>             | Weapon Repair, Armory      |
+| Position                  | Name          | Email Address                                             | Contact About                     |
+|---------------------------|---------------|-----------------------------------------------------------|-----------------------------------|
+| National Alumni Relations | Sarah Hanchar | [sarah.hanchar@gmail.com](mailto:sarah.hanchar@gmail.com) | Alumni Inquiries                  |
+| Local Alumni Relations    | Andrew Aitken | [aitkenawa@gmail.com](mailto:aitkenawa@gmail.com)         | Alumni Events                     |
+| Webmaster                 | Ethan Madison | [ethanmad@umich.edu](mailto:ethanmad@umich.edu)           | Website                           |
+| USFA Liaison              | Emmie Grody   | [egrody@umich.edu](mailto:egrody@umich.edu)               | USA Fencing Events and Membership |
+| Armorer                   | Aaron Renberg | [renberg@umich.edu](mailto:renberg@umich.edu)             | Weapon Repair, Armory             |
