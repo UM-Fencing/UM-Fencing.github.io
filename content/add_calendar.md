@@ -1,5 +1,5 @@
 +++
-categories = ["general"]
+categories = ["calendar"]
 date = "2016-08-24T15:35:56-04:00"
 tags = ["document"]
 title = "Add Our Calendar"
