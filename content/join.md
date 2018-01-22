@@ -1,5 +1,5 @@
 +++
-categories = ["general"]
+categories = ["join"]
 date = "2016-06-28T14:00:17-07:00"
 tags = ["document"]
 title = "Join"
