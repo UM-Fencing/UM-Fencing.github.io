@@ -3,7 +3,7 @@ title = "_index"
 +++
 
 <div class="alert alert-info">
-    The University of Michigan Fencing Club is the USACFC National Champion <a href="results/2016-2017/#usacfc2017" class="alert-link">three</a> <a href="results/2015-2016/#usacfc2016" class="alert-link">years</a> <a href="results/2014-2015/#usacfc2015" class="alert-link">running</a>!
+    University of Michigan Fencing has won the USACFC College Fencing National Championships <a href="results/2016-2017/#usacfc2017" class="alert-link">f</a><a href="results/2015-2016/#usacfc2016" class="alert-link">o</a><a href="results/2014-2015/#usacfc2015" class="alert-link">u</a><a href="results/2012-2013/#usacfc2013" class="alert-link">r</a> out of the past six years!
 </div>
 
 Welcome to the homepage of the University of Michigan Fencing Club!
