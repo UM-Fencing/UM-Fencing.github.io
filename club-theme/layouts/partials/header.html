@@ -17,6 +17,7 @@
 		<link rel="stylesheet" href="{{ $baseUrl }}/css/theme.css">
 		<link rel="stylesheet" href="{{ $baseUrl }}/css/bootie-docs.css">
 		<link rel="stylesheet" href="{{ $baseUrl }}/css/font-awesome.min.css">
+		<link rel="stylesheet" href="{{ $baseUrl }}/css/site.css">
 	</head>
 
 <body role="document">
@@ -35,12 +36,11 @@
 			</div>
 			<div id="navbar" class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
-					<li {{ if .IsHome}}class="active"{{ end }}><a href="{{ $baseUrl }}/">Home</a></li>
-			{{ $url := .Permalink }}
-			{{ with .Site.Params.mainMenu }}
+					<li {{ if .IsHome }}class="active"{{ end }}><a href="{{ $baseUrl }}/">Home</a></li>
+			{{ $url := .URL }}
+			{{ with .Site.Menus.main }}
 				{{ range $menu := . }}
-					{{ $itemUrl := printf "%s/%s/" $baseUrl $menu.link }}
-					<li {{ if eq $url $itemUrl }}class="active"{{ end }}><a href="{{ $baseUrl }}/{{ $menu.link }}">{{ $menu.name }}</a></li>
+					<li {{ if eq $url .URL }}class="active"{{ end }}><a href="{{ .URL }}">{{ .Name }}</a></li>
 				{{ end }}
 			{{ end }}
 				{{ if not .Site.Params.noCategoryLink }}
