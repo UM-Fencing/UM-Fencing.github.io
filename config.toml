@@ -37,30 +37,37 @@ copyright = "(c) 2018 University of Michigan Fencing Club"
 	link = "https://recsports.umich.edu/"
 	size = "100px" # Default: 100px
 
-[[params.mainMenu]]
+[[menu.main]]
   name = "Roster"
-  link = "roster"
+  url = "/roster/"
+  weight = "0"
 
-[[params.mainMenu]]
+[[menu.main]]
   name = "Schedule"
-  link = "schedule"
+  url = "/schedule/"
+  weight = "1"
 
-[[params.mainMenu]]
+[[menu.main]]
   name = "Results"
-  link = "results"
+  url = "/results/"
+  weight = "2"
 
-[[params.mainMenu]]
+[[menu.main]]
   name = "Join"
-  link = "join"
+  url = "/join/"
+  weight = "3"
 
-[[params.mainMenu]]
+[[menu.main]]
   name = "About Fencing"
-  link = "about_fencing"
+  url = "/about_fencing/"
+  weight = "4"
 
-[[params.mainMenu]]
+[[menu.main]]
   name = "Contact"
-  link = "contact"
+  url = "/contact/"
+  weight = "5"
 
-[[params.mainMenu]]
+[[menu.main]]
   name = "Donate"
-  link = "donate"
+  url = "/donate/"
+  weight = "6"
