@@ -2,11 +2,11 @@ baseurl = "http://umich.edu/~fencing"
 languageCode = "en-us"
 title = "University of Michigan Fencing Club"
 theme = "club-theme"
-copyright = "(c) 2017 University of Michigan Fencing Club"
+copyright = "(c) 2018 University of Michigan Fencing Club"
 
 [params]
   noCategoryLink = true
-  description = "Back-to-back-to-back national champions!"
+  description = "The top collegiate fencing club in the nation."
   image = "img/2017_CFC_team_with_trophies.png"
   themeColor = "#003e78"
 
