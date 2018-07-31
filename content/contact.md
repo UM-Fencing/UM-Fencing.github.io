@@ -32,11 +32,11 @@ We'd love to hear from you! If you have a question, you can ask any of our offic
 | Position           | Name           | Email Address                                   | Contact About                            |
 |--------------------|----------------|-------------------------------------------------|------------------------------------------|
 | Co-President       | Ethan Madison  | [ethanmad@umich.edu](mailto:ethanmad@umich.edu) | Practice, General Queries                |
-| Co-President       | Yimeng Zhao    | [zhaoyime@umich.edu](mailto:zhaoyime@umich.edu) | Conference(s), Schedule, University Info |
-| Secretary          | David Cichocki | [cichocki@umich.edu](mailto:cichocki@umich.edu) | Membership, Competition Results, Rosters |
+| Co-President       | Elizabeth John | [eljohniz@umich.edu](mailto:eljohniz@umich.edu) | Conference(s), Schedule, University Info |
+| Secretary          | Zachary Zipper | [zezip@umich.edu](mailto:zezip@umich.edu)       | Membership, Competition Results, Rosters |
 | Treasurer          | Emmie Grody    | [egrody@umich.edu](mailto:egrody@umich.edu)     | Dues, Equipment Orders                   |
-| Internal Relations | Elizabeth John | [eljohniz@umich.edu](mailto:eljohniz@umich.edu) | Organizing Events, Fundraisers           |
-| External Relations | Vanessa Fong   | [vbfong@umich.edu](mailto:vbfong@umich.edu)     | UM Club Sports                           |
+| Internal Relations | Ameya Gadkari  | [gadkari@umich.edu](mailto:gadkari@umich.edu)   | Organizing Events, Fundraisers           |
+| External Relations | Max Garcia     | [aequitas@umich.edu](mailto:aequitas@umich.edu) | UM Club Sports                           |
 
 # Other Positions
 | Position                  | Name          | Email Address                                             | Contact About                     |
@@ -45,4 +45,3 @@ We'd love to hear from you! If you have a question, you can ask any of our offic
 | Local Alumni Relations    | Andrew Aitken | [aitkenawa@gmail.com](mailto:aitkenawa@gmail.com)         | Alumni Events                     |
 | Webmaster                 | Ethan Madison | [ethanmad@umich.edu](mailto:ethanmad@umich.edu)           | Website                           |
 | USFA Liaison              | Emmie Grody   | [egrody@umich.edu](mailto:egrody@umich.edu)               | USA Fencing Events and Membership |
-| Armorer                   | Aaron Renberg | [renberg@umich.edu](mailto:renberg@umich.edu)             | Weapon Repair, Armory             |
