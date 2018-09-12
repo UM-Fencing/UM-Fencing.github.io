@@ -15,7 +15,7 @@ We have a Mass Meeting early each Fall for interested newcomers.
 Look for our booths at Rec Sports Expo and at Festifall for more information.
 If you cannot attend the Mass Meeting, simply attend any practice.
 
-If you're joining us later or haven't been receiving emails, please check the [archive](email-archive/).
+If you're joining us later or haven't been receiving emails, please check the [archive](../email-archive/).
 
 # What to Wear
 Normal gym attire is acceptable.
