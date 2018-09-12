@@ -8,7 +8,7 @@ date = "2018-01-21"
 Welcome to the University of Michigan Fencing team!
 Whether you're a new or returning member, we look forward to having you.
 
-This page will be helpful to you in (re)joining the club, recieving all important information throughout the year, and getting to know your teammates.
+This page will be helpful to you in (re)joining the club, receiving all important information throughout the year, and getting to know your teammates.
 
 # Becoming a Member
 Please follow these steps to become a member of the club this term. *All members, including those returning, must complete these annually!*
@@ -45,6 +45,7 @@ If you need help with this, please ask the club Secretary.
 _Returning members should already be on this list._
     - Email is used for all official announcements, so please make sure to join this list if you intend on being a member.
     - Got on our recruiting email list and not interested in fencing? Remove yourself from the list on MCommunity.
+    - Missed an email? Check the [archives](../email-archive/)!
 
 - **[Website](../):** The very website you're on now contains lots of information about the club, including [results](../results), [roster](../roster), and [schedule][]. There are also links to all of our official social media accounts in the footer.
     - Want to contribute? Do so on [our GitHub page][github].
