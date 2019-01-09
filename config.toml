@@ -2,7 +2,7 @@ baseurl = "http://umich.edu/~fencing"
 languageCode = "en-us"
 title = "University of Michigan Fencing Club"
 theme = "club-theme"
-copyright = "(c) 2018 University of Michigan Fencing Club"
+copyright = "(c) 2019 University of Michigan Fencing Club"
 
 [params]
   noCategoryLink = true
@@ -19,8 +19,8 @@ copyright = "(c) 2018 University of Michigan Fencing Club"
   
   # No default values
   [params.practiceTimes]
-    monday = "6-9 pm"
-    wednesday = "6-9 pm"
+    tuesday = "7-9 pm"
+    thursday = "7-9 pm"
     friday = "7-9 pm"
 
   [params.social]

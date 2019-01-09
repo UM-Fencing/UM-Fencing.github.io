@@ -3,7 +3,7 @@ title = "_index"
 +++
 
 <div class="alert alert-warning">
-    <strong>Fall 2018 practice has begun!</strong> Missed our mass meeting? See our <a href="join/">Join page</a> to learn about becoming a member, then come to any practice and join the <a href="https://mcommunity.umich.edu/#group:Fencing%20Recruiting%20Fall%202018">recruiting list</a>. Practice information available on <a href="schedule/">our schedule</a>.
+    Want to join Michigan Fencing? See below!
 </div>
 
 <div class="alert alert-info">
