@@ -15,13 +15,14 @@ We'd love to hear from you! If you have a question, you can ask any of our offic
 <div class="alert alert-info" role="alert">
     Have general inquiry questions?
     Email us at <a href="mailto:fencingofficers@umich.edu" class="alert-link">fencingofficers@umich.edu</a>.
+    We can help in person, too. Stop by during any practice and we'll take care of you.
 </div>
 </div>
 
 <div class="col-md-6">
 <div class="alert alert-info" role="alert">
-    We can answer any questions you have in person!
-    Stop by during any practice and we'll take care of you.
+    Want to anonymously give feedback, ask a question, raise a concern, etc.?
+    Please use our <a href="https://docs.google.com/forms/d/e/1FAIpQLSfALr5zmIjOlnFIzfNHemuKEnqR6cjacwouixNwxecDWtsJ-A/viewform?usp=sf_link" class="alert-link">suggestions box</a>.
 </div>
 </div>
 </div>
