@@ -44,3 +44,7 @@ Tournament fees and most travel expenses covered by a combination of club dues a
 Those traveling should also bring money for food. (Lunch is provided by the team.)
 
 In addition, those who compete will need a full set of fencing gear, including weapons, body cords, a glove, jacket, knickers, socks, and underplastron.
+
+# Constitution
+Our [constitution](../constitution.pdf) (PDF) describes all club policies in detail.
+If you're interested in how we run our club, please read the constitution.
