@@ -2,3 +2,8 @@
  * You can add styles to customize UI for your own site
  * into CSS file: static/css/site.css
  */
+
+.alert a {
+    font-weight: 700;
+    color:  #245269;
+}
