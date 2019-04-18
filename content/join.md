@@ -7,7 +7,10 @@ noshowdate = true
 image = "../img/2017_CFC_huddle.png"
 +++
 
-<div class="alert alert-info" role="alert">Already attended a practice? See the <a href="../welcome/" class="alert-link">Welcome</a> page for the next steps towards becoming a member.</div>
+
+{{% alert info %}}
+Already attended a practice? See the [welcome](../welcome) page for the next steps towards becoming a member.
+{{% /alert %}}
 
 No experience is necessary, and all equipment is provided by the team!
 

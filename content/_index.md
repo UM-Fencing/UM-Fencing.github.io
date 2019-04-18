@@ -2,14 +2,14 @@
 title: '_index'
 ---
 
-<div class="alert alert-warning">
-    Want to join Michigan Fencing? See below!
-</div>
+{{% alert warning %}}
+Want to join Michigan Fencing? See below!
+{{% /alert %}}
 
-<div class="alert alert-info">
-    University of Michigan Fencing: your <a href="results/2018-2019/#usacfc2019" class="alert-link">2019 USACFC College Fencing National Champions</a>!
-    That makes four out of the last five; five out of the last seven; and seven overall. The legacy continues!
-</div>
+{{% alert info %}}
+University of Michigan Fencing: your <a href="results/2018-2019/#usacfc2019" class="alert-link">2019 USACFC College Fencing National Champions</a>!
+That makes four out of the last five; five out of the last seven; and seven overall. The legacy continues!
+{{% /alert %}}
 
 Welcome to the homepage of the University of Michigan Fencing team!
 We are always accepting new members.
