@@ -30,14 +30,15 @@ Please use our [suggestions box](https://docs.google.com/forms/d/e/1FAIpQLSfALr5
 
 
 # Officers
-| Position           | Name           | Email Address                                   | Contact About                            |
-|--------------------|----------------|-------------------------------------------------|------------------------------------------|
-| Co-President       | Ethan Madison  | [ethanmad@umich.edu](mailto:ethanmad@umich.edu) | Practice, General Queries                |
-| Co-President       | Elizabeth John | [eljohniz@umich.edu](mailto:eljohniz@umich.edu) | Conference(s), Schedule, University Info |
-| Secretary          | Zachary Zipper | [zezip@umich.edu](mailto:zezip@umich.edu)       | Membership, Competition Results, Rosters |
-| Treasurer          | Emmie Grody    | [egrody@umich.edu](mailto:egrody@umich.edu)     | Dues, Equipment Orders                   |
-| Internal Relations | Ameya Gadkari  | [gadkari@umich.edu](mailto:gadkari@umich.edu)   | Organizing Events, Fundraisers           |
-| External Relations | Max Garcia     | [aequitas@umich.edu](mailto:aequitas@umich.edu) | UM Club Sports                           |
+| Position               | Name            | Email Address                                   | Contact About                            |
+|------------------------|-----------------|-------------------------------------------------|------------------------------------------|
+| Co-President           | Zachary Zipper  | [zezip@umich.edu](mailto:zezip@umich.edu)       | Practice, General Queries                |
+| Co-President           | George Kuhn     | [geowskuh@umich.edu](mailto:geowskuh@umich.edu) | Conference(s), Schedule, University Info |
+| Secretary              | Alan Hedrick    | [ajhedri@umich.edu](mailto:ajhedri@umich.edu)   | Membership, Competition Results, Rosters |
+| Treasurer              | Ryan Shanahan   | [shanahry@umich.edu](mailto:shanahry@umich.edu) | Dues, Equipment Orders                   |
+| Coordination Officer   | Faith Chang     | [changflm@umich.edu](mailto:changflm@umich.edu) | Organizing Events, Fundraisers           |
+| Brand Officer          | Amina Troupe    | [atroupe@umich.edu](mailto:atroupe@umich.edu)   | Apparel, Branding                        |
+| Communications Officer | Molly Cavanaugh | [mojocav@umich.edu](mailto:mojocav@umich.edu)   | Social Media, Photos/Videos, Mentorship  |
 
 # Other Positions
 | Position                  | Name          | Email Address                                             | Contact About                     |
