@@ -4,6 +4,11 @@ title = "University of Michigan Fencing Club"
 theme = "club-theme"
 copyright = "(c) 2019 University of Michigan Fencing Club"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   noCategoryLink = true
   description = "The top collegiate fencing club in the nation."
