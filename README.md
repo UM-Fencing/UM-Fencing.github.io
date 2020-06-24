@@ -45,6 +45,10 @@ Running `deploy.sh` will do all of this.
 It would be nice to automate deployment using git hooks and CI, or even to make the production directory a bare git repository to push the `public/` directory to, but that's an issue for another time.
 
 
+## Getting write access to the AFS directory
+See the [ITS documentation][AFS docs]
+
 [hugo]: https://gohugo.io/
 [club-theme]: https://github.com/UM-Fencing/club-theme/ "UM-Fencing/club-theme"
 [hugo install]: https://gohugo.io/overview/installing/
+[AFS docs]: https://documentation.its.umich.edu/node/313
