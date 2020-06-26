@@ -32,15 +32,15 @@ Please use our [suggestions box](https://docs.google.com/forms/d/e/1FAIpQLSfALr5
 # Officers
 | Position               | Name            | Email Address                                   | Contact About                            |
 |------------------------|-----------------|-------------------------------------------------|------------------------------------------|
-| Co-President           | Molly Cavanaugh  | [mojocav@umich.edu](mailto:mojocav@umich.edu)       | Conference(s), Schedule, University Info, Practice, General Queries                |
+| Co-President           | Molly Cavanaugh | [mojocav@umich.edu](mailto:mojocav@umich.edu)   | Conference(s), Schedule, University Info, Practice, General Queries                |
 | Co-President           | Faith Chang     | [changflm@umich.edu](mailto:changflm@umich.edu) | Conference(s), Schedule, University Info, Practice, General Queries |
-| Secretary              | Edmond Han    | [edmondhn@umich.edu](mailto:edmondhn@umich.edu)   | Membership, Competition Results, Rosters |
+| Secretary              | Edmond Han      | [edmondhn@umich.edu](mailto:edmondhn@umich.edu) | Membership, Competition Results, Rosters |
 | Treasurer              | Justin Dreyer   | [jtdreyer@umich.edu](mailto:jtdreyer@umich.edu) | Dues, Equipment Orders                   |
 | Coordination Officer   | Lauren Peng     | [fangying@umich.edu](mailto:fangying@umich.edu) | Organizing Events, Fundraisers           |
-| Brand Officer          | Diana Huang    | [dihuang@umich.edu](mailto:dihuang@umich.edu)   | Apparel, Branding                        |
-| Communications Officer | Lahari Vavilala | [lvavi@umich.edu](mailto:lvavi@umich.edu)   | Social Media, Photos/Videos, Mentorship  |
+| Brand Officer          | Diana Huang     | [dihuang@umich.edu](mailto:dihuang@umich.edu)   | Apparel, Branding                        |
+| Communications Officer | Lahari Vavilala | [lvavi@umich.edu](mailto:lvavi@umich.edu)       | Social Media, Photos/Videos, Mentorship  |
 
 # Other Positions
-| Position                  | Name          | Email Address                                             | Contact About                     |
-|---------------------------|---------------|-----------------------------------------------------------|-----------------------------------|
-| Webmaster                 | Peter Murray | [pjmurray@umich.edu](mailto:pjmurray@umich.edu)           | Website                           |
+| Position               | Name            | Email Address                                   | Contact About                            |
+|------------------------|-----------------|-------------------------------------------------|------------------------------------------|
+| Webmaster              | Peter Murray    | [pjmurray@umich.edu](mailto:pjmurray@umich.edu) | Website                                  |
