@@ -32,18 +32,15 @@ Please use our [suggestions box](https://docs.google.com/forms/d/e/1FAIpQLSfALr5
 # Officers
 | Position               | Name            | Email Address                                   | Contact About                            |
 |------------------------|-----------------|-------------------------------------------------|------------------------------------------|
-| Co-President           | Zachary Zipper  | [zezip@umich.edu](mailto:zezip@umich.edu)       | Practice, General Queries                |
-| Co-President           | George Kuhn     | [geowskuh@umich.edu](mailto:geowskuh@umich.edu) | Conference(s), Schedule, University Info |
-| Secretary              | Alan Hedrick    | [ajhedri@umich.edu](mailto:ajhedri@umich.edu)   | Membership, Competition Results, Rosters |
-| Treasurer              | Ryan Shanahan   | [shanahry@umich.edu](mailto:shanahry@umich.edu) | Dues, Equipment Orders                   |
-| Coordination Officer   | Faith Chang     | [changflm@umich.edu](mailto:changflm@umich.edu) | Organizing Events, Fundraisers           |
-| Brand Officer          | Amina Troupe    | [atroupe@umich.edu](mailto:atroupe@umich.edu)   | Apparel, Branding                        |
-| Communications Officer | Molly Cavanaugh | [mojocav@umich.edu](mailto:mojocav@umich.edu)   | Social Media, Photos/Videos, Mentorship  |
+| Co-President           | Molly Cavanaugh  | [mojocav@umich.edu](mailto:mojocav@umich.edu)       | Conference(s), Schedule, University Info, Practice, General Queries                |
+| Co-President           | Faith Chang     | [changflm@umich.edu](mailto:changflm@umich.edu) | Conference(s), Schedule, University Info, Practice, General Queries |
+| Secretary              | Edmond Han    | [edmondhn@umich.edu](mailto:edmondhn@umich.edu)   | Membership, Competition Results, Rosters |
+| Treasurer              | Justin Dreyer   | [jtdreyer@umich.edu](mailto:jtdreyer@umich.edu) | Dues, Equipment Orders                   |
+| Coordination Officer   | Lauren Peng     | [fangying@umich.edu](mailto:fangying@umich.edu) | Organizing Events, Fundraisers           |
+| Brand Officer          | Diana Huang    | [dihuang@umich.edu](mailto:dihuang@umich.edu)   | Apparel, Branding                        |
+| Communications Officer | Lahari Vavilala | [lvavi@umich.edu](mailto:lvavi@umich.edu)   | Social Media, Photos/Videos, Mentorship  |
 
 # Other Positions
 | Position                  | Name          | Email Address                                             | Contact About                     |
 |---------------------------|---------------|-----------------------------------------------------------|-----------------------------------|
-| National Alumni Relations | Sarah Hanchar | [sarah.hanchar@gmail.com](mailto:sarah.hanchar@gmail.com) | Alumni Inquiries                  |
-| Local Alumni Relations    | Andrew Aitken | [aitkenawa@gmail.com](mailto:aitkenawa@gmail.com)         | Alumni Events                     |
-| Webmaster                 | Ethan Madison | [ethanmad@umich.edu](mailto:ethanmad@umich.edu)           | Website                           |
-| USFA Liaison              | Emmie Grody   | [egrody@umich.edu](mailto:egrody@umich.edu)               | USA Fencing Events and Membership |
+| Webmaster                 | Peter Murray | [pjmurray@umich.edu](mailto:pjmurray@umich.edu)           | Website                           |
