@@ -38,7 +38,7 @@ Please use our [suggestions box](https://docs.google.com/forms/d/e/1FAIpQLSfALr5
 | Treasurer              | Justin Dreyer   | [jtdreyer@umich.edu](mailto:jtdreyer@umich.edu) | Dues, Equipment Orders                   |
 | Coordination Officer   | Lauren Peng     | [fangying@umich.edu](mailto:fangying@umich.edu) | Organizing Events, Fundraisers           |
 | Brand Officer          | Diana Huang     | [dihuang@umich.edu](mailto:dihuang@umich.edu)   | Apparel, Branding                        |
-| Communications Officer | Lahari Vavilala | [lvavi@umich.edu](mailto:lvavi@umich.edu)       | Social Media, Photos/Videos, Mentorship  |
+| Communications Officer | Lahari Vavilala | [lvavi@umich.edu](mailto:lvavi@umich.edu)       | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
 
 # Other Positions
 | Position               | Name            | Email Address                                   | Contact About                            |
