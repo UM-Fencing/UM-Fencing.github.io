@@ -22,7 +22,7 @@ We can help in person, too. Stop by during any practice and we'll take care of y
 <div class="col-md-6">
 {{% alert info %}}
 Want to anonymously give feedback, ask a question, raise a concern, etc.?
-Please use our [suggestions box](https://docs.google.com/forms/d/e/1FAIpQLSfALr5zmIjOlnFIzfNHemuKEnqR6cjacwouixNwxecDWtsJ-A/viewform?usp=sf_link).
+Please use our [suggestions box](https://forms.gle/NGa2WxkeSUKAXgXJ9).
 {{% /alert %}}
 </div>
 </div>
