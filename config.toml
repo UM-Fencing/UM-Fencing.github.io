@@ -45,34 +45,34 @@ copyright = "(c) 2020 University of Michigan Fencing Club"
 [[menu.main]]
   name = "Roster"
   url = "/roster/"
-  weight = "0"
+  weight = "1"
 
 [[menu.main]]
   name = "Schedule"
   url = "/schedule/"
-  weight = "1"
+  weight = "2"
 
 [[menu.main]]
   name = "Results"
   url = "/results/"
-  weight = "2"
+  weight = "3"
 
 [[menu.main]]
   name = "Join"
   url = "/join/"
-  weight = "3"
+  weight = "4"
 
 [[menu.main]]
   name = "About Fencing"
   url = "/about_fencing/"
-  weight = "4"
+  weight = "5"
 
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  weight = "5"
+  weight = "6"
 
 [[menu.main]]
   name = "Donate"
   url = "/donate/"
-  weight = "6"
+  weight = "7"

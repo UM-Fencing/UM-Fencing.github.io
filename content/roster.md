@@ -13,15 +13,18 @@ image = "../img/Fencing Team 2016.jpg"
 |--------------------|-------------------------------|-----------|------------------------|
 | Edmond Han         | Epee                          | JR        | Johns Creek, GA        |
 | Edward Jung        | Epee                          | SO        | Sammamish, WA          |
+| Mitchell Schrank   | Epee                          | Grad      | Wilmette, IL           |
 | Amith Vadlamudi    | Epee                          | SR        | Atlanta, GA            |
 | Colin Yoon         | Epee                          | SO        | Larkspur, CA           |
 | Justin Dreyer      | Foil                          | SO        | Pittsburgh, PA         |
 | Eli Goldweber      | Foil                          | Grad      | Cincinnati, OH         |
+| Cameron Haynes     | Foil                          | SO        | Stevensville, MI       |
 | James Kennedy      | Foil                          | SO        | Oak Park, IL           |
 | George Kuhn        | Foil                          | SR        | Vienna, VA             |
 | Aaron Renberg      | Foil                          | SO        | Bethesda, MD           |
 | Cameron Rifkin     | Foil                          | SO        | Birmingham, MI         |
 | Joshua Cooper      | Saber                         | Grad      | Detroit, MI            |
+| Weiqing Li         | Saber                         | JR        | Beijing, China         |
 | Peter Murray       | Saber                         | JR        | Highland Park, IL      |
 | James Utley        | Saber                         | SO        | Canton, MI             |
 | Zach Zipper        | Saber                         | Grad      | Katonah, NY            |
@@ -35,6 +38,8 @@ image = "../img/Fencing Team 2016.jpg"
 | Diana Huang        | Epee                          | JR        | Solon, OH              |
 | Brianna Moglianesi | Epee                          | SO        | Warren, NJ             |
 | Sarah Rahman       | Epee                          | SO        | Miami, FL              |
+| Meilyn Ward        | Epee                          | FR        | Northbrook, IL         |
+| Jasmine An         | Foil                          | Grad      | Ann Arbor, MI          |
 | Molly Cavanaugh    | Foil                          | JR        | Okemos, MI             |
 | Sookyung Heo       | Foil                          | SO        | Seoul, South Korea     |
 | Mackenzie Hubbard  | Foil                          | JR        | Ludington, MI          |
