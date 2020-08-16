@@ -23,6 +23,7 @@ image = "../img/Fencing Team 2016.jpg"
 | George Kuhn        | Foil                          | SR        | Vienna, VA             |
 | Aaron Renberg      | Foil                          | SO        | Bethesda, MD           |
 | Cameron Rifkin     | Foil                          | SO        | Birmingham, MI         |
+| Peter Ryner        | Foil                          | SR        | Harbor Springs, MI     |
 | Joshua Cooper      | Saber                         | Grad      | Detroit, MI            |
 | Weiqing Li         | Saber                         | JR        | Beijing, China         |
 | Peter Murray       | Saber                         | JR        | Highland Park, IL      |
@@ -44,6 +45,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Sookyung Heo       | Foil                          | SO        | Seoul, South Korea     |
 | Mackenzie Hubbard  | Foil                          | JR        | Ludington, MI          |
 | Jin Niu            | Foil                          | SO        | Beijing, China         |
+| Sandhya Srinivasan | Foil                          | SO        | Troy, MI               |
 | Lahari Vavilala    | Foil                          | SO        | Novi, MI               |
 | Annie Vo           | Foil                          | SO        | Oxford, MI             |
 | Lucy Wang          | Foil                          | SO        | Rockville, MD          |
