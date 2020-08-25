@@ -41,6 +41,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Meilyn Ward        | Epee                          | FR        | Northbrook, IL         |
 | Jasmine An         | Foil                          | Grad      | Ann Arbor, MI          |
 | Molly Cavanaugh    | Foil                          | JR        | Okemos, MI             |
+| Rachel Hendrian    | Foil                          | FR        | Farmington Hills, MI   |
 | Sookyung Heo       | Foil                          | SO        | Seoul, South Korea     |
 | Mackenzie Hubbard  | Foil                          | JR        | Ludington, MI          |
 | Jin Niu            | Foil                          | SO        | Beijing, China         |
@@ -48,6 +49,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Annie Vo           | Foil                          | SO        | Oxford, MI             |
 | Lucy Wang          | Foil                          | SO        | Rockville, MD          |
 | Henriette Lucas    | Saber                         | SO        | Novi, MI               |
+| Lauren Peng        | Saber                         | SO        | Morristown, NJ         |
 
 
 # Coaches
