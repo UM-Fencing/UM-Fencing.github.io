@@ -41,14 +41,14 @@ Please use our [suggestions box](https://forms.gle/NGa2WxkeSUKAXgXJ9).
 | Communications Officer | Lahari Vavilala | [lvavi@umich.edu](mailto:lvavi@umich.edu)       | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
 
 # Captains
-| Squad                  | Name            | Email Address                                   |
-|------------------------|-----------------|-------------------------------------------------|
-| Men's Epee             | Edmond Han      | [edmondhn@umich.edu](mailto:edmondhn@umich.edu) |
-| Men's Foil             | Justin Dreyer   | [jtdreyer@umich.edu](mailto:jtdreyer@umich.edu) |
-| Men's Saber            | Peter Murray & Thomas Choi| [pjmurray@umich.edu](mailto:pjmurray@umich.edu) & [tomchoi@umich.edu](mailto:thomchoi@umich.edu)|
-| Women's Epee           | Faith Chang     | [changflm@umich.edu](mailto:changflm@umich.edu) |
-| Women's Foil           | Molly Cavanaugh | [mojocav@umich.edu](mailto:mojocav@umich.edu)   |
-| Women's Saber          | Karson Schenk   | [karsons@umich.edu](mailto:karsons@umich.edu)   |
+| Squad                  | Name                       | Email Address                                   |
+|------------------------|----------------------------|-------------------------------------------------|
+| Men's Epee             | Edmond Han                 | [edmondhn@umich.edu](mailto:edmondhn@umich.edu) |
+| Men's Foil             | Justin Dreyer              | [jtdreyer@umich.edu](mailto:jtdreyer@umich.edu) |
+| Men's Saber            | Peter Murray & Thomas Choi | [pjmurray@umich.edu](mailto:pjmurray@umich.edu) & [tomchoi@umich.edu](mailto:thomchoi@umich.edu)|
+| Women's Epee           | Faith Chang                | [changflm@umich.edu](mailto:changflm@umich.edu) |
+| Women's Foil           | Molly Cavanaugh            | [mojocav@umich.edu](mailto:mojocav@umich.edu)   |
+| Women's Saber          | Karson Schenk              | [karsons@umich.edu](mailto:karsons@umich.edu)   |
 
 # Other Positions
 | Position               | Name            | Email Address                                   | Contact About                            |
