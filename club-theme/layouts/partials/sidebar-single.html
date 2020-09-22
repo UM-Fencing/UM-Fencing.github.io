@@ -12,7 +12,7 @@
                     {{ with .Site.Params.practiceTimes.thursday }}<strong>Thursdays</strong>: {{ . }}<br>{{ end }}
                     {{ with .Site.Params.practiceTimes.friday }}<strong>Fridays</strong>: {{ . }}<br>{{ end }}
                     {{ with .Site.Params.practiceTimes.saturday }}<strong>Saturdays</strong>: {{ . }}<br>{{ end }}
-                {{ with .Site.Params.practiceLocation }}at {{ . | markdownify }}{{ end }}
+                {{ with .Site.Params.practiceLocation }} {{ . | markdownify }}{{ end }}
             </div>
         {{ end }}
 
