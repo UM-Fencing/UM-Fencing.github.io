@@ -45,6 +45,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Rachel Hendrian               | Foil                          | FR        | Farmington Hills, MI   |
 | Sookyung Heo                  | Foil                          | SO        | Seoul, South Korea     |
 | Mackenzie Hubbard             | Foil                          | JR        | Ludington, MI          |
+| Saima Jamal                   | Foil                          | SO        | Teaneck, NJ            |
 | Jin Niu                       | Foil                          | SO        | Beijing, China         |
 | Sandhya Srinivasan            | Foil                          | SO        | Troy, MI               |
 | Lahari Vavilala               | Foil                          | SO        | Novi, MI               |
