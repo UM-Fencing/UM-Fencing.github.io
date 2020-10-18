@@ -12,7 +12,8 @@
                     {{ with .Site.Params.practiceTimes.thursday }}<strong>Thursdays</strong>: {{ . }}<br>{{ end }}
                     {{ with .Site.Params.practiceTimes.friday }}<strong>Fridays</strong>: {{ . }}<br>{{ end }}
                     {{ with .Site.Params.practiceTimes.saturday }}<strong>Saturdays</strong>: {{ . }}<br>{{ end }}
-                {{ with .Site.Params.practiceLocation }}via {{ . | markdownify }}{{ end }}
+                    {{ with .Site.Params.practiceTimes.other }}<strong>Every other Friday</strong>: {{ . }}<br>{{ end }}
+                {{ with .Site.Params.practiceLocation }}at {{ . | markdownify }}{{ end }}
             </div>
         {{ end }}
 
