@@ -22,12 +22,12 @@ copyright = "(c) 2020 University of Michigan Fencing Club"
 
   # coliseum location: "the <a href='https://www.google.com/maps/place/University+of+Michigan-Sports+Coliseum/@42.2744305,-83.7456399,16z/data=!4m5!3m4!1s0x883cae3762fe5cc1:0xd3f27cff08a1643f!8m2!3d42.2720542!4d-83.7459577?hl=en' target='_blank'> IM Sports Coliseum</a>"
 
-  practiceLocation = "the <a href='https://www.google.com/maps/place/University+of+Michigan-Sports+Coliseum/@42.2744305,-83.7456399,16z/data=!4m5!3m4!1s0x883cae3762fe5cc1:0xd3f27cff08a1643f!8m2!3d42.2720542!4d-83.7459577?hl=en' target='_blank'> IM Sports Coliseum</a> and via Zoom"
+  practiceLocation = "the <a href='https://www.google.com/maps/place/University+of+Michigan-Sports+Coliseum/@42.2744305,-83.7456399,16z/data=!4m5!3m4!1s0x883cae3762fe5cc1:0xd3f27cff08a1643f!8m2!3d42.2720542!4d-83.7459577?hl=en' target='_blank'> IM Sports Coliseum</a>"
 
   # No default values
   [params.practiceTimes]
     wednesday = "6-9 pm"
-    other = "7-9 pm"
+    friday = "7-9 pm"
 
   [params.social]
     facebook = "umichfencing"
