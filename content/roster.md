@@ -57,6 +57,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Lucy Wang                     | Foil                          | SO        | Rockville, MD          |
 | Sapphira Ching                | Saber                         | FR        | Wilton, CT             |
 | Azaria Knight                 | Saber                         | SO        | Southfield, MI         |
+| Margaret Koberstein           | Saber                         | FR        | Libertyville, IL       | 
 | Henriette Lucas               | Saber                         | SO        | Novi, MI               |
 | Lauren Peng                   | Saber                         | SO        | Morristown, NJ         |
 | Karson Schenk (**Captain**)   | Saber                         | SR        | Port Huron, MI         |
