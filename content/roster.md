@@ -55,7 +55,6 @@ image = "../img/Fencing Team 2016.jpg"
 | Lahari Vavilala               | Foil                          | SO        | Novi, MI               |
 | Annie Vo                      | Foil                          | SO        | Oxford, MI             |
 | Lucy Wang                     | Foil                          | SO        | Rockville, MD          |
-| Sapphira Ching                | Saber                         | FR        | Wilton, CT             |
 | Azaria Knight                 | Saber                         | SO        | Southfield, MI         |
 | Margaret Koberstein           | Saber                         | FR        | Libertyville, IL       | 
 | Henriette Lucas               | Saber                         | SO        | Novi, MI               |
