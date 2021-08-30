@@ -3,7 +3,7 @@ title: '_index'
 ---
 
 {{% alert warning %}}
-Want to join Michigan Fencing? See below!
+Want to join Michigan Fencing? Our Mass Meeting is **Friday, September 10 from 7-9pm**. No experience necessary!
 {{% /alert %}}
 
 {{% alert info %}}
