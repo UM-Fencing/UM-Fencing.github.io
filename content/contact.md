@@ -34,11 +34,11 @@ Please use our [suggestions box](https://forms.gle/NGa2WxkeSUKAXgXJ9).
 |------------------------|-----------------|-------------------------------------------------|------------------------------------------|
 | Co-President           | Molly Cavanaugh | [mojocav@umich.edu](mailto:mojocav@umich.edu)   | Conference(s), Schedule, University Info, Practice, General Queries                |
 | Co-President           | Faith Chang     | [changflm@umich.edu](mailto:changflm@umich.edu) | Conference(s), Schedule, University Info, Practice, General Queries |
-| Secretary              | Edmond Han      | [edmondhn@umich.edu](mailto:edmondhn@umich.edu) | Membership, Competition Results, Rosters |
+| Secretary              | James Utley     | [utleyj@umich.edu](mailto:utleyj@umich.edu)     | Membership, Competition Results, Rosters |
 | Treasurer              | Justin Dreyer   | [jtdreyer@umich.edu](mailto:jtdreyer@umich.edu) | Dues, Equipment Orders                   |
-| Coordination Officer   | Lauren Peng     | [fangying@umich.edu](mailto:fangying@umich.edu) | Organizing Events, Fundraisers           |
-| Brand Officer          | Diana Huang     | [dihuang@umich.edu](mailto:dihuang@umich.edu)   | Apparel, Branding                        |
-| Communications Officer | Lahari Vavilala | [lvavi@umich.edu](mailto:lvavi@umich.edu)       | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
+| Coordination Officer   | Sookyung Heo    | [sooheo@umich.edu](mailto:sooheo@umich.edu)     | Organizing Events, Fundraisers           |
+| Brand Officer          | Hanna Chen      | [hannadc@umich.edu](mailto:hannadc@umich.edu)   | Apparel, Branding                        |
+| Communications Officer | Sunskriti Paranjape | [sunspara@umich.edu](mailto:sunspara@umich.edu)       | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
 
 # Captains
 | Squad                  | Name                       | Email Address                                   |
