@@ -33,10 +33,10 @@ Please use our [suggestions box](https://forms.gle/NGa2WxkeSUKAXgXJ9).
 | Position               | Name            | Email Address                                   | Contact About                            |
 |------------------------|-----------------|-------------------------------------------------|------------------------------------------|
 | Co-President           | Molly Cavanaugh | [mojocav@umich.edu](mailto:mojocav@umich.edu)   | Conference(s), Schedule, University Info, Practice, General Queries                |
-| Co-President           | Faith Chang     | [changflm@umich.edu](mailto:changflm@umich.edu) | Conference(s), Schedule, University Info, Practice, General Queries |
+| Co-President           | Sookyung Heo    | [sooheo@umich.edu](mailto:sooheo@umich.edu)     | Conference(s), Schedule, University Info, Practice, General Queries |
 | Secretary              | James Utley     | [utleyj@umich.edu](mailto:utleyj@umich.edu)     | Membership, Competition Results, Rosters |
 | Treasurer              | Justin Dreyer   | [jtdreyer@umich.edu](mailto:jtdreyer@umich.edu) | Dues, Equipment Orders                   |
-| Coordination Officer   | Sookyung Heo    | [sooheo@umich.edu](mailto:sooheo@umich.edu)     | Organizing Events, Fundraisers           |
+| Coordination Officer   | Nathaniel White | [wnate@umich.edu](mailto:wnate@umich.edu)     | Organizing Events, Fundraisers           |
 | Brand Officer          | Hanna Chen      | [hannadc@umich.edu](mailto:hannadc@umich.edu)   | Apparel, Branding                        |
 | Communications Officer | Sunskriti Paranjape | [sunspara@umich.edu](mailto:sunspara@umich.edu)       | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
 
@@ -46,9 +46,9 @@ Please use our [suggestions box](https://forms.gle/NGa2WxkeSUKAXgXJ9).
 | Men's Epee             | Edmond Han                 | [edmondhn@umich.edu](mailto:edmondhn@umich.edu) |
 | Men's Foil             | Justin Dreyer              | [jtdreyer@umich.edu](mailto:jtdreyer@umich.edu) |
 | Men's Saber            | Peter Murray & Thomas Choi | [pjmurray@umich.edu](mailto:pjmurray@umich.edu) & [tomchoi@umich.edu](mailto:thomchoi@umich.edu)|
-| Women's Epee           | Faith Chang                | [changflm@umich.edu](mailto:changflm@umich.edu) |
+| Women's Epee           | Faith Chang & Amina Troupe | [changflm@umich.edu](mailto:changflm@umich.edu) & [atroupe@umich.edu](mailto:atroupe@umich.edu) |
 | Women's Foil           | Molly Cavanaugh            | [mojocav@umich.edu](mailto:mojocav@umich.edu)   |
-| Women's Saber          | Karson Schenk              | [karsons@umich.edu](mailto:karsons@umich.edu)   |
+| Women's Saber          | Maggie Koberstein          | [mlkobe@umich.edu](mailto:mlkobe@umich.edu)     |
 
 # Other Positions
 | Position               | Name            | Email Address                                   | Contact About                            |
