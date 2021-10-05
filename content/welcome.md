@@ -74,5 +74,5 @@ Follow us on our official social media channels for updates on competitions, pic
 [github]: https://github.com/UM-Fencing
 [schedule]: ../schedule
 [Facebook]: https://facebook.com/umichfencing
-[Instagram]: https://twitter.com/umichfencing
+[Instagram]: https://instagram.com/umichfencing
 [Twitter]: https://twitter.com/um_fencing
