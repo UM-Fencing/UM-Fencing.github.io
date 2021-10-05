@@ -69,7 +69,7 @@ Follow us on our official social media channels for updates on competitions, pic
 
 
 [Maize Page]: https://maizepages.umich.edu/organization/fencing
-[slack]: https://umfc.slack,com
+[slack]: https://umfc.slack.com
 [MCommunity]: https://mcommunity.umich.edu/#group:University%20of%20Michigan%20Fencing%20Club%20Members
 [github]: https://github.com/UM-Fencing
 [schedule]: ../schedule
