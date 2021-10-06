@@ -20,7 +20,7 @@ The University [offers insurance](https://www.uhs.umich.edu/dship) to students a
 An officer will approve your request shortly.
 *Returning members need not complete this step.*
 
-1. **Participation Agreement:** After joining us on Maize Pages, scroll to the "Forms" section to find this year's Participation Agreement.
+1. **Participation Agreement:** After joining us on Maize Pages, scroll to the "Forms" section to find this year's Participation Agreement, or use the direct link <a href='https://maizepages.umich.edu/submitter/form/start/493015' target='_blank'>here</a>.
 Please complete it to become an official member of our roster.
 A photo of your health insurance card is required for completion.
 This _must_ be submitted and approved before traveling, and facility supervisors begin to disallow those not on the roster shortly after the beginning of the term; complete this early to avoid missing fencing.
