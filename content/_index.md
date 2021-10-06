@@ -3,7 +3,7 @@ title: '_index'
 ---
 
 {{% alert warning %}}
-Want to join Michigan Fencing? See below!
+**COVID-19 Information:** Masks are required for __all__ fencers, even while fencing.
 {{% /alert %}}
 
 {{% alert info %}}
