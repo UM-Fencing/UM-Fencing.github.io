@@ -86,8 +86,8 @@ image = "../img/Fencing Team 2016.jpg"
 | Saima Jamal                       | Foil                          | JR        | Teaneck, NJ            |
 | Azaria Knight                     | Foil                          | JR        | Southfield, MI         |
 | Jennifer Meng                     | Foil                          | FR        | Ann Arbor, MI          |
-| Sunskriti Paranjape               | Foil                          | JR        | Portland, OR           |
 | Jin Niu                           | Foil                          | JR        | Beijing, China         |
+| Sunskriti Paranjape               | Foil                          | JR        | Portland, OR           |
 | Sandhya Srinivasan                | Foil                          | JR        | Troy, MI               |
 | Dominika Urbaniak                 | Foil                          | FR        | Hamtramck, MI          |
 | Lahari Vavilala                   | Foil                          | JR        | Novi, MI               |
