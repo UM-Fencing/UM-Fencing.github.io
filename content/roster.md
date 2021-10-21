@@ -2,7 +2,7 @@
 categories = ["general"]
 tags = ["document"]
 title = "Roster"
-description = "The 2020-2021 team"
+description = "The 2021-2022 team"
 noshowdate = true
 image = "../img/Fencing Team 2016.jpg"
 +++
