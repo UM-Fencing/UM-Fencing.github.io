@@ -11,6 +11,7 @@ image = "../img/Fencing Team 2016.jpg"
 
 | Name                          | Weapon                        | Year        | Hometown               |
 |-------------------------------|-------------------------------|-------------|------------------------|
+| Zachary Brooks                | Epee                          | Grad        | Shawnee, KS            |
 | Ian Chu                       | Epee                          | FR          | Bozeman, MT            |
 | Maximilian Coolidge Crouthamel| Epee                          | SR          | Grand Rapids, MI       |
 | Edmond Han (**Captain**)      | Epee                          | SR          | Johns Creek, GA        |
@@ -42,6 +43,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Alvin Poon                    | Foil                          | SO          | Toronto, Canada        |
 | Aaron Renberg                 | Foil                          | Grad        | Bethesda, MD           |
 | Cameron Rifkin                | Foil                          | JR          | Birmingham, MI         |
+| Arun Rushton                  | Foil                          | FR          | Novi, MI               |
 | Peter Ryner                   | Foil                          | SR          | Harbor Springs, MI     |
 | Ryder Spees                   | Foil                          | FR          | Fenton, MI             |
 | Santiago Suarez               | Foil                          | SR          | Madrid, Spain          |
@@ -69,6 +71,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Sohee Chung                       | Epee                          | SO        | Seoul, South Korea     |
 | Jingqi Fan                        | Epee                          | JR        | Las Vegas, NV          |
 | Annmarie Guarink                  | Epee                          | FR        | Dearborn, MI           |
+| Emeline Hanna                     | Epee                          | SO        | Alpena, MI             |
 | Diana Huang                       | Epee                          | SR        | Solon, OH              |
 | Kai Huie                          | Epee                          | SO        | New York, NY           |
 | Hilary Lam                        | Epee                          | SO        | Bloomfield Hills, MI   |
