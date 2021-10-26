@@ -53,5 +53,6 @@ Please use our [suggestions box](https://forms.gle/NGa2WxkeSUKAXgXJ9).
 # Other Positions
 | Position               | Name            | Email Address                                   | Contact About                            |
 |------------------------|-----------------|-------------------------------------------------|------------------------------------------|
+| Armorer                | Edmond Han      | [edmondhn@umich.edu](mailto:edmondhn@umich.edu) | Equipment Issues                         |
 | Webmaster              | Peter Murray    | [pjmurray@umich.edu](mailto:pjmurray@umich.edu) | Website                                  |
 | Webmaster              | James Kennedy   | [jamesken@umich.edu](mailto:jamesken@umich.edu) | Website                                  |
