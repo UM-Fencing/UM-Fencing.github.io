@@ -55,7 +55,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Jake Huang                    | Saber                         | JR          | China                  |
 | Maxwell Iseler                | Saber                         | FR          | Port Hope, MI          |
 | Luke Kurfess                  | Saber                         | JR          | Horton, MI             |
-| Peter Murray (**Captain**)    | Saber                         | JR          | Highland Park, IL      |
+| Peter Murray (**Captain**)    | Saber                         | SR          | Highland Park, IL      |
 | Sean Richards                 | Saber                         | SO          | Canton, MI             |
 | James Utley                   | Saber                         | JR          | Canton, MI             |
 | Jonathan Wang                 | Saber                         | FR          | Troy, MI               |
