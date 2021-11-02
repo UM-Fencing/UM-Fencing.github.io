@@ -49,7 +49,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Santiago Suarez               | Foil                          | SR          | Madrid, Spain          |
 | Anthony Vanlian               | Foil                          | FR          | Battle Creek, MI       |
 | Aaron Maxwell Belman-Wells    | Saber                         | FR          | Ann Arbor, MI          |
-| Thomas Choi (**Captain**)     | Saber                         | JR          | Lake Orion, MI         |
+| Thomas Choi                   | Saber                         | JR          | Lake Orion, MI         |
 | Joshua Cooper                 | Saber                         | Grad        | Detroit, MI            |
 | Zain Dhanani                  | Saber                         | FR          | Palo Alto, CA          |
 | Jake Huang                    | Saber                         | JR          | China                  |

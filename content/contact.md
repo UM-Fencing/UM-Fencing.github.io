@@ -45,7 +45,7 @@ Please use our [suggestions box](https://forms.gle/NGa2WxkeSUKAXgXJ9).
 |------------------------|----------------------------|-------------------------------------------------|
 | Men's Epee             | Edmond Han                 | [edmondhn@umich.edu](mailto:edmondhn@umich.edu) |
 | Men's Foil             | Justin Dreyer              | [jtdreyer@umich.edu](mailto:jtdreyer@umich.edu) |
-| Men's Saber            | Peter Murray & Thomas Choi | [pjmurray@umich.edu](mailto:pjmurray@umich.edu) & [tomchoi@umich.edu](mailto:thomchoi@umich.edu)|
+| Men's Saber            | Peter Murray               | [pjmurray@umich.edu](mailto:pjmurray@umich.edu) |
 | Women's Epee           | Faith Chang & Amina Troupe | [changflm@umich.edu](mailto:changflm@umich.edu) & [atroupe@umich.edu](mailto:atroupe@umich.edu) |
 | Women's Foil           | Molly Cavanaugh            | [mojocav@umich.edu](mailto:mojocav@umich.edu)   |
 | Women's Saber          | Maggie Koberstein          | [mlkobe@umich.edu](mailto:mlkobe@umich.edu)     |
