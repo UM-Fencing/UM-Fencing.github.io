@@ -98,6 +98,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Tina Yu                           | Foil                          | FR        | Taiwan                 |
 | Alanna Carlo-Pagan                | Saber                         | FR        | San Juan, Puerto Rico  |
 | Emely Hernandez                   | Saber                         | SR        | Ontario, Canada        |
+| Sam Jiao                          | Saber                         | Grad      | Beijing, China         |
 | Margaret Koberstein (**Captain**) | Saber                         | SO        | Libertyville, IL       |
 | Alicja Maria Krasowska            | Saber                         | FR        | Warsaw, Poland         |
 | Emerson Lauster                   | Saber                         | FR        | Gaylord, MI            |
