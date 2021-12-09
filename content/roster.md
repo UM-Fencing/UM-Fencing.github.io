@@ -33,10 +33,9 @@ image = "../img/Fencing Team 2016.jpg"
 | Colin Yoon                    | Epee                          | SR          | Larkspur, CA           |
 | Caedon Zube                   | Epee                          | FR          | Middleville, MI        |
 | Brandon Battle                | Foil                          | SR          | Detroit, MI            |
-| Justin Dreyer (**Captain**)   | Foil                          | JR          | Pittsburgh, PA         |
 | Atticus Driver                | Foil                          | SO          | Yuba City, CA          |
 | Eli Goldweber                 | Foil                          | Grad        | Cincinnati, OH         |
-| Keith Haw                     | Foil                          | SO          | Pitssburgh, PA         |
+| Keith Haw (**Captain**)       | Foil                          | SO          | Pittsburgh, PA         |
 | Hugo He                       | Foil                          | JR          | China                  |
 | James Kennedy                 | Foil                          | JR          | Oak Park, IL           |
 | Gordon Ng                     | Foil                          | FR          | Southgate, MI          |

@@ -30,21 +30,21 @@ Please use our [suggestions box](https://forms.gle/NGa2WxkeSUKAXgXJ9).
 
 
 # Officers
-| Position               | Name            | Email Address                                   | Contact About                            |
-|------------------------|-----------------|-------------------------------------------------|------------------------------------------|
-| Co-President           | Molly Cavanaugh | [mojocav@umich.edu](mailto:mojocav@umich.edu)   | Conference(s), Schedule, University Info, Practice, General Queries                |
-| Co-President           | Sookyung Heo    | [sooheo@umich.edu](mailto:sooheo@umich.edu)     | Conference(s), Schedule, University Info, Practice, General Queries |
-| Secretary              | James Utley     | [utleyj@umich.edu](mailto:utleyj@umich.edu)     | Membership, Competition Results, Rosters |
-| Treasurer              | Justin Dreyer   | [jtdreyer@umich.edu](mailto:jtdreyer@umich.edu) | Dues, Equipment Orders                   |
-| Coordination Officer   | Nathaniel White | [wnate@umich.edu](mailto:wnate@umich.edu)     | Organizing Events, Fundraisers           |
-| Brand Officer          | Hanna Chen      | [hannadc@umich.edu](mailto:hannadc@umich.edu)   | Apparel, Branding                        |
-| Communications Officer | Sunskriti Paranjape | [sunspara@umich.edu](mailto:sunspara@umich.edu)       | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
+| Position               | Name                | Email Address                                   | Contact About                            |
+|------------------------|---------------------|-------------------------------------------------|------------------------------------------|
+| Co-President           | Molly Cavanaugh     | [mojocav@umich.edu](mailto:mojocav@umich.edu)   | Conference(s), Schedule, University Info, Practice, General Queries |
+| Co-President           | Sookyung Heo        | [sooheo@umich.edu](mailto:sooheo@umich.edu)     | Conference(s), Schedule, University Info, Practice, General Queries |
+| Secretary              | James Utley         | [utleyj@umich.edu](mailto:utleyj@umich.edu)     | Membership, Competition Results, Rosters |
+| Treasurer              | Brianna Moglianesi  | [brimog@umich.edu](mailto:brimog@umich.edu)     | Dues, Equipment Orders                   |
+| Coordination Officer   | Nathaniel White     | [wnate@umich.edu](mailto:wnate@umich.edu)       | Organizing Events, Fundraisers           |
+| Brand Officer          | Hanna Chen          | [hannadc@umich.edu](mailto:hannadc@umich.edu)   | Apparel, Branding                        |
+| Communications Officer | Sunskriti Paranjape | [sunspara@umich.edu](mailto:sunspara@umich.edu) | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
 
 # Captains
 | Squad                  | Name                       | Email Address                                   |
 |------------------------|----------------------------|-------------------------------------------------|
 | Men's Epee             | Edmond Han                 | [edmondhn@umich.edu](mailto:edmondhn@umich.edu) |
-| Men's Foil             | Justin Dreyer              | [jtdreyer@umich.edu](mailto:jtdreyer@umich.edu) |
+| Men's Foil             | Keith Haw                  | [keithhaw@umich.edu](mailto:keithhaw@umich.edu) |
 | Men's Saber            | Peter Murray               | [pjmurray@umich.edu](mailto:pjmurray@umich.edu) |
 | Women's Epee           | Faith Chang & Amina Troupe | [changflm@umich.edu](mailto:changflm@umich.edu) & [atroupe@umich.edu](mailto:atroupe@umich.edu) |
 | Women's Foil           | Molly Cavanaugh            | [mojocav@umich.edu](mailto:mojocav@umich.edu)   |
