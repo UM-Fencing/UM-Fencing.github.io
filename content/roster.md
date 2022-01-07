@@ -81,7 +81,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Molly Cavanaugh (**Captain**)     | Foil                          | SR        | Okemos, MI             |
 | Alifa Chowdhury                   | Foil                          | FR        | Ontario, Canada        |
 | Isabelle DeGaynor                 | Foil                          | SO        | Bloomfield Hills, MI   |
-| Rachel Ettner                     | Foil                          | FR        | Culver City, CA        |
+| Ryan Ettner                       | Foil                          | FR        | Culver City, CA        |
 | Rachel Hendrian                   | Foil                          | SO        | Farmington Hills, MI   |
 | Sookyung Heo                      | Foil                          | JR        | Seoul, South Korea     |
 | Mackenzie Hubbard                 | Foil                          | SR        | Ludington, MI          |
