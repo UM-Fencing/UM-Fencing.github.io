@@ -3,7 +3,7 @@ title: '_index'
 ---
 
 {{% alert warning %}}
-**COVID-19 Information:** Masks are required for __all__ fencers, even while fencing.
+Giving BlueDay is <strong>TODAY!</strong> You can donate to UMFC <a href="https://givingblueday.org/o/university-of-michigan/i/giving-blueday-2022/s/university-of-michigan-fencing-club" target="_blank">here!</a> Whether you decide to donate this year or not, we'd like to thank you for your support of our club.
 {{% /alert %}}
 
 {{% alert info %}}
