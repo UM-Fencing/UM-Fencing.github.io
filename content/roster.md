@@ -14,11 +14,13 @@ image = "../img/Fencing Team 2016.jpg"
 | Zachary Brooks                | Epee                          | Grad        | Shawnee, KS            |
 | Ian Chu                       | Epee                          | FR          | Bozeman, MT            |
 | Maximilian Coolidge Crouthamel| Epee                          | SR          | Grand Rapids, MI       |
+| Kyle Garcia-Rogers            | Epee                          | FR          | North Reading, MA      |
 | Edmond Han (**Captain**)      | Epee                          | SR          | Johns Creek, GA        |
 | Jiawei He                     | Epee                          | JR          | Guangdong, China       |
 | Noah Jacobs                   | Epee                          | JR          | Fruitport, MI          |
 | Sterling Kim                  | Epee                          | FR          | Los Angeles, CA        |
 | Roland Kwok                   | Epee                          | Non-Student | Ann Arbor, MI          |
+| Tianyu Liang                  | Epee                          | SO          | Guangzhou, China       |
 | Daniel Lyons                  | Epee                          | SR          | Paw Paw, MI            |
 | Ansh Mehta                    | Epee                          | FR          | Dubai, UAE             |
 | Sanil Mittal                  | Epee                          | FR          | New Delhi, India       |
@@ -30,7 +32,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Greg Tomaszycki               | Epee                          | Non-Student | Ann Arbor, MI          |
 | Rohan Valluri                 | Epee                          | SR          | Ashburn, VA            |
 | Maxmillian Wiegel             | Epee                          | SO          | Grosse Pointe Woods, MI|
-| Colin Yoon                    | Epee                          | SR          | Larkspur, CA           |
+| Colin Yoon                    | Epee                          | JR          | San Francisco, CA      |
 | Caedon Zube                   | Epee                          | FR          | Middleville, MI        |
 | Brandon Battle                | Foil                          | SR          | Detroit, MI            |
 | Atticus Driver                | Foil                          | SO          | Yuba City, CA          |
@@ -58,6 +60,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Sean Richards                 | Saber                         | SO          | Canton, MI             |
 | James Utley                   | Saber                         | JR          | Canton, MI             |
 | Jonathan Wang                 | Saber                         | FR          | Troy, MI               |
+| Qifa Wang                     | Saber                         | SO          | Lexington, MA          |
 | Nate White                    | Saber                         | SO          | Concord, MA            |
 | Corey Zhou                    | Saber                         | SO          | Shanghai, China        |
 
@@ -71,6 +74,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Jingqi Fan                        | Epee                          | JR        | Las Vegas, NV          |
 | Annmarie Guarink                  | Epee                          | FR        | Dearborn, MI           |
 | Emeline Hanna                     | Epee                          | SO        | Alpena, MI             |
+| Sookyung Heo                      | Epee                          | JR        | Seoul, South Korea     |
 | Diana Huang                       | Epee                          | SR        | Solon, OH              |
 | Kai Huie                          | Epee                          | SO        | New York, NY           |
 | Hilary Lam                        | Epee                          | SO        | Bloomfield Hills, MI   |
@@ -78,12 +82,13 @@ image = "../img/Fencing Team 2016.jpg"
 | Sarah Rahman                      | Epee                          | JR        | Miami, FL              |
 | Rebecca Saladin                   | Epee                          | FR        | Dearborn, MI           |
 | Amina Troupe (**Captain**)        | Epee                          | SR        | Montclair, NJ          |
+| Jasmine An                        | Foil                          | Grad      | Ann Arbor, MI          |
 | Molly Cavanaugh (**Captain**)     | Foil                          | SR        | Okemos, MI             |
+| Hanna Chen                        | Foil                          | SO        | Pittsburgh, PA         |
 | Alifa Chowdhury                   | Foil                          | FR        | Ontario, Canada        |
 | Isabelle DeGaynor                 | Foil                          | SO        | Bloomfield Hills, MI   |
 | Ryan Ettner                       | Foil                          | FR        | Culver City, CA        |
 | Rachel Hendrian                   | Foil                          | SO        | Farmington Hills, MI   |
-| Sookyung Heo                      | Foil                          | JR        | Seoul, South Korea     |
 | Mackenzie Hubbard                 | Foil                          | SR        | Ludington, MI          |
 | Saima Jamal                       | Foil                          | JR        | Teaneck, NJ            |
 | Azaria Knight                     | Foil                          | JR        | Southfield, MI         |
@@ -103,7 +108,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Emerson Lauster                   | Saber                         | FR        | Gaylord, MI            |
 | Henriette Lucas                   | Saber                         | JR        | Novi, MI               |
 | Nicolette Lukibanova              | Saber                         | SO        | Rochester, MI          |
-| Claire Maiocco                    | Saber                         | Grad      | Orlando, FL            |
+| Claire Maiocco                    | Saber                         | Grad      | Winter Park, FL        |
 | Petra Mihalko                     | Saber                         | FR        | Grosse Ile, MI         |
 | Lex Pacifico                      | Saber                         | FR        | Ann Arbor, MI          |
 | Lauren Peng                       | Saber                         | JR        | Shanghai, China        |
