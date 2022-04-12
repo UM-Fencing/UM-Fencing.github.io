@@ -7,8 +7,8 @@ title: '_index'
 {{% /alert %}}
 
 {{% alert info %}}
-University of Michigan Fencing: your <a href="results/2018-2019/#usacfc2019" class="alert-link">2019 USACFC College Fencing National Champions</a>!
-That makes four out of the last five; five out of the last seven; and seven overall. The legacy continues!
+University of Michigan Fencing: your <a href="results/2021-2022" class="alert-link">2022 USACFC College Fencing National Champions</a>!
+That makes two in a row; five out of the last six; and eight overall. The legacy continues!
 {{% /alert %}}
 
 Welcome to the homepage of the University of Michigan Fencing team!
