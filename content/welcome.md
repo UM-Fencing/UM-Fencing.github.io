@@ -60,12 +60,15 @@ Unofficial social events are posted in this group, along with reminders, article
 This group is used alongside our Slack team to communicate with one another.
 Ask a current member to invite you to join this group.
 
+- **Discord Server:** The club members also maintain an unofficial Discord server. This is primarily a casual space to hang out, plan social events, form study groups, etc., but is also used for announcements and general communication. Please reach out to an officer or other current member for the link to the server.
+
 # Social Media Pages
 Follow us on our official social media channels for updates on competitions, pictures and videos of your teammates, and other announcements.
 
 - [Facebook][]
 - [Instagram][]
 - [Twitter][]
+- [YouTube][]
 
 
 [Maize Page]: https://maizepages.umich.edu/organization/fencing
@@ -76,3 +79,4 @@ Follow us on our official social media channels for updates on competitions, pic
 [Facebook]: https://facebook.com/umichfencing
 [Instagram]: https://instagram.com/umichfencing
 [Twitter]: https://twitter.com/um_fencing
+[YouTube]: https://www.youtube.com/channel/UCzduzHv8JG2c0HpS3D6bt6A
