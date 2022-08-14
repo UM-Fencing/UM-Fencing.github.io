@@ -48,6 +48,24 @@ It would be nice to automate deployment using git hooks and CI, or even to make 
 ## Getting write access to the AFS directory
 See the [ITS documentation][AFS docs]
 
+## Periodical Webmaster Tasks
+### At the beginning of each school year
+- Create a new results page for the year
+- Update the officer, captain, and other positions lists on the contact page
+- Update the coach list on the roster page if needed
+- Update the suggestions box link and survey on the contact page
+### At the beginning of each semester
+- Update the roster (including captains)
+- Update practice times and days on the home page
+
+### At the beginning of each calendar year
+- Update the copyright year
+
+### Throughout the year
+- Update the results page with competition results
+- Ensure that the Instagram widget is still working, and update the token if needed
+- Update the alerts on the home page for events such as Giving Blue Day, nationals results, etc.
+
 [hugo]: https://gohugo.io/
 [club-theme]: https://github.com/UM-Fencing/club-theme/ "UM-Fencing/club-theme"
 [hugo install]: https://gohugo.io/overview/installing/
