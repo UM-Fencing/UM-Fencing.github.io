@@ -3,7 +3,7 @@ title: '_index'
 ---
 
 {{% alert warning %}}
-**COVID-19 Information:** Masks are required for __all__ fencers while competing on strip.
+**COVID-19 Information:** Masks are required for __all__ fencers while competing on strip. Hi James! This is James.
 {{% /alert %}}
 
 {{% alert info %}}
