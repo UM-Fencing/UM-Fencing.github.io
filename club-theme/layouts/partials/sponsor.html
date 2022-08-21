@@ -1,0 +1,17 @@
+{{ $baseUrl := .Site.BaseURL }}
+
+{{ if .Site.Params.sponsor }}
+<p>
+{{ with .Site.Params.sponsor.link }}
+<a href='{{ . }}' target='_blank'>
+{{ end }}
+{{ if .Site.Params.sponsor.logo }}
+<img src='{{ $baseUrl }}/{{ .Site.Params.sponsor.logo }}' style='width: {{ with .Site.Params.sponsor.size }}{{ . }}{{ else }}100px{{ end }};' title='{{ with .Site.Params.sponsor.text }}{{ . }}{{ else }}Sponsor logo{{ end }}' alt='{{ with .Site.Params.sponsor.text }}{{ . }}{{ else }}Sponsor logo{{ end }}'>
+{{ else }}
+{{ with .Site.Params.sponsor.text }}{{ . }}{{ end }}
+{{ end }}
+{{ with .Site.Params.sponsor.link }}
+</a>
+{{ end }}
+</p>
+{{ end }}

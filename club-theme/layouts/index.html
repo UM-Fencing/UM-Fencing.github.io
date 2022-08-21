@@ -1,0 +1,23 @@
+{{ $baseUrl := .Site.BaseURL }}
+{{ partial "header.html" . }}
+
+
+{{ partial "jumbotron.html" . }}
+
+<div class="container">
+<div class="row">
+    <div class="col-sm-8 doc-main">
+        <article>
+            {{ range where .Site.Pages "Title" "_index" }}
+            <section>
+                {{ .Content }}
+            </section>
+            {{ end }}
+        <article>
+    </div> <!-- /.doc-main -->
+
+    {{ partial "sidebar-single.html" . }}
+
+</div> <!-- /.row -->
+
+{{ partial "footer.html" . }}
