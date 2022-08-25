@@ -20,7 +20,7 @@ This will allow our club to grow effectively as we reach out to the student body
 In addition, your contribution is tax deductible.
 After following instructions through this link, the University of Michigan will send you the correct tax information through mail.
 
-[<button type="button" class="btn btn-primary">Support Michigan Fencing</button>](http://giving.umich.edu/give/fencing)
+[<button type="button" class="btn btn-primary">Support Michigan Fencing</button>](https://giving.umich.edu/give/fencing)
 
 Thank you for your continuing support of the University of Michigan Fencing Club.
 

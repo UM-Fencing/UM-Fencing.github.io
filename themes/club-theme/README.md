@@ -1,11 +1,11 @@
 # Bootie Docs
 
-**Bootie Docs** is a simple [hugo](http://gohugo.io/) theme for documentation.  
-The name "bootie" comes from [Bootstrap](http://getbootstrap.com/) CSS.
+**Bootie Docs** is a simple [hugo](https://gohugo.io/) theme for documentation.  
+The name "bootie" comes from [Bootstrap](https://getbootstrap.com/) CSS.
 
 ![Bootie Docs screenshot](https://raw.githubusercontent.com/progrhyme/hugo-theme-bootie-docs/master/images/tn.png)
 
-You can see demo and full documentation at http://progrhyme.github.io/bootie-docs-demo/ .
+You can see demo and full documentation at https://progrhyme.github.io/bootie-docs-demo/ .
 
 ## CONTENTS
 
@@ -51,7 +51,7 @@ NOTE:
 ## OPTIONS
 
 All other options and usages for _Bootie Docs_ are described at the documentation site --
-http://progrhyme.github.io/bootie-docs-demo/ .
+https://progrhyme.github.io/bootie-docs-demo/ .
 
 ## LIMITATION
 
@@ -62,7 +62,7 @@ feeds, pagination of posts and so on.
 
 **Bootie Docs** includes following libraries:
 
-* [Bootstrap](http://getbootstrap.com/) v3.3.7 ... Well-known CSS framework.
+* [Bootstrap](https://getbootstrap.com/) v3.3.7 ... Well-known CSS framework.
 * [jQuery](https://jquery.com/) v3.2.1 ... Requried by _Bootstrap_.
 * [highlight.js](https://highlightjs.org/) v9.12.0 ... For syntax highlighting.
 

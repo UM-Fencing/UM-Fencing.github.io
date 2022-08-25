@@ -24,7 +24,7 @@ Friday: 7–9 pm.
 
 While we highly recommend you come to as much practice as you can early on, there is no attendance policy, nor tryouts or cuts. You will learn faster the more practice you come to now.
 
-For more information, you can always check our website: http://umich.edu/~fencing. Our schedule and other resources are available there. For other questions, please ask an officer in person or [by email](fencingofficers@umich.edu).
+For more information, you can always check our website: https://www.um-fencing.com/. Our schedule and other resources are available there. For other questions, please ask an officer in person or [by email](fencingofficers@umich.edu).
 
 Those who wish to join the member list (experienced fencers or those sure they want to keep fencing) can [add yourselves on MCommunity](https://mcommunity.umich.edu/#group:University%20of%20Michigan%20Fencing%20Club%20Members) or by asking [Zach](zezip@umich.edu) to add them.  This email list will continue receiving important messages for the next few weeks.
 
