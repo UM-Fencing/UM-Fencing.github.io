@@ -22,7 +22,7 @@ We can help in person, too. Stop by during any practice and we'll take care of y
 <div class="col-md-6">
 {{% alert info %}}
 Want to anonymously give feedback, ask a question, raise a concern, etc.?
-Please use our [suggestions box](https://forms.gle/NGa2WxkeSUKAXgXJ9).
+Please use our [suggestions box](https://forms.gle/JxpYwxVhpXXWXYWm7).
 {{% /alert %}}
 </div>
 </div>
@@ -32,13 +32,13 @@ Please use our [suggestions box](https://forms.gle/NGa2WxkeSUKAXgXJ9).
 # Officers
 | Position               | Name                | Email Address                                   | Contact About                            |
 |------------------------|---------------------|-------------------------------------------------|------------------------------------------|
-| Co-President           | Molly Cavanaugh     | [mojocav@umich.edu](mailto:mojocav@umich.edu)   | Conference(s), Schedule, University Info, Practice, General Queries |
-| Co-President           | Sookyung Heo        | [sooheo@umich.edu](mailto:sooheo@umich.edu)     | Conference(s), Schedule, University Info, Practice, General Queries |
-| Secretary              | James Utley         | [utleyj@umich.edu](mailto:utleyj@umich.edu)     | Membership, Competition Results, Rosters |
+| Co-President           | Rachel Hendrian     | [hendrian@umich.edu](mailto:hendrian@umich.edu) | Conference(s), Schedule, University Info, Practice, General Queries |
+| Co-President           | Alvin Poon          | [alpoon@umich.edu](mailto:alpoon@umich.edu)     | Conference(s), Schedule, University Info, Practice, General Queries |
+| Secretary              | Keith Haw           | [keithhaw@umich.edu](mailto:keithhaw@umich.edu) | Membership, Competition Results, Rosters |
 | Treasurer              | Brianna Moglianesi  | [brimog@umich.edu](mailto:brimog@umich.edu)     | Dues, Equipment Orders                   |
 | Coordination Officer   | Nathaniel White     | [wnate@umich.edu](mailto:wnate@umich.edu)       | Organizing Events, Fundraisers           |
-| Brand Officer          | Hanna Chen          | [hannadc@umich.edu](mailto:hannadc@umich.edu)   | Apparel, Branding                        |
-| Communications Officer | Sunskriti Paranjape | [sunspara@umich.edu](mailto:sunspara@umich.edu) | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
+| Brand Officer          | Petra Mihalko       | [mihalko@umich.edu](mailto:mihalko@umich.edu)   | Apparel, Branding                        |
+| Communications Officer | Sohee Chung         | [soheec@umich.edu](mailto:soheec@umich.edu)     | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
 
 # Captains
 | Squad                  | Name                       | Email Address                                   |
