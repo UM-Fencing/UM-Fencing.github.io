@@ -36,23 +36,21 @@ Please use our [suggestions box](https://forms.gle/JxpYwxVhpXXWXYWm7).
 | Co-President           | Alvin Poon          | [alpoon@umich.edu](mailto:alpoon@umich.edu)     | Conference(s), Schedule, University Info, Practice, General Queries |
 | Secretary              | Keith Haw           | [keithhaw@umich.edu](mailto:keithhaw@umich.edu) | Membership, Competition Results, Rosters |
 | Treasurer              | Brianna Moglianesi  | [brimog@umich.edu](mailto:brimog@umich.edu)     | Dues, Equipment Orders                   |
-| Coordination Officer   | Nathaniel White     | [wnate@umich.edu](mailto:wnate@umich.edu)       | Organizing Events, Fundraisers           |
+| Coordination Officer   | Nate White          | [wnate@umich.edu](mailto:wnate@umich.edu)       | Organizing Events, Fundraisers           |
 | Brand Officer          | Petra Mihalko       | [mihalko@umich.edu](mailto:mihalko@umich.edu)   | Apparel, Branding                        |
 | Communications Officer | Sohee Chung         | [soheec@umich.edu](mailto:soheec@umich.edu)     | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
 
 # Captains
 | Squad                  | Name                       | Email Address                                   |
 |------------------------|----------------------------|-------------------------------------------------|
-| Men's Epee             | Edmond Han                 | [edmondhn@umich.edu](mailto:edmondhn@umich.edu) |
+| Men's Epee             | Zach Brooks                | [zachbr@umich.edu](mailto:zachbr@umich.edu)     |
 | Men's Foil             | Keith Haw                  | [keithhaw@umich.edu](mailto:keithhaw@umich.edu) |
-| Men's Saber            | Peter Murray               | [pjmurray@umich.edu](mailto:pjmurray@umich.edu) |
-| Women's Epee           | Faith Chang & Amina Troupe | [changflm@umich.edu](mailto:changflm@umich.edu) & [atroupe@umich.edu](mailto:atroupe@umich.edu) |
-| Women's Foil           | Molly Cavanaugh            | [mojocav@umich.edu](mailto:mojocav@umich.edu)   |
+| Men's Saber            | Jonathan Wang              | [jonathw@umich.edu](mailto:jonathw@umich.edu)   |
+| Women's Epee           | Brianna Moglianesi         | [brimog@umich.edu](mailto:brimog@umich.edu)     |
+| Women's Foil           | Rachel Hendrian            | [hendrian@umich.edu](mailto:hendrian@umich.edu) |
 | Women's Saber          | Maggie Koberstein          | [mlkobe@umich.edu](mailto:mlkobe@umich.edu)     |
 
 # Other Positions
 | Position               | Name            | Email Address                                   | Contact About                            |
 |------------------------|-----------------|-------------------------------------------------|------------------------------------------|
-| Armorer                | Edmond Han      | [edmondhn@umich.edu](mailto:edmondhn@umich.edu) | Equipment Issues                         |
-| Webmaster              | Peter Murray    | [pjmurray@umich.edu](mailto:pjmurray@umich.edu) | Website                                  |
 | Webmaster              | James Kennedy   | [jamesken@umich.edu](mailto:jamesken@umich.edu) | Website                                  |
