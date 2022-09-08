@@ -11,11 +11,11 @@ image = "../img/Fencing Team 2016.jpg"
 
 | Name                          | Weapon                        | Year        | Hometown               |
 |-------------------------------|-------------------------------|-------------|------------------------|
-| Zachary Brooks                | Epee                          | Grad        | Shawnee, KS            |
+| Zachary Brooks (**Captain**)  | Epee                          | Grad        | Shawnee, KS            |
 | Ian Chu                       | Epee                          | FR          | Bozeman, MT            |
 | Maximilian Coolidge Crouthamel| Epee                          | SR          | Grand Rapids, MI       |
 | Kyle Garcia-Rogers            | Epee                          | FR          | North Reading, MA      |
-| Edmond Han (**Captain**)      | Epee                          | SR          | Johns Creek, GA        |
+| Edmond Han                    | Epee                          | SR          | Johns Creek, GA        |
 | Jiawei He                     | Epee                          | JR          | Guangdong, China       |
 | Noah Jacobs                   | Epee                          | JR          | Fruitport, MI          |
 | Sterling Kim                  | Epee                          | FR          | Los Angeles, CA        |
@@ -56,10 +56,10 @@ image = "../img/Fencing Team 2016.jpg"
 | Jake Huang                    | Saber                         | JR          | China                  |
 | Maxwell Iseler                | Saber                         | FR          | Port Hope, MI          |
 | Luke Kurfess                  | Saber                         | JR          | Horton, MI             |
-| Peter Murray (**Captain**)    | Saber                         | SR          | Highland Park, IL      |
+| Peter Murray                  | Saber                         | SR          | Highland Park, IL      |
 | Sean Richards                 | Saber                         | SO          | Canton, MI             |
 | James Utley                   | Saber                         | JR          | Canton, MI             |
-| Jonathan Wang                 | Saber                         | FR          | Troy, MI               |
+| Jonathan Wang (**Captain**)   | Saber                         | FR          | Troy, MI               |
 | Qifa Wang                     | Saber                         | SO          | Lexington, MA          |
 | Nate White                    | Saber                         | SO          | Concord, MA            |
 | Corey Zhou                    | Saber                         | SO          | Shanghai, China        |
@@ -69,7 +69,7 @@ image = "../img/Fencing Team 2016.jpg"
 
 | Name                              | Weapon                        | Year      | Hometown               |
 |-----------------------------------|-------------------------------|-----------|------------------------|
-| Faith Chang (**Captain**)         | Epee                          | SR        | San Jose, CA           |
+| Faith Chang                       | Epee                          | SR        | San Jose, CA           |
 | Sohee Chung                       | Epee                          | SO        | Seoul, South Korea     |
 | Jingqi Fan                        | Epee                          | JR        | Las Vegas, NV          |
 | Annmarie Guarink                  | Epee                          | FR        | Dearborn, MI           |
@@ -78,17 +78,17 @@ image = "../img/Fencing Team 2016.jpg"
 | Diana Huang                       | Epee                          | SR        | Solon, OH              |
 | Kai Huie                          | Epee                          | SO        | New York, NY           |
 | Hilary Lam                        | Epee                          | SO        | Bloomfield Hills, MI   |
-| Brianna Moglianesi                | Epee                          | JR        | Warren, NJ             |
+| Brianna Moglianesi (**Captain**)  | Epee                          | JR        | Warren, NJ             |
 | Sarah Rahman                      | Epee                          | JR        | Miami, FL              |
 | Rebecca Saladin                   | Epee                          | FR        | Dearborn, MI           |
-| Amina Troupe (**Captain**)        | Epee                          | SR        | Montclair, NJ          |
+| Amina Troupe                      | Epee                          | SR        | Montclair, NJ          |
 | Jasmine An                        | Foil                          | Grad      | Ann Arbor, MI          |
-| Molly Cavanaugh (**Captain**)     | Foil                          | SR        | Okemos, MI             |
+| Molly Cavanaugh                   | Foil                          | SR        | Okemos, MI             |
 | Hanna Chen                        | Foil                          | SO        | Pittsburgh, PA         |
 | Alifa Chowdhury                   | Foil                          | FR        | Ontario, Canada        |
 | Isabelle DeGaynor                 | Foil                          | SO        | Bloomfield Hills, MI   |
 | Ryan Ettner                       | Foil                          | FR        | Culver City, CA        |
-| Rachel Hendrian                   | Foil                          | SO        | Farmington Hills, MI   |
+| Rachel Hendrian (**Captain**)     | Foil                          | SO        | Farmington Hills, MI   |
 | Mackenzie Hubbard                 | Foil                          | SR        | Ludington, MI          |
 | Saima Jamal                       | Foil                          | JR        | Teaneck, NJ            |
 | Azaria Knight                     | Foil                          | JR        | Southfield, MI         |
