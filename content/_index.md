@@ -3,7 +3,7 @@ title: '_index'
 ---
 
 {{% alert warning %}}
-**COVID-19 Information:** Masks are required for __all__ fencers while competing on strip.
+**No Practice:** There will be no practice on 10/14 and 10/17. Enjoy your fall break!
 {{% /alert %}}
 
 {{% alert info %}}
