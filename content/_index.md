@@ -2,10 +2,6 @@
 title: '_index'
 ---
 
-{{% alert warning %}}
-**No Practice:** There will be no practice on 10/14 and 10/17. Enjoy your fall break!
-{{% /alert %}}
-
 {{% alert info %}}
 University of Michigan Fencing: your <a href="results/2021-2022" class="alert-link">2022 USACFC College Fencing National Champions</a>!
 That makes two in a row; five out of the last six; and eight overall. The legacy continues!
