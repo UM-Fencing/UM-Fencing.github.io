@@ -2,11 +2,6 @@
 title: '_index'
 ---
 
-{{% alert info %}}
-University of Michigan Fencing: your <a href="results/2021-2022" class="alert-link">2022 USACFC College Fencing National Champions</a>!
-That makes two in a row; five out of the last six; and eight overall. The legacy continues!
-{{% /alert %}}
-
 Welcome to the homepage of the University of Michigan Fencing team!
 We are always accepting new members.
 Become a part of _the_ top club fencing team in the United States!
