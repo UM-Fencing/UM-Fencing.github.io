@@ -2,10 +2,6 @@
 title: '_index'
 ---
 
-{{% alert warning %}}
-Down for maintenance. Please come back later!
-{{% /alert %}}
-
 Welcome to the homepage of the University of Michigan Fencing team!
 We are always accepting new members.
 Become a part of _the_ top club fencing team in the United States!
