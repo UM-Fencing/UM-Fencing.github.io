@@ -33,7 +33,7 @@ Please use our [suggestions box](https://forms.gle/JxpYwxVhpXXWXYWm7).
 | Position               | Name                | Email Address                                   | Contact About                            |
 |------------------------|---------------------|-------------------------------------------------|------------------------------------------|
 | Co-President           | Rachel Hendrian     | [hendrian@umich.edu](mailto:hendrian@umich.edu) | Conference(s), Schedule, University Info, Practice, General Queries |
-| Co-President           | Alvin Poon          | [alpoon@umich.edu](mailto:alpoon@umich.edu)     | Conference(s), Schedule, University Info, Practice, General Queries |
+| Co-President           | Sanil Mittal          | [sanilm@umich.edu](mailto:sanilm@umich.edu)     | Conference(s), Schedule, University Info, Practice, General Queries |
 | Secretary              | Keith Haw           | [keithhaw@umich.edu](mailto:keithhaw@umich.edu) | Membership, Competition Results, Rosters |
 | Treasurer              | Brianna Moglianesi  | [brimog@umich.edu](mailto:brimog@umich.edu)     | Dues, Equipment Orders                   |
 | Coordination Officer   | Nate White          | [wnate@umich.edu](mailto:wnate@umich.edu)       | Organizing Events, Fundraisers           |
