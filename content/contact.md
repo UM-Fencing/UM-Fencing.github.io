@@ -43,7 +43,7 @@ Please use our [suggestions box](https://forms.gle/JxpYwxVhpXXWXYWm7).
 # Captains
 | Squad                  | Name                       | Email Address                                   |
 |------------------------|----------------------------|-------------------------------------------------|
-| Men's Epee             | Ian Chue                | [mrianchu@umich.edu ](mailto:mrianchu@umich.edu )  |
+| Men's Epee             | Ian Chu                 | [mrianchu@umich.edu ](mailto:mrianchu@umich.edu )  |
 | Men's Foil             | Keith Haw                  | [keithhaw@umich.edu](mailto:keithhaw@umich.edu) |
 | Men's Saber            | Jonathan Wang              | [jonathw@umich.edu](mailto:jonathw@umich.edu)   |
 | Women's Epee           | Vivian Fernandez         | [vivianmf@umich.edu ](mailto:vivianmf@umich.edu ) |
