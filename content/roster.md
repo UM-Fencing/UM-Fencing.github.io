@@ -11,8 +11,8 @@ image = "../img/Fencing Team 2016.jpg"
 
 | Name                          | Weapon                        | Year        | Hometown               |
 |-------------------------------|-------------------------------|-------------|------------------------|
-| Zach Brooks (**Captain**)     | Epee                          | Grad        | Shawnee, KS            |
-| Ian Chu                       | Epee                          | SO          | Bozeman, MT            |
+| Zach Brooks                   | Epee                          | Grad        | Shawnee, KS            |
+| Ian Chu (**Captain**)         | Epee                          | SO          | Bozeman, MT            |
 | Kyle Garcia-Rogers            | Epee                          | SO          | North Reading, MA      |
 | Robert Harter                 | Epee                          | JR          | Chesterfield, VA       |
 | Keith Haw (**Captain**)       | Epee                          | JR          | Pittsburgh, PA         |
@@ -57,12 +57,12 @@ image = "../img/Fencing Team 2016.jpg"
 | Name                              | Weapon                        | Year      | Hometown               |
 |-----------------------------------|-------------------------------|-----------|------------------------|
 | Rachel Helen-Marie DeVeyra        | Epee                          | FR        | Chicago, IL            |
-| Vivian Fernandez                  | Epee                          | Grad      | New York, NY           |
+| Vivian Fernandez (**Captain**)    | Epee                          | Grad      | New York, NY           |
 | Sookyung Heo                      | Epee                          | SR        | Seoul, South Korea     |
 | Hilary Lam                        | Epee                          | JR        | Bloomfield Hills, MI   |
 | Rebekah Yonghee Lim               | Epee                          | Grad      | KS                     |
 | Sophia Lupton                     | Epee                          | FR        | New York, NY           |
-| Brianna Moglianesi (**Captain**)  | Epee                          | SR        | Warren, NJ             |
+| Brianna Moglianesi                | Epee                          | SR        | Warren, NJ             |
 | Sunskriti Paranjape               | Epee                          | SR        | Portland, OR           |
 | Jennifer Bhuiyan                  | Foil                          | FR        | New York, NY           |
 | Ryan Ettner                       | Foil                          | SO        | Culver City, CA        |
@@ -93,5 +93,8 @@ image = "../img/Fencing Team 2016.jpg"
 # Coaches
 | Name             | Position                  |
 |------------------|---------------------------|
-| Jim Vesper       | Head Coach                |
-| Michael Yee      | Volunteer Assistant Coach |
+| Ian Kanar        | Foil Coach                |
+| Zach Brooks      | Epee & Foil Coach         |
+| Jason Goodman    | Epee Coach                |
+| Roland Kwok      | Epee Coach                |
+| Michael Yee      | Sabre Coach               |

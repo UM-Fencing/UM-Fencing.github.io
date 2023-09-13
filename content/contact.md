@@ -35,22 +35,22 @@ Please use our [suggestions box](https://forms.gle/JxpYwxVhpXXWXYWm7).
 | Co-President           | Rachel Hendrian     | [hendrian@umich.edu](mailto:hendrian@umich.edu) | Conference(s), Schedule, University Info, Practice, General Queries |
 | Co-President           | Sanil Mittal          | [sanilm@umich.edu](mailto:sanilm@umich.edu)     | Conference(s), Schedule, University Info, Practice, General Queries |
 | Secretary              | Keith Haw           | [keithhaw@umich.edu](mailto:keithhaw@umich.edu) | Membership, Competition Results, Rosters |
-| Treasurer              | Brianna Moglianesi  | [brimog@umich.edu](mailto:brimog@umich.edu)     | Dues, Equipment Orders                   |
-| Coordination Officer   | Nate White          | [wnate@umich.edu](mailto:wnate@umich.edu)       | Organizing Events, Fundraisers           |
+| Treasurer              | Maggie Koberstein  | [mlkobe@umich.edu ](mailto:mlkobe@umich.edu )     | Dues, Equipment Orders                   |
+| Coordination Officer   | Jonathan Wang         | [jonathw@umich.edu](mailto:jonathw@umich.edu)     | Organizing Events, Fundraisers           |
 | Brand Officer          | Petra Mihalko       | [mihalko@umich.edu](mailto:mihalko@umich.edu)   | Apparel, Branding                        |
-| Communications Officer | Sohee Chung         | [soheec@umich.edu](mailto:soheec@umich.edu)     | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
+| Communications Officer | Nate White         | [wnate@umich.edu](mailto:wnate@umich.edu)     | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
 
 # Captains
 | Squad                  | Name                       | Email Address                                   |
 |------------------------|----------------------------|-------------------------------------------------|
-| Men's Epee             | Zach Brooks                | [zachbr@umich.edu](mailto:zachbr@umich.edu)     |
+| Men's Epee             | Ian Chue                | [mrianchu@umich.edu ](mailto:mrianchu@umich.edu )  |
 | Men's Foil             | Keith Haw                  | [keithhaw@umich.edu](mailto:keithhaw@umich.edu) |
 | Men's Saber            | Jonathan Wang              | [jonathw@umich.edu](mailto:jonathw@umich.edu)   |
-| Women's Epee           | Brianna Moglianesi         | [brimog@umich.edu](mailto:brimog@umich.edu)     |
+| Women's Epee           | Vivian Fernandez         | [vivianmf@umich.edu ](mailto:vivianmf@umich.edu ) |
 | Women's Foil           | Rachel Hendrian            | [hendrian@umich.edu](mailto:hendrian@umich.edu) |
 | Women's Saber          | Maggie Koberstein          | [mlkobe@umich.edu](mailto:mlkobe@umich.edu)     |
 
 # Other Positions
 | Position               | Name            | Email Address                                   | Contact About                            |
 |------------------------|-----------------|-------------------------------------------------|------------------------------------------|
-| Webmaster              | James Kennedy   | [jamesken@umich.edu](mailto:jamesken@umich.edu) | Website                                  |
+| Webmaster              | Petra Mihalko   | [mihalko@umich.edu](mailto:mihalko@umich.edu) | Website                                  |

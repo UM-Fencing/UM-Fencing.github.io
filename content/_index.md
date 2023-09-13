@@ -26,5 +26,3 @@ We are always recruiting new members, regardless of experience or commitment lev
 We welcome all University of Michigan students, faculty, and staff who are either interested in learning the sport of fencing, or looking to continue their fencing training.
 New members can join at any time by either attending mass meetings at the beginning of a semester, or simply by showing up at a practice!
 Please read the [Join](join/) page for more information.
-
-We will be having our Mass Meeting Wednesday, September 6th from 7:30pm to 8:30pm at the Sports Coliseum.  We hope to see you there!
