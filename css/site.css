@@ -3,6 +3,11 @@
  * into CSS file: static/css/site.css
  */
 
+@font-face {
+    font-family: Montserrat;
+    src: url(../fonts/Montserrat-SemiBold.ttf);
+}
+
 .alert a {
     font-weight: 700;
     color:  #245269;
@@ -12,4 +17,20 @@ iframe.instagram-media, #twitter-widget-0 {
     max-width: 100% !important;
     width: 100% !important;
     min-width: auto !important;
-}  
+}
+
+.navbar-inverse {
+    background-color: #00274C !important;
+    background-image: none !important;
+    font-family: Montserrat; 
+}
+
+.navbar-inverse a {
+    color: #FFF !important;
+}
+
+.navbar-nav li.active a {
+    background-color: #001C36 !important;
+    background-image: none !important;
+    color: #FFCB05 !important;
+}
