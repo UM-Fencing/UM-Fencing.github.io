@@ -11,90 +11,72 @@ image = "../img/Fencing Team 2016.jpg"
 
 | Name                          | Weapon                        | Year        | Hometown               |
 |-------------------------------|-------------------------------|-------------|------------------------|
-| Zach Brooks                   | Epee                          | Grad        | Shawnee, KS            |
-| Ian Chu (**Captain**)         | Epee                          | SO          | Bozeman, MT            |
-| Kyle Garcia-Rogers            | Epee                          | SO          | North Reading, MA      |
-| Robert Harter                 | Epee                          | JR          | Chesterfield, VA       |
-| Keith Haw (**Captain**)       | Epee                          | JR          | Pittsburgh, PA         |
-| Aditya Kalahasti              | Epee                          | FR          | Solon, OH              |
-| Ryan Kersten                  | Epee                          | FR          | Ann Arbor, MI          |
-| Sanil Mittal                  | Epee                          | SO          | New Delhi, India       |
-| Ryan Moon                     | Epee                          | SO          | Johns Creek, GA        |
-| Kaelan Mulye                  | Epee                          | FR          | Munising, MI           |
-| Armando Otero                 | Epee                          | Non-Student | San Juan, Puerto Rico  |
+| Ian Chu (**Captain**)         | Epee                          | SR          | Bozeman, MT            |
+| Yunhan Fang                   | Epee                          | SO          | --------               |
+| Kyle Garcia-Rogers            | Epee                          | SR          | North Reading, MA      |
+| Lucas Garcia-Rogers           | Epee                          | SO          | North Reading, MA      |
+| Ryan Kersten                  | Epee                          | JR          | Ann Arbor, MI          |
+| Sterling Kim                  | Epee                          | JR          | ---------              |
+| Andrew Letton                 | Epee                          | SO          | ---------              |
+| Sanil Mittal                  | Epee                          | SR          | New Delhi, India       |
 | Mitchell Schrank              | Epee                          | Non-Student | Wilmette, IL           |
-| Colin Yoon                    | Epee                          | SR          | Larkspur, CA           |
-| Alexander Ahn                 | Foil                          | Grad        | Los Angeles, CA        |
-| Brandon Battle                | Foil                          | SR          | Detroit, MI            |
-| Michael Chen                  | Foil                          | FR          | Bloomfield Hills, MI   |
-| Atticus Driver                | Foil                          | JR          | Yuba City, CA          |
-| Alexander Gordon              | Foil                          | FR          | Hastings-on-Hudson, NY |
-| James Kennedy                 | Foil                          | SR          | Oak Park, IL           |
-| Will Kuch                     | Foil                          | FR          | Frankenmuth, MI        |
-| Nate Maceri                   | Foil                          | FR          | Macomb, MI             |
+| Kevin Senra Rivero            | Epee                          | JR          | ---------              |
+| Steven Teh                    | Epee                          | SO          | ---------              |
+| Kevin Wang                    | Epee                          | JR          | ---------              |
+| Christopher Zheng             | Epee                          | SO          | ---------              |
+| Kenny Deng                    | Foil                          | SO          | ---------              |
+| Atticus Driver                | Foil                          | SR          | Yuba City, CA          |
+| Alexander "Sasha" Gordon (**Captain**)     | Foil             | JR          | Hastings-on-Hudson, NY |
+| Jacob Mack                    | Foil                          | SO          | ---------              |
+| Colin McLintock               | Foil                          | SO          | ---------              |
+| Luke Richardson               | Foil                          | SO          | ---------              |
 | Gordon Ng                     | Foil                          | SO          | Southgate, MI          |
-| Aaron Renberg                 | Foil                          | Grad        | Bethesda, MD           |
-| Cameron Rifkin                | Foil                          | SR          | Birmingham, MI         |
 | Martin Rodriguez              | Foil                          | Grad        | Houston, TX            |
-| Zhenyu Tan                    | Foil                          | Grad        | China                  |
-| Hasan Zengin                  | Foil                          | SO          | Istanbul, Turkey       |
-| Akshat Arya                   | Saber                         | FR          | Troy, MI               |
-| Thomas Choi                   | Saber                         | SR          | Lake Orion, MI         |
-| Joshua Cooper                 | Saber                         | Grad        | Detroit, MI            |
-| Craig Darnell                 | Saber                         | FR          | Lansing, MI            |
-| Jake Huang                    | Saber                         | SR          | China                  |
+| Akshat Arya                   | Saber                         | JR          | Troy, MI               |
+| Daniel Han (**Captain**)      | Saber                         | SO          | ---------              |
+| Jake Joseph                   | Saber                         | SO          | ---------              |
 | Michael Mancuso               | Saber                         | FR          | West Windsor, NJ       |
-| Ian Moore                     | Saber                         | FR          | Clinton, NJ            |
-| Sean Richards                 | Saber                         | JR          | Canton, MI             |
-| James Utley                   | Saber                         | SR          | Canton, MI             |
-| Jonathan Wang (**Captain**)   | Saber                         | SO          | Troy, MI               |
-| Nathaniel White               | Saber                         | JR          | Concord, MA            |
-| Yaodong Xin                   | Saber                         | Grad        | Qingdao, China         |
+| Brian Tang (**Captain**)      | Saber                         | Grad        | ---------              |
+| Frank Wang                    | Saber                         | SO          | ---------              |
+| Jonathan Wang                 | Saber                         | SR          | Troy, MI               |
+| Aeres Zhou                    | Saber                         | SO          | ---------              |
 
 
 # Women's Team
 
 | Name                              | Weapon                        | Year      | Hometown               |
 |-----------------------------------|-------------------------------|-----------|------------------------|
-| Rachel Helen-Marie DeVeyra        | Epee                          | FR        | Chicago, IL            |
 | Vivian Fernandez (**Captain**)    | Epee                          | Grad      | New York, NY           |
-| Sookyung Heo                      | Epee                          | SR        | Seoul, South Korea     |
-| Hilary Lam                        | Epee                          | JR        | Bloomfield Hills, MI   |
-| Rebekah Yonghee Lim               | Epee                          | Grad      | KS                     |
-| Sophia Lupton                     | Epee                          | FR        | New York, NY           |
-| Brianna Moglianesi                | Epee                          | SR        | Warren, NJ             |
-| Sunskriti Paranjape               | Epee                          | SR        | Portland, OR           |
-| Jennifer Bhuiyan                  | Foil                          | FR        | New York, NY           |
-| Ryan Ettner                       | Foil                          | SO        | Culver City, CA        |
-| Rachel Hendrian (**Captain**)     | Foil                          | JR        | Farmington Hills, MI   |
-| Azaria Knight                     | Foil                          | SR        | Southfield, MI         |
-| Eilene Koo                        | Foil                          | FR        | Ann Arbor, MI          |
-| Prudence Russell                  | Foil                          | FR        | Edina, MN              |
-| Dominika Urbaniak                 | Foil                          | SO        | Hamtramck, MI          |
-| Lahari Vavilala                   | Foil                          | SR        | Novi, MI               |
-| Chuqiao Wang                      | Foil                          | JR        | China                  |
-| Lucy Wang                         | Foil                          | SR        | Beijing, China         |
-| Orlaith Fournier                  | Saber                         | SR        | Berkley, MI            |
-| Ana Ha                            | Saber                         | JR        | Grand Rapids, MI       |
-| Ami Hasebe                        | Saber                         | Grad      | Tokyo, Japan           |
-| Sam Jiao                          | Saber                         | Grad      | Beijing, China         |
-| Margaret Koberstein (**Captain**) | Saber                         | JR        | Libertyville, IL       |
-| Emerson Lauster                   | Saber                         | SO        | Gaylord, MI            |
-| Nga Chi Leong                     | Saber                         | FR        | Macao, China           |
-| Petra Mihalko                     | Saber                         | SO        | Grosse Ile, MI         |
-| Caroline Murphy-Racette           | Saber                         | Grad      | Wellesley, MA          | 
+| Yeji Kim                          | Epee                          | SO        | ------------           |
+| Sophia Lupton                     | Epee                          | JR        | New York, NY           |
+| Shreshta Prabhu                   | Epee                          | SO        | ------------           |
+| Caroline Reiss                    | Epee                          | SO        | ------------           |
+| Priscilla Xu                      | Epee                          | SO        | ------------           |
+| Ryan Ettner (**Captain**)         | Foil                          | SO        | Culver City, CA        |
+| Isabel Mon                        | Foil                          | SO        | ------------           |
+| Prudence Russell                  | Foil                          | SO        | Edina, MN              |
+| Jiajia Fan                        | Saber                         | SO        | ------------           |
+| Lia Ham                           | Saber                         | SO        | ------------           |
+| Phineas Imhoff                    | Saber                         | JR        | ------------           |
+| Grace Jeon (**Captain**)          | Saber                         | SR        | ------------           |
+| Emerson Lauster                   | Saber                         | SR        | ------------           |
+| Petra Mihalko                     | Saber                         | SR        | Grosse Ile, MI         |
+| Caroline Murphy-Racette (**Captain**) | Saber                     | Grad      | Wellesley, MA          | 
 | Agamjot Sangotra                  | Saber                         | Grad      | Montgomery, NJ         |
-| Sarah Squadrito                   | Saber                         | FR        | Bernardsville, NJ      |
+| Sarah Squadrito                   | Saber                         | JR        | Bernardsville, NJ      |
+| Anna Schellin                     | Saber                         | Grad      | ------------           |
+| Kiara Simpao                      | Saber                         | SO        | ------------           |
+| Audrey Wu                         | Saber                         | SO        | ------------           |
 | Michelle Wu                       | Saber                         | JR        | Ridgewood, NJ          |
-| Michelle Xu                       | Saber                         | SR        | Novi, MI               |
-| Xi Yuan Zheng                     | Saber                         | SO        | New York, NY           |
-| Maria Zurbuchen                   | Saber                         | SO        | McLean, VA             |
 
 # Coaches
-| Name             | Position                  |
-|------------------|---------------------------|
-| Ian Kanar        | Foil Coach                |
-| Zach Brooks      | Epee & Foil Coach         |
-| Jason Goodman    | Epee Coach                |
-| Roland Kwok      | Epee Coach                |
-| Michael Yee      | Sabre Coach               |
+| Name               | Position                  |
+|--------------------|---------------------------|
+| Jason Goodman      | Epee Coach                |
+| Roland Kwok        | Epee Coach                |
+| Heidi Hendrick     | Epee Coach                |
+| Zach Brooks        | Epee & Foil Coach         |
+| Ian Rozich         | Epee & Foil Coach         |
+| Hans "Zack" Kaiser | Foil Coach                |
+| Eden Philpot       | Foil & Sabre Coach        |
+| Michael Yee        | Sabre Coach               |
