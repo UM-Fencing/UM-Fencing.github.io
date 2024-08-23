@@ -25,7 +25,7 @@ Normal gym attire is acceptable.
 All fencers must wear fencing pants or knickers with socks while fencing.
 
 # Dues
-Dues are paid per semester and cost \$100 for returning members and \$80 for first time members.
+Dues are paid per semester and cost \$100 for returning members. For new members, the first semester is free! 
 They should be given to the Treasurer with three weeks of the start of the semester.
 Dues are nonrefundable.
 
