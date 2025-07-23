@@ -32,26 +32,25 @@ Please use our [suggestions box](https://forms.gle/1ys3kGkULCnSYziw8).
 # Officers
 | Position               | Name                | Email Address                                   | Contact About                            |
 |------------------------|---------------------|-------------------------------------------------|------------------------------------------|
-| Co-President           | Ryan Ettner         | [rettner@umich.edu](mailto:rettner@umich.edu)   | Conference(s), Schedule, University Info, Practice, General Queries |
-| Co-President           | Sanil Mittal        | [sanilm@umich.edu](mailto:sanilm@umich.edu)     | Conference(s), Schedule, University Info, Practice, General Queries |
+| Co-President           | Yunhan Fang         | [yunhanf@umich.edu](mailto:rettner@umich.edu)   | Conference(s), Schedule, University Info, Practice, General Queries |
+| Co-President           | Prudence Russell    | [pjruss@umich.edu](mailto:sanilm@umich.edu)     | Conference(s), Schedule, University Info, Practice, General Queries |
 | Secretary              | Kenny Deng          | [kennyden@umich.edu](mailto:kennyden@umich.edu) | Membership, Competition Results, Rosters |
 | Treasurer              | Audrey Wu           | [wuaudrey@umich.edu](mailto:wuaudrey@umich.edu) | Dues, Equipment Orders                   |
-| Coordination Officer   | Grace Jeon          | [grcejeon@umich.edu](mailto:grcejeon@umich.edu) | Organizing Events, Fundraisers           |
-| Brand Officer          | Prudence Russell    | [pjruss@umich.edu](mailto:pjruss@umich.edu)  | Apparel, Branding                        |
-| Communications Officer | Kyle Garcia-Rogers  | [kygr@umich.edu](mailto:kygr@umich.edu)       | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
+| Coordination Officer   | Charles Welham      | [cwelham@umich.edu](mailto:cwelham@umich.edu)   | Organizing Events, Fundraisers           |
+| Brand Officer          | Antonio Rojas       | [atrojas@umich.edu](mailto:atrojas@umich.edu)   | Apparel, Branding                        |
+| Communications Officer | Isabel Mon          | [imon@umich.edu](mailto:imon@umich.edu)       | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
 
 # Captains
 | Squad                  | Name                       | Email Address                                   |
 |------------------------|----------------------------|-------------------------------------------------|
-| Men's Epee             | Ian Chu                    | [mrianchu@umich.edu ](mailto:mrianchu@umich.edu)|
-| Men's Foil             | Alexander "Sasha" Gordon   | [alexgord@umich.edu](mailto:alexgord@umich.edu) |
-| Men's Saber            | Brian Tang & Daniel Han    | [briantng@umich.edu](mailto:briantng@umich.edu) & [danielhn@umich.edu](mailto:danielhn@umich.edu)    |
-| Women's Epee           | Vivian Fernandez           | [vivianmf@umich.edu ](mailto:vivianmf@umich.edu)|
-| Women's Foil           | Ryan Ettner                | [rettner@umich.edu](mailto:rettner@umich.edu) |
-| Women's Saber          | Grace Jeon & Caroline Murphy Racette | [grcejeon@umich.edu](mailto:grcejeon@umich.edu) & [murphrac@umich.edu](mailto:murphrac@umich.edu)     |
+| Men's Epee             | Sterling Kim               | [stkimxd@umich.edu](mailto:stkimxd@umich.edu)   |
+| Men's Foil             | Kenny Deng                 | [kennyden@umich.edu](mailto:kennyden@umich.edu) |
+| Men's Saber            | Daniel Han                 | [danielhn@umich.edu](mailto:danielhn@umich.edu) |
+| Women's Epee           | Annie Lu                   | [anyuanlu@umich.edu](mailto:anyuanlu@umich.edu) |
+| Women's Foil           | Prudence Russell           | [pjruss@umich.edu](mailto:sanilm@umich.edu)     |
+| Women's Saber          | Audrey Wu                  | [wuaudrey@umich.edu](mailto:wuaudrey@umich.edu) |
 
 # Other Positions
 | Position               | Name            | Email Address                                   | Contact About                            |
 |------------------------|-----------------|-------------------------------------------------|------------------------------------------|
-| Webmaster              | Petra Mihalko   | [mihalko@umich.edu](mailto:mihalko@umich.edu)   | Website                                  |
-| Webmaster              | Peter Murray    | [pjmurray@umich.edu](mailto:pjmurray@umich.edu) | Website                                  |
+| Webmaster              | Yunhan Fang     | [yunhanf@umich.edu](mailto:yunhanf@umich.edu)   | Website                                  |
