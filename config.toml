@@ -2,7 +2,7 @@ baseurl = "https://www.um-fencing.com"
 languageCode = "en-us"
 title = "University of Michigan Fencing Club"
 theme = "club-theme"
-copyright = "(c) 2024 University of Michigan Fencing Club"
+copyright = "(c) 2025 University of Michigan Fencing Club"
 
 [markup]
   [markup.goldmark]
