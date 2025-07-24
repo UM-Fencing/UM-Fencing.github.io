@@ -38,7 +38,7 @@ Please use our [suggestions box](https://forms.gle/1ys3kGkULCnSYziw8).
 | Treasurer              | Audrey Wu           | [wuaudrey@umich.edu](mailto:wuaudrey@umich.edu) | Dues, Equipment Orders                   |
 | Coordination Officer   | Charles Welham      | [cwelham@umich.edu](mailto:cwelham@umich.edu)   | Organizing Events, Fundraisers           |
 | Brand Officer          | Antonio Rojas       | [atrojas@umich.edu](mailto:atrojas@umich.edu)   | Apparel, Branding                        |
-| Communications Officer | Isabel Mon          | [imon@umich.edu](mailto:imon@umich.edu)       | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
+| Communications Officer | Isabel Mon          | [imon@umich.edu](mailto:imon@umich.edu)         | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
 
 # Captains
 | Squad                  | Name                       | Email Address                                   |
