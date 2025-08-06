@@ -11,22 +11,18 @@ image = "../img/Fencing Team 2016.jpg"
 
 | Name                          | Weapon                        | Year        | Hometown               |
 |-------------------------------|-------------------------------|-------------|------------------------|
-| Ian Chu (**Captain**)         | Epee                          | SR          | Bozeman, MT            |
+| Sterling Kim (**Captain**)    | Epee                          | JR          | ---------              |
 | Yunhan Fang                   | Epee                          | SO          | --------               |
-| Kyle Garcia-Rogers            | Epee                          | SR          | North Reading, MA      |
 | Lucas Garcia-Rogers           | Epee                          | SO          | North Reading, MA      |
 | Ryan Kersten                  | Epee                          | JR          | Ann Arbor, MI          |
-| Sterling Kim                  | Epee                          | JR          | ---------              |
 | Andrew Letton                 | Epee                          | SO          | ---------              |
-| Sanil Mittal                  | Epee                          | SR          | New Delhi, India       |
 | Mitchell Schrank              | Epee                          | Non-Student | Wilmette, IL           |
 | Kevin Senra Rivero            | Epee                          | JR          | ---------              |
 | Steven Teh                    | Epee                          | SO          | ---------              |
 | Kevin Wang                    | Epee                          | JR          | ---------              |
 | Christopher Zheng             | Epee                          | SO          | ---------              |
-| Kenny Deng                    | Foil                          | SO          | ---------              |
-| Atticus Driver                | Foil                          | SR          | Yuba City, CA          |
-| Alexander "Sasha" Gordon (**Captain**)     | Foil             | JR          | Hastings-on-Hudson, NY |
+| Kenny Deng (**Captain**)      | Foil                          | SO          | ---------              |
+| Alexander "Sasha" Gordon      | Foil                          | JR          | Hastings-on-Hudson, NY |
 | Jacob Mack                    | Foil                          | SO          | ---------              |
 | Colin McLintock               | Foil                          | SO          | ---------              |
 | Luke Richardson               | Foil                          | SO          | ---------              |
@@ -36,9 +32,7 @@ image = "../img/Fencing Team 2016.jpg"
 | Daniel Han (**Captain**)      | Saber                         | SO          | ---------              |
 | Jake Joseph                   | Saber                         | SO          | ---------              |
 | Michael Mancuso               | Saber                         | FR          | West Windsor, NJ       |
-| Brian Tang (**Captain**)      | Saber                         | Grad        | ---------              |
 | Frank Wang                    | Saber                         | SO          | ---------              |
-| Jonathan Wang                 | Saber                         | SR          | Troy, MI               |
 | Aeres Zhou                    | Saber                         | SO          | ---------              |
 
 
@@ -46,27 +40,21 @@ image = "../img/Fencing Team 2016.jpg"
 
 | Name                              | Weapon                        | Year      | Hometown               |
 |-----------------------------------|-------------------------------|-----------|------------------------|
-| Vivian Fernandez (**Captain**)    | Epee                          | Grad      | New York, NY           |
-| Yeji Kim                          | Epee                          | SO        | ------------           |
+| Annie Lu (**Captain**)            | Epee                          | Grad      | Chicago, IL            |
 | Sophia Lupton                     | Epee                          | JR        | New York, NY           |
 | Shreshta Prabhu                   | Epee                          | SO        | ------------           |
 | Caroline Reiss                    | Epee                          | SO        | ------------           |
 | Priscilla Xu                      | Epee                          | SO        | ------------           |
-| Ryan Ettner (**Captain**)         | Foil                          | SO        | Culver City, CA        |
 | Isabel Mon                        | Foil                          | SO        | ------------           |
-| Prudence Russell                  | Foil                          | SO        | Edina, MN              |
+| Prudence Russell (**Captain**)    | Foil                          | SO        | Edina, MN              |
 | Jiajia Fan                        | Saber                         | SO        | ------------           |
 | Lia Ham                           | Saber                         | SO        | ------------           |
 | Phineas Imhoff                    | Saber                         | JR        | ------------           |
-| Grace Jeon (**Captain**)          | Saber                         | SR        | ------------           |
-| Emerson Lauster                   | Saber                         | SR        | ------------           |
-| Petra Mihalko                     | Saber                         | SR        | Grosse Ile, MI         |
-| Caroline Murphy-Racette (**Captain**) | Saber                     | Grad      | Wellesley, MA          | 
 | Agamjot Sangotra                  | Saber                         | Grad      | Montgomery, NJ         |
 | Sarah Squadrito                   | Saber                         | JR        | Bernardsville, NJ      |
 | Anna Schellin                     | Saber                         | Grad      | ------------           |
 | Kiara Simpao                      | Saber                         | SO        | ------------           |
-| Audrey Wu                         | Saber                         | SO        | ------------           |
+| Audrey Wu (**Captain**)           | Saber                         | SO        | ------------           |
 | Michelle Wu                       | Saber                         | JR        | Ridgewood, NJ          |
 
 # Coaches
