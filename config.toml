@@ -78,3 +78,8 @@ copyright = "(c) 2025 University of Michigan Fencing Club"
   name = "Donate"
   url = "/donate/"
   weight = "7"
+
+[[menu.main]]
+  name = "Welcome"
+  url = "/Welcome/"
+  weight = "8"
