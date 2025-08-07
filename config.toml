@@ -12,7 +12,7 @@ copyright = "(c) 2025 University of Michigan Fencing Club"
 [params]
   noCategoryLink = true
   description = "The top collegiate fencing club in the nation."
-  image = "img/2017_CFC_team_with_trophies.png"
+  image = "img/2025national.JPG"
   themeColor = "#003e78"
 
   # Google Calendar ID used to embed agenda in sidebar.
