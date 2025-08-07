@@ -2,7 +2,7 @@
 categories = ["general"]
 tags = ["document"]
 title = "Roster"
-description = "The 2021-2022 team"
+description = "The 2025-2026 team"
 noshowdate = true
 image = "../img/DSC_6747.JPG"
 +++
