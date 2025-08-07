@@ -4,7 +4,7 @@ date = "2016-06-28T14:07:29-07:00"
 tags = ["document"]
 title = "About Fencing"
 noshowdate = true
-image = "../img/about.jpg"
+image = "../img/womensabre2025.JPG"
 +++
 
 The sport of fencing has three weapons: foil, epee and saber.
