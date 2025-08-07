@@ -4,7 +4,7 @@ date = "2016-06-28T14:00:17-07:00"
 tags = ["document"]
 title = "Join"
 noshowdate = true
-image = "../img/20250422_84717 PM_AE0D40.png"
+image = "../img/20250422_84717 PM_AE0D40.jpg"
 +++
 
 
