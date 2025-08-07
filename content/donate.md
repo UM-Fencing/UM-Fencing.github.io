@@ -4,7 +4,7 @@ date = "2016-06-28T14:49:10-07:00"
 tags = ["document"]
 title = "Donate"
 noshowdate = true
-image = "../img/formal2016.jpg"
+image = "../img/DSC_0048.JPG"
 +++
 
 The University of Michigan Fencing Club is excited about the upcoming season.
