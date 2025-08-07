@@ -4,7 +4,7 @@ tags = ["document"]
 title = "Roster"
 description = "The 2021-2022 team"
 noshowdate = true
-image = "../img/Fencing Team 2016.jpg"
+image = "../img/DSC_6747.JPG"
 +++
 
 # Men's Team
