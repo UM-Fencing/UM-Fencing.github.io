@@ -11,7 +11,7 @@ image = "../img/DSC_6747.JPG"
 
 | Name                          | Weapon                        | Year        | Hometown               |
 |-------------------------------|-------------------------------|-------------|------------------------|
-| Sterling Kim (**Captain**)    | Epee                          | JR          | ---------              |
+| Sterling Kim (**Captain**)    | Epee                          | SR          | ---------              |
 | Yunhan Fang                   | Epee                          | SO          | --------               |
 | Lucas Garcia-Rogers           | Epee                          | SO          | North Reading, MA      |
 | Ryan Kersten                  | Epee                          | JR          | Ann Arbor, MI          |
