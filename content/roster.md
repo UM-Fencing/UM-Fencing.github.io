@@ -69,4 +69,4 @@ image = "../img/DSC_6747.JPG"
 | Roland Kwok        | Epee Coach                |
 | Zach Brooks        | Epee & Foil Coach         |
 | Hans "Zack" Kaiser | Foil Coach                |
-| Michael Yee        | Sabre Coach               |
+| Michael Yee        | Foil & Sabre Coach        |
