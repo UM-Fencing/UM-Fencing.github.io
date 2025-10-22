@@ -53,4 +53,4 @@ Please use our [suggestions box](https://forms.gle/1ys3kGkULCnSYziw8).
 # Other Positions
 | Position               | Name            | Email Address                                   | Contact About                            |
 |------------------------|-----------------|-------------------------------------------------|------------------------------------------|
-| Webmaster              | Yunhan Fang     | [yunhanf@umich.edu](mailto:yunhanf@umich.edu)   | Website                                  |
+| Webmaster              | Kenny Deng      | [kennyden@umich.edu](mailto:kennyden@umich.edu) | Website                                  |
