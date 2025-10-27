@@ -17,7 +17,6 @@ image = "../img/DSC_6747.JPG"
 | Mitchell Schrank              | Epee                          | Non-Student | Wilmette, IL           |
 | Luke Beaudoin                 | Epee                          | FR          | ---------              |
 | Loïc Hairabedian              | Epee                          | FR          | ---------              |
-| Dash Heath                    | Epee                          | SO          | ---------              |
 | Daniel Li                     | Epee                          | Grad        | ---------              |
 | Owen Moore                    | Epee                          | SO          | ---------              |
 | Kaito Patterson               | Epee                          | FR          | ---------              |
@@ -32,7 +31,7 @@ image = "../img/DSC_6747.JPG"
 | Tyler Stemler                 | Foil                          | FR          | ---------              |
 | Daniel Han (**Captain**)      | Saber                         | JR          | ---------              |
 | Frank Wang                    | Saber                         | SR          | ---------              |
-| Charlie Welham                | Saber                         |             | ---------              |
+| Charlie Welham                | Saber                         | SO          | ---------              |
 | Kevin Chow                    | Saber                         | FR          | ---------              |
 | Brian Guo                     | Saber                         | FR          | ---------              |
 | James Lederman                | Saber                         | SO          | ---------              |
@@ -48,6 +47,7 @@ image = "../img/DSC_6747.JPG"
 | Victoria Hwang                    | Epee                          | FR        | ---------              |
 | Fuduo Yuan                        | Epee                          | FR        | ---------              |
 | Reganne Watt                      | Epee                          | SR        | ---------              |
+| Dash Heath                        | Epee                          | SO        | ---------              |
 | Nour Kayali                       | Epee                          | Grad      | ---------              |
 | Prudence Russell (**Captain**)    | Foil                          | SR        | Edina, MN              |
 | Prudence Soto                     | Foil                          | FR        | ---------              |
