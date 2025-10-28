@@ -21,11 +21,12 @@ image = "../img/DSC_6747.JPG"
 | Owen Moore                    | Epee                          | SO          | ---------              |
 | Kaito Patterson               | Epee                          | FR          | ---------              |
 | Kenny Deng (**Captain**)      | Foil                          | JR          | Newton, MA             |
-| Jacob Mack                    | Foil                          | Grad        | ---------              |
+| Jacob Mack                    | Foil                          | Grad        | Rochester Hills, MI    |
 | Ethan Green                   | Foil                          | SO          | ---------              |
 | Ares Mei                      | Foil                          | SO          | ---------              |
 | Ben Towne                     | Foil                          | FR          | ---------              |
 | Nick Pan                      | Foil                          | SO          | ---------              |
+| Nathan Ege                    | Foil                          | FR          | Millburn, NJ           |
 | Antonio Rojas                 | Foil                          | SO          | ---------              |
 | Martin Rodriguez              | Foil                          | Grad        | Houston, TX            |
 | Tyler Stemler                 | Foil                          | FR          | ---------              |
@@ -38,6 +39,7 @@ image = "../img/DSC_6747.JPG"
 | Vincent Wang                  | Saber                         | SO          | ---------              |
 | James Yen                     | Saber                         | Grad        | ---------              |
 | Leo Zhou                      | Saber                         | FR          | ---------              |
+| Justin Chen                   | Saber                         | FR          | NJ                     |
 
 # Women's Team
 
