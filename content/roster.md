@@ -34,7 +34,7 @@ image = "../img/DSC_6747.JPG"
 | Frank Wang                    | Saber                         | SR          | ---------              |
 | Charlie Welham                | Saber                         | SO          | ---------              |
 | Kevin Chow                    | Saber                         | FR          | ---------              |
-| Brian Guo                     | Saber                         | FR          | ---------              |
+| Brian Guo                     | Saber                         | FR          | San Diego, CA          |
 | James Lederman                | Saber                         | SO          | ---------              |
 | Vincent Wang                  | Saber                         | SO          | ---------              |
 | James Yen                     | Saber                         | Grad        | ---------              |
