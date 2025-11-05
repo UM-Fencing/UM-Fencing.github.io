@@ -16,7 +16,7 @@ image = "../img/DSC_6747.JPG"
 | Ryan Kersten                  | Epee                          | SR          | Ann Arbor, MI          |
 | Mitchell Schrank              | Epee                          | Non-Student | Wilmette, IL           |
 | Luke Beaudoin                 | Epee                          | FR          | ---------              |
-| Loïc Hairabedian              | Epee                          | FR          | ---------              |
+| Loïc Hairabedian              | Epee                          | FR          | Manhasset, NY          |
 | Daniel Li                     | Epee                          | Grad        | ---------              |
 | Owen Moore                    | Epee                          | SO          | ---------              |
 | Kaito Patterson               | Epee                          | FR          | ---------              |
@@ -31,15 +31,16 @@ image = "../img/DSC_6747.JPG"
 | Martin Rodriguez              | Foil                          | Grad        | Houston, TX            |
 | Tyler Stemler                 | Foil                          | FR          | ---------              |
 | Daniel Han (**Captain**)      | Saber                         | JR          | ---------              |
-| Frank Wang                    | Saber                         | SR          | ---------              |
+| Frank Wang                    | Saber                         | SR          | Shenzhen, China        |
 | Charlie Welham                | Saber                         | SO          | ---------              |
 | Kevin Chow                    | Saber                         | FR          | ---------              |
 | Brian Guo                     | Saber                         | FR          | San Diego, CA          |
 | James Lederman                | Saber                         | SO          | ---------              |
 | Vincent Wang                  | Saber                         | SO          | ---------              |
 | James Yen                     | Saber                         | Grad        | ---------              |
-| Leo Zhou                      | Saber                         | FR          | ---------              |
+| Leo Zhou                      | Saber                         | JR          | Shanghai, China        |
 | Justin Chen                   | Saber                         | FR          | NJ                     |
+| Orlando De Jesus              | Saber                         | JR          | ---------              |
 
 # Women's Team
 
@@ -54,6 +55,7 @@ image = "../img/DSC_6747.JPG"
 | Prudence Russell (**Captain**)    | Foil                          | SR        | Edina, MN              |
 | Prudence Soto                     | Foil                          | FR        | ---------              |
 | Celia Crompton                    | Foil                          | Grad      | ---------              |
+| Michela Marchini                  | Foil                          | Grad      | New York City, NY      |
 | Isabel Mon                        | Foil                          | SR        | ------------           |
 | Audrey Wu (**Captain**)           | Saber                         | JR        | ------------           |
 | Jiajia Fan                        | Saber                         | JR        | ------------           |
