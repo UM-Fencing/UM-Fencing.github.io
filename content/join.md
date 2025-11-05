@@ -30,7 +30,7 @@ They should be given to the Treasurer with three weeks of the start of the semes
 Dues are nonrefundable.
 
 # Membership
-We impose no membership restrictions beyond those of the University of Michigan Recreational Sports and Club Sports departments.
+We impose no membership restrictions beyond those of Michigan Recreation and the Club Sports departments.
 In short, all members must be students, faculty, or staff at the University (including Flint and Dearborn campuses) with proof of medical insurance.
 
 To become a member for a term of the University of Michigan Fencing Club, one must pay the term's membership dues as announced by the Officers.
