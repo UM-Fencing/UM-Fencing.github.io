@@ -14,7 +14,6 @@ image = "../img/DSC_6747.JPG"
 | Sterling Kim (**Captain**)    | Epee                          | SR          | Los Angeles, CA        |
 | Yunhan Fang                   | Epee                          | JR          | --------               |
 | Ryan Kersten                  | Epee                          | SR          | Ann Arbor, MI          |
-| Mitchell Schrank              | Epee                          | Non-Student | Wilmette, IL           |
 | Luke Beaudoin                 | Epee                          | FR          | ---------              |
 | Loïc Hairabedian              | Epee                          | FR          | Manhasset, NY          |
 | Daniel Li                     | Epee                          | Grad        | ---------              |
@@ -26,11 +25,11 @@ image = "../img/DSC_6747.JPG"
 | James McGovern                | Foil                          | SO          | ---------              |
 | Ares Mei                      | Foil                          | SO          | ---------              |
 | Ben Towne                     | Foil                          | FR          | MI                     |
+| Tyler Stemler                 | Foil                          | FR          | Midland, MI            |
 | Nick Pan                      | Foil                          | SO          | ---------              |
 | Nathan Ege                    | Foil                          | FR          | Millburn, NJ           |
 | Antonio Rojas                 | Foil                          | SO          | Lancing, MI            |
 | Martin Rodriguez              | Foil                          | Grad        | Houston, TX            |
-| Tyler Stemler                 | Foil                          | FR          | Midland, MI            |
 | Daniel Han (**Captain**)      | Saber                         | JR          | Mount Sinai, NY        |
 | Frank Wang                    | Saber                         | SR          | Shenzhen, China        |
 | Charlie Welham                | Saber                         | SO          | Boomfield Hills, MI    |
