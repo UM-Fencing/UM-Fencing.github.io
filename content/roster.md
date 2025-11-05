@@ -11,7 +11,7 @@ image = "../img/DSC_6747.JPG"
 
 | Name                          | Weapon                        | Year        | Hometown               |
 |-------------------------------|-------------------------------|-------------|------------------------|
-| Sterling Kim (**Captain**)    | Epee                          | SR          | ---------              |
+| Sterling Kim (**Captain**)    | Epee                          | SR          | Los Angeles, CA        |
 | Yunhan Fang                   | Epee                          | JR          | --------               |
 | Ryan Kersten                  | Epee                          | SR          | Ann Arbor, MI          |
 | Mitchell Schrank              | Epee                          | Non-Student | Wilmette, IL           |
@@ -22,15 +22,15 @@ image = "../img/DSC_6747.JPG"
 | Kaito Patterson               | Epee                          | FR          | ---------              |
 | Kenny Deng (**Captain**)      | Foil                          | JR          | Newton, MA             |
 | Jacob Mack                    | Foil                          | Grad        | Rochester Hills, MI    |
-| Ethan Green                   | Foil                          | SO          | ---------              |
+| Ethan Green                   | Foil                          | SO          | Toledo, OH             |
 | Ares Mei                      | Foil                          | SO          | ---------              |
-| Ben Towne                     | Foil                          | FR          | ---------              |
+| Ben Towne                     | Foil                          | FR          | MI                     |
 | Nick Pan                      | Foil                          | SO          | ---------              |
 | Nathan Ege                    | Foil                          | FR          | Millburn, NJ           |
-| Antonio Rojas                 | Foil                          | SO          | ---------              |
+| Antonio Rojas                 | Foil                          | SO          | Lancing, MI            |
 | Martin Rodriguez              | Foil                          | Grad        | Houston, TX            |
 | Tyler Stemler                 | Foil                          | FR          | ---------              |
-| Daniel Han (**Captain**)      | Saber                         | JR          | ---------              |
+| Daniel Han (**Captain**)      | Saber                         | JR          | Mount Sinai, NY        |
 | Frank Wang                    | Saber                         | SR          | Shenzhen, China        |
 | Charlie Welham                | Saber                         | SO          | ---------              |
 | Kevin Chow                    | Saber                         | FR          | ---------              |
@@ -53,16 +53,16 @@ image = "../img/DSC_6747.JPG"
 | Dash Heath                        | Epee                          | SO        | ---------              |
 | Nour Kayali                       | Epee                          | Grad      | ---------              |
 | Prudence Russell (**Captain**)    | Foil                          | SR        | Edina, MN              |
-| Prudence Soto                     | Foil                          | FR        | ---------              |
 | Celia Crompton                    | Foil                          | Grad      | ---------              |
 | Michela Marchini                  | Foil                          | Grad      | New York City, NY      |
-| Isabel Mon                        | Foil                          | SR        | ------------           |
-| Audrey Wu (**Captain**)           | Saber                         | JR        | ------------           |
-| Jiajia Fan                        | Saber                         | JR        | ------------           |
-| Lia Ham                           | Saber                         | JR        | ------------           |
+| Isabel Mon                        | Foil                          | SR        | GA                     |
+| Prudence Soto                     | Foil                          | FR        | ---------              |
+| Audrey Wu (**Captain**)           | Saber                         | JR        | Northville, MI         |
+| Jiajia Fan                        | Saber                         | JR        | ---------              |
+| Lia Ham                           | Saber                         | JR        | Kalamazoo, MI          |
 | Anna Schellin                     | Saber                         | Grad      | ------------           |
 | Kiara Simpao                      | Saber                         | Grad      | ------------           |
-| Leena Mansperger                  | Saber                         | SO        | ---------              |
+| Leena Mansperger                  | Saber                         | SO        | New York City, NY      |
 | Anna Schellin                     | Saber                         | Grad      | ---------              |
 | Amanda Walker                     | Saber                         | FR        | ---------              |
 
