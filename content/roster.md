@@ -12,7 +12,7 @@ image = "../img/DSC_6747.JPG"
 | Name                          | Weapon                        | Year        | Hometown               |
 |-------------------------------|-------------------------------|-------------|------------------------|
 | Sterling Kim (**Captain**)    | Epee                          | SR          | Los Angeles, CA        |
-| Yunhan Fang                   | Epee                          | JR          | --------               |
+| Yunhan Fang                   | Epee                          | JR          | Shenyang, China        |
 | Ryan Kersten                  | Epee                          | SR          | Ann Arbor, MI          |
 | Luke Beaudoin                 | Epee                          | FR          | ---------              |
 | Loïc Hairabedian              | Epee                          | FR          | Manhasset, NY          |
