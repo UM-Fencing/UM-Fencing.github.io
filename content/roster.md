@@ -26,11 +26,11 @@ image = "../img/DSC_6747.JPG"
 | Ares Mei                      | Foil                          | SO          | ---------              |
 | Ben Towne                     | Foil                          | FR          | MI                     |
 | Tyler Stemler                 | Foil                          | FR          | Midland, MI            |
-| Nick Pan                      | Foil                          | SO          | ---------              |
+| Nick Pan                      | Foil                          | SO          | Kunshan, China         |
 | Nathan Ege                    | Foil                          | FR          | Millburn, NJ           |
 | Antonio Rojas                 | Foil                          | SO          | Lancing, MI            |
 | Martin Rodriguez              | Foil                          | Grad        | Houston, TX            |
-| Daniel Han (**Captain**)      | Saber                         | JR          | Mount Sinai, NY        |
+| Daniel Han (**Captain**)      | Saber                         | JR          | Long Island, NY        |
 | Frank Wang                    | Saber                         | SR          | Shenzhen, China        |
 | Charlie Welham                | Saber                         | SO          | Boomfield Hills, MI    |
 | Kevin Chow                    | Saber                         | JR          | West Des Moines, IA    |
@@ -56,6 +56,7 @@ image = "../img/DSC_6747.JPG"
 | Celia Crompton                    | Foil                          | Grad      | ---------              |
 | Michela Marchini                  | Foil                          | Grad      | New York City, NY      |
 | Isabel Mon                        | Foil                          | SR        | Atlanta, GA            |
+| Siti Sultan                       | Foil                          | JR        | Malaysia               |
 | Prudence Soto                     | Foil                          | FR        | ---------              |
 | Audrey Wu (**Captain**)           | Saber                         | JR        | Northville, MI         |
 | Jiajia Fan                        | Saber                         | JR        | ---------              |
