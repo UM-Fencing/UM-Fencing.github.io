@@ -17,7 +17,7 @@ image = "../img/DSC_6747.JPG"
 | Luke Beaudoin                 | Epee                          | FR          | ---------              |
 | Loïc Hairabedian              | Epee                          | FR          | Manhasset, NY          |
 | Daniel Li                     | Epee                          | Grad        | ---------              |
-| Owen Moore                    | Epee                          | SO          | ---------              |
+| Owen Moore                    | Epee                          | SO          | Okemos, MI             |
 | Kaito Patterson               | Epee                          | FR          | ---------              |
 | Kenny Deng (**Captain**)      | Foil                          | JR          | Newton, MA             |
 | Jacob Mack                    | Foil                          | Grad        | Rochester Hills, MI    |
