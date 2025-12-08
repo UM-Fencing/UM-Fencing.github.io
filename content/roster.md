@@ -47,7 +47,7 @@ image = "../img/DSC_6747.JPG"
 | Name                              | Weapon                        | Year      | Hometown               |
 |-----------------------------------|-------------------------------|-----------|------------------------|
 | Annie Lu (**Captain**)            | Epee                          | Grad      | Chicago, IL            |
-| Victoria Hwang                    | Epee                          | FR        | ---------              |
+| Victoria Hwang                    | Epee                          | FR        | Farmington Hills, MI   |
 | Fuduo Yuan                        | Epee                          | Grad      | ---------              |
 | Reganne Watts                     | Epee                          | SR        | ---------              |
 | Dash Heath                        | Epee                          | SO        | ---------              |
