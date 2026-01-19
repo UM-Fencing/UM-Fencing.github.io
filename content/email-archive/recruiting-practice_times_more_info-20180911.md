@@ -18,8 +18,8 @@ Dear new fencers,
 Thanks to those who came to our mass meeting last night! We hope you had fun learning some basics! If you couldn't make it, don't worry—you can attend any future practice and let us know you're a beginner!
 
 Our practice schedule is  
-Monday: 6–9 pm,  
-Wednesday: 6–9 pm,  
+Tuesday: 7–9 pm,  
+Thursday: 7–9 pm,  
 Friday: 7–9 pm.  
 
 While we highly recommend you come to as much practice as you can early on, there is no attendance policy, nor tryouts or cuts. You will learn faster the more practice you come to now.
