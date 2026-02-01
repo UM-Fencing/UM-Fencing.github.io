@@ -32,8 +32,8 @@ Please use our [suggestions box](https://forms.gle/jgLxrP3zrSTAueLGA).
 # Officers
 | Position               | Name                | Email Address                                   | Contact About                            |
 |------------------------|---------------------|-------------------------------------------------|------------------------------------------|
-| Co-President           | Yunhan Fang         | [yunhanf@umich.edu](mailto:rettner@umich.edu)   | Conference(s), Schedule, University Info, Practice, General Queries |
 | Co-President           | Prudence Russell    | [pjruss@umich.edu](mailto:sanilm@umich.edu)     | Conference(s), Schedule, University Info, Practice, General Queries |
+| Co-President           | Yunhan Fang         | [yunhanf@umich.edu](mailto:rettner@umich.edu)   | Conference(s), Schedule, University Info, Practice, General Queries |
 | Secretary              | Kenny Deng          | [kennyden@umich.edu](mailto:kennyden@umich.edu) | Membership, Travel, Competition Results, Rosters |
 | Treasurer              | Audrey Wu           | [wuaudrey@umich.edu](mailto:wuaudrey@umich.edu) | Dues, Equipment Orders                   |
 | Coordination Officer   | Charles Welham      | [cwelham@umich.edu](mailto:cwelham@umich.edu)   | Organizing Events, Fundraisers           |
