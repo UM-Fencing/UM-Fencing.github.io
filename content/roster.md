@@ -41,6 +41,7 @@ image = "../img/DSC_6747.JPG"
 | Leo Zhou                      | Saber                         | JR          | Shanghai, China        |
 | Justin Chen                   | Saber                         | FR          | Whippany, NJ           |
 | Orlando De Jesus              | Saber                         | JR          | ---------              |
+| Gareth Tatum                  | Saber                         | SO          | Mercer Island, WA      |
 
 # Women's Team
 
