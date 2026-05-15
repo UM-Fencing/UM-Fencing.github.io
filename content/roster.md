@@ -12,7 +12,6 @@ image = "../img/DSC_6747.JPG"
 | Name                          | Weapon                        | Year        | Hometown               |
 |-------------------------------|-------------------------------|-------------|------------------------|
 | Sterling Kim (**Captain**)    | Epee                          | SR          | Los Angeles, CA        |
-| Yunhan Fang                   | Epee                          | JR          | Shenyang, China        |
 | Luke Beaudoin                 | Epee                          | FR          | ---------              |
 | Loïc Hairabedian              | Epee                          | FR          | Manhasset, NY          |
 | Daniel Li                     | Epee                          | Grad        | ---------              |
@@ -30,13 +29,11 @@ image = "../img/DSC_6747.JPG"
 | Antonio Rojas                 | Foil                          | SO          | Lancing, MI            |
 | Martin Rodriguez              | Foil                          | Grad        | Houston, TX            |
 | Daniel Han (**Captain**)      | Saber                         | JR          | Long Island, NY        |
-| Frank Wang                    | Saber                         | SR          | Shenzhen, China        |
 | Charlie Welham                | Saber                         | SO          | Boomfield Hills, MI    |
 | Kevin Chow                    | Saber                         | JR          | West Des Moines, IA    |
 | Brian Guo                     | Saber                         | FR          | San Diego, CA          |
 | James Lederman                | Saber                         | SO          | South Orange, NJ       |
 | Vincent Wang                  | Saber                         | SO          | Manistee, MI           |
-| James Yen                     | Saber                         | Grad        | ---------              |
 | Leo Zhou                      | Saber                         | JR          | Shanghai, China        |
 | Justin Chen                   | Saber                         | FR          | Whippany, NJ           |
 | Orlando De Jesus              | Saber                         | JR          | ---------              |
@@ -49,19 +46,15 @@ image = "../img/DSC_6747.JPG"
 | Annie Lu (**Captain**)            | Epee                          | Grad      | Chicago, IL            |
 | Victoria Hwang                    | Epee                          | FR        | Farmington Hills, MI   |
 | Fuduo Yuan                        | Epee                          | Grad      | ---------              |
-| Reganne Watts                     | Epee                          | SR        | ---------              |
 | Dash Heath                        | Epee                          | SO        | ---------              |
 | Nour Kayali                       | Epee                          | Grad      | ---------              |
 | Prudence Russell (**Captain**)    | Foil                          | SR        | Edina, MN              |
-| Celia Crompton                    | Foil                          | Grad      | ---------              |
 | Michela Marchini                  | Foil                          | Grad      | New York City, NY      |
-| Isabel Mon                        | Foil                          | SR        | Atlanta, GA            |
 | Siti Sultan                       | Foil                          | JR        | Malaysia               |
 | Prudence Soto                     | Foil                          | FR        | ---------              |
 | Audrey Wu (**Captain**)           | Saber                         | JR        | Northville, MI         |
 | Jiajia Fan                        | Saber                         | JR        | ---------              |
 | Lia Ham                           | Saber                         | JR        | Kalamazoo, MI          |
-| Kiara Simpao                      | Saber                         | Grad      | San Francisco, CA      |
 | Leena Mansperger                  | Saber                         | SO        | New York City, NY      |
 | Anna Schellin                     | Saber                         | Grad      | Vernon Hills, IL       |
 | Amanda Walker                     | Saber                         | FR        | ---------              |
