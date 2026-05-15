@@ -32,13 +32,13 @@ Please use our [suggestions box](https://forms.gle/jgLxrP3zrSTAueLGA).
 # Officers
 | Position               | Name                | Email Address                                   | Contact About                            |
 |------------------------|---------------------|-------------------------------------------------|------------------------------------------|
-| Co-President           | Prudence Russell    | [pjruss@umich.edu](mailto:sanilm@umich.edu)     | Conference(s), Schedule, University Info, Practice, General Queries |
-| Co-President           | Yunhan Fang         | [yunhanf@umich.edu](mailto:rettner@umich.edu)   | Conference(s), Schedule, University Info, Practice, General Queries |
-| Secretary              | Kenny Deng          | [kennyden@umich.edu](mailto:kennyden@umich.edu) | Membership, Travel, Competition Results, Rosters |
-| Treasurer              | Audrey Wu           | [wuaudrey@umich.edu](mailto:wuaudrey@umich.edu) | Dues, Equipment Orders                   |
-| Coordination Officer   | Charles Welham      | [cwelham@umich.edu](mailto:cwelham@umich.edu)   | Organizing Events, Fundraisers           |
-| Brand Officer          | Ethan Green         | [ewrgreen@umich.edu](mailto:ewrgreen@umich.edu)   | Apparel, Branding                        |
-| Communications Officer | Isabel Mon          | [imon@umich.edu](mailto:imon@umich.edu)         | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
+| Co-President           | Audrey Wu           | [wuaudrey@umich.edu](mailto:wuaudrey@umich.edu) | Conference(s), Schedule, University Info, Practice, General Queries |
+| Co-President           | Kenny Deng          | [kennyden@umich.edu](mailto:kennyden@umich.edu) | Conference(s), Schedule, University Info, Practice, General Queries |
+| Secretary              | Charlie Welham      | [cwelham@umich.edu](mailto:cwelham@umich.edu)   | Membership, Travel, Competition Results, Rosters |
+| Treasurer              | Ethan Green         | [ewrgreen@umich.edu](mailto:ewrgreen@umich.edu) | Dues, Equipment Orders                   |
+| Coordination Officer   | Victoria Hwang      | [vichwang@umich.edu](mailto:vichwang@umich.edu) | Organizing Events, Fundraisers           |
+| Brand Officer          | James McGovern      | [jamesmcg@umich.edu](mailto:jamesmcg@umich.edu) | Apparel, Branding                        |
+| Communications Officer | Prudence Russell    | [pjruss@umich.edu](mailto:pjruss@umich.edu)     | Social Media, Photos/Videos, Mentorship, Alumni Events & Inquiries  |
 
 # Captains
 | Squad                  | Name                       | Email Address                                   |
@@ -53,4 +53,4 @@ Please use our [suggestions box](https://forms.gle/jgLxrP3zrSTAueLGA).
 # Other Positions
 | Position               | Name            | Email Address                                   | Contact About                            |
 |------------------------|-----------------|-------------------------------------------------|------------------------------------------|
-| Webmaster              | Kenny Deng      | [kennyden@umich.edu](mailto:kennyden@umich.edu) | Website                                  |
+| Webmaster              | Charlie Welham  | [cwelham@umich.edu](mailto:cwelham@umich.edu)   | Website                                  |
