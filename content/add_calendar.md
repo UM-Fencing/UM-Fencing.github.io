@@ -7,10 +7,5 @@ title = "Add Our Calendar"
 +++
 
 ## To add the UMFC calendar to Google Calendar:
-1. Visit <a target="_blank" href="https://calendar.googe.com">Google Calendar</a>.
-2. Click on the arrow next to "Other Calendars."
-3. Select "Add a friend's calendar."
-4. Paste in <pre>c_bb23ea3e1dc4d5534b53566ba5955e9bf051104f80de5bc1cb14a5595e6bbbf1@group.calendar.google.com</pre>
-5. Click "Add."
-
-![Steps 2 and 3](../img/add-calendar.jpg)
+1. Visit <a target="_blank" href="[https://calendar.googe.com](https://calendar.google.com/calendar/u/1?cid=Y19mMjljZDZkNTZiZDE2ZWFkMTY1YTgzMjBkNGVlZjVlNDdiZDMxMGZjMDA2M2JhYTVhZWUxZGVjYjg5NTU2MzM5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)">Google Calendar</a>.
+2. Click on "Add Calendar"
