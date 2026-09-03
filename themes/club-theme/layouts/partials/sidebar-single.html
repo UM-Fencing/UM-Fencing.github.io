@@ -6,8 +6,10 @@
             <div class="sidebar-module">
                     <h4 class="sidebar-heading">Practice</h4>
                     {{ with .Site.Params.practiceTimes.sunday }}<strong>Sundays</strong>: {{ . }}<br>{{ end }}
-                    {{ with .Site.Params.practiceTimes.monday }}<strong>Mondays</strong>: {{ . }}<br>{{ end }}
+				    {{ with .Site.Params.practiceTimes.sunday }}<strong>Mondays</strong>: {{ . }}<br>{{ end }}
+                    {{ with .Site.Params.practiceTimes.monday }}<strong>Tuesdays</strong>: {{ . }}<br>{{ end }}
                     {{ with .Site.Params.practiceTimes.wednesday }}<strong>Wednesdays</strong>: {{ . }}<br>{{ end }}
+				    {{ with .Site.Params.practiceTimes.sunday }}<strong>Thursdays</strong>: {{ . }}<br>{{ end }}
                     {{ with .Site.Params.practiceTimes.friday }}<strong>Fridays</strong>: {{ . }}<br>{{ end }}
                     {{ with .Site.Params.practiceTimes.saturday }}<strong>Saturdays</strong>: {{ . }}<br>{{ end }}
                 {{ with .Site.Params.practiceLocation }} at {{ . | markdownify }}{{ end }}
